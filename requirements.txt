@@ -1,3 +1,6 @@
 streamlit
 groq
+pdfplumber
+PyPDF2
 python-dotenv
+gTTS
