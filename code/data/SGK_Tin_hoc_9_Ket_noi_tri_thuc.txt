@@ -1,0 +1,433 @@
+
+=============================================================
+SÁCH GIÁO KHOA TIN HỌC 9 - BỘ KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+Biên soạn theo chương trình Bộ GD&ĐT 2018
+=============================================================
+
+=== CHỦ ĐỀ 1: MÁY TÍNH VÀ XÃ HỘI TRI THỨC ===
+
+--- BÀI 1: THÔNG TIN VÀ XỬ LÍ THÔNG TIN ---
+
+1. Thông tin là gì?
+Thông tin là tất cả những gì mang lại hiểu biết cho con người về thế giới xung quanh và về chính bản thân mình. Thông tin có thể tồn tại dưới nhiều dạng khác nhau: văn bản, hình ảnh, âm thanh, video...
+
+2. Dữ liệu và thông tin
+- Dữ liệu (data) là thông tin đã được mã hoá để máy tính có thể xử lí được.
+- Thông tin (information) là ý nghĩa mà con người hiểu được từ dữ liệu.
+- Ví dụ: Dãy số 20032010 là dữ liệu. Khi hiểu đó là ngày 20/03/2010 thì đó là thông tin.
+
+3. Xử lí thông tin
+Xử lí thông tin là quá trình biến đổi thông tin đầu vào thành thông tin đầu ra có ích hơn.
+Quá trình xử lí thông tin: Thu thập → Xử lí → Lưu trữ → Truyền thông tin
+
+4. Đơn vị đo thông tin
+- Đơn vị cơ bản: bit (binary digit) - là đơn vị nhỏ nhất, chỉ nhận giá trị 0 hoặc 1.
+- 1 Byte = 8 bit
+- 1 KB (Kilobyte) = 1024 Byte ≈ 1000 Byte
+- 1 MB (Megabyte) = 1024 KB ≈ 1 triệu Byte
+- 1 GB (Gigabyte) = 1024 MB ≈ 1 tỉ Byte
+- 1 TB (Terabyte) = 1024 GB ≈ 1000 tỉ Byte
+
+--- BÀI 2: THÔNG TIN TRONG MÁY TÍNH ---
+
+1. Biểu diễn thông tin trong máy tính
+Máy tính biểu diễn mọi thông tin dưới dạng nhị phân (chỉ dùng hai chữ số 0 và 1).
+- Hệ nhị phân (cơ số 2): dùng 2 kí hiệu 0 và 1
+- Hệ thập phân (cơ số 10): dùng 10 kí hiệu 0-9
+- Hệ thập lục phân (cơ số 16): dùng 16 kí hiệu 0-9 và A-F
+
+2. Chuyển đổi giữa hệ nhị phân và thập phân
+Ví dụ: Số nhị phân 1011 = 1×2³ + 0×2² + 1×2¹ + 1×2⁰ = 8 + 0 + 2 + 1 = 11 (thập phân)
+Ngược lại: 11 ÷ 2 = 5 dư 1; 5 ÷ 2 = 2 dư 1; 2 ÷ 2 = 1 dư 0; 1 ÷ 2 = 0 dư 1 → 1011
+
+3. Mã ASCII
+ASCII (American Standard Code for Information Interchange) là bảng mã dùng để biểu diễn các kí tự bằng số.
+- Chữ 'A' = 65, 'B' = 66, ..., 'Z' = 90
+- Chữ 'a' = 97, 'b' = 98, ..., 'z' = 122
+- Chữ số '0' = 48, '1' = 49, ..., '9' = 57
+
+--- BÀI 3: HỆ THỐNG MÁY TÍNH ---
+
+1. Cấu trúc cơ bản của máy tính
+Máy tính gồm hai thành phần chính: Phần cứng (Hardware) và Phần mềm (Software).
+
+2. Phần cứng (Hardware)
+a) Bộ xử lí trung tâm - CPU (Central Processing Unit)
+- Là "bộ não" của máy tính, thực hiện tính toán và điều khiển toàn bộ hoạt động.
+- Gồm: Đơn vị điều khiển (CU) và Đơn vị số học - logic (ALU).
+- Tốc độ đo bằng GHz (gigahertz). CPU 3.5 GHz thực hiện 3,5 tỉ phép tính/giây.
+
+b) Bộ nhớ (Memory)
+- RAM (Random Access Memory - Bộ nhớ truy cập ngẫu nhiên):
+  + Lưu trữ tạm thời dữ liệu và chương trình đang chạy.
+  + Dữ liệu mất khi tắt máy (bộ nhớ trong, bộ nhớ tạm).
+  + Dung lượng phổ biến: 4GB, 8GB, 16GB, 32GB.
+- ROM (Read Only Memory - Bộ nhớ chỉ đọc):
+  + Lưu trữ chương trình khởi động máy (BIOS/UEFI).
+  + Không mất dữ liệu khi tắt máy.
+  + Chỉ đọc được, không ghi được (trong điều kiện bình thường).
+
+c) Thiết bị lưu trữ (bộ nhớ ngoài)
+- Ổ cứng HDD (Hard Disk Drive): dung lượng lớn, tốc độ chậm hơn SSD.
+- Ổ cứng SSD (Solid State Drive): tốc độ nhanh, không có bộ phận cơ học.
+- USB Flash Drive: nhỏ gọn, tiện mang theo.
+- Thẻ nhớ (SD Card): dùng trong máy ảnh, điện thoại.
+- Đĩa quang (CD/DVD): dung lượng nhỏ, ít dùng hiện nay.
+
+d) Thiết bị vào (Input devices)
+- Bàn phím (Keyboard): nhập văn bản và lệnh.
+- Chuột (Mouse): điều khiển con trỏ.
+- Màn hình cảm ứng (Touch screen): vừa là thiết bị vào vừa là thiết bị ra.
+- Máy quét (Scanner): số hoá tài liệu giấy.
+- Micro: nhập âm thanh.
+- Webcam: nhập hình ảnh, video.
+
+e) Thiết bị ra (Output devices)
+- Màn hình (Monitor): hiển thị hình ảnh, văn bản.
+- Máy in (Printer): in ra giấy.
+- Loa (Speaker): phát âm thanh.
+- Máy chiếu (Projector): chiếu hình ảnh lên màn lớn.
+
+3. Phần mềm (Software)
+a) Hệ điều hành (Operating System - OS)
+- Là phần mềm cơ bản nhất, quản lí và điều phối toàn bộ tài nguyên máy tính.
+- Ví dụ: Windows, macOS, Linux, Android, iOS.
+- Chức năng: quản lí bộ nhớ, quản lí file, điều phối CPU, quản lí thiết bị ngoại vi.
+
+b) Phần mềm ứng dụng (Application Software)
+- Phục vụ các nhu cầu cụ thể của người dùng.
+- Ví dụ: Microsoft Word (soạn thảo văn bản), Excel (bảng tính), Chrome (duyệt web), Photoshop (chỉnh sửa ảnh).
+
+c) Phần mềm lập trình (Programming Software)
+- Công cụ để lập trình viên viết phần mềm.
+- Ví dụ: Visual Studio Code, Python IDLE, Dev-C++.
+
+=== CHỦ ĐỀ 2: MẠNG MÁY TÍNH VÀ INTERNET ===
+
+--- BÀI 4: MẠNG MÁY TÍNH ---
+
+1. Mạng máy tính là gì?
+Mạng máy tính là tập hợp các máy tính và thiết bị kết nối với nhau để chia sẻ tài nguyên và trao đổi thông tin.
+
+2. Phân loại mạng máy tính theo phạm vi địa lí
+a) Mạng cục bộ - LAN (Local Area Network)
+- Phạm vi nhỏ: một tòa nhà, một trường học, một công ty.
+- Tốc độ cao, chi phí thấp.
+- Ví dụ: mạng máy tính trong phòng máy của trường em.
+
+b) Mạng đô thị - MAN (Metropolitan Area Network)
+- Phạm vi một thành phố.
+- Ví dụ: mạng truyền hình cáp của một thành phố.
+
+c) Mạng diện rộng - WAN (Wide Area Network)
+- Phạm vi rộng lớn: quốc gia, châu lục hoặc toàn cầu.
+- Ví dụ: Internet là WAN lớn nhất thế giới.
+
+3. Các thành phần của mạng máy tính
+- Máy chủ (Server): cung cấp dịch vụ và tài nguyên.
+- Máy trạm (Client): sử dụng dịch vụ từ server.
+- Thiết bị kết nối:
+  + Router (bộ định tuyến): kết nối các mạng khác nhau, định hướng đường đi cho dữ liệu.
+  + Switch (bộ chuyển mạch): kết nối các thiết bị trong cùng một mạng LAN.
+  + Hub: kết nối các máy tính (cũ, ít dùng hiện nay).
+  + Modem: chuyển đổi tín hiệu số ↔ tín hiệu tương tự để truyền qua đường điện thoại.
+- Môi trường truyền dẫn:
+  + Có dây: cáp xoắn đôi, cáp quang, cáp đồng trục.
+  + Không dây: Wi-Fi, Bluetooth, sóng di động (3G/4G/5G).
+
+4. Địa chỉ IP (Internet Protocol)
+- Mỗi thiết bị trong mạng có một địa chỉ IP duy nhất.
+- IPv4: gồm 4 nhóm số (0-255), ví dụ: 192.168.1.1
+- IPv6: dài hơn, dùng hệ thập lục phân, ví dụ: 2001:0db8:85a3::8a2e:0370:7334
+
+--- BÀI 5: INTERNET VÀ DỊCH VỤ INTERNET ---
+
+1. Internet là gì?
+Internet là mạng máy tính toàn cầu, kết nối hàng tỉ thiết bị trên thế giới, cho phép chia sẻ thông tin và tài nguyên không giới hạn.
+
+2. Các dịch vụ Internet phổ biến
+a) World Wide Web (WWW)
+- Hệ thống các trang web liên kết với nhau qua siêu liên kết (hyperlink).
+- Truy cập qua trình duyệt web: Chrome, Firefox, Edge, Safari.
+- Địa chỉ web gọi là URL (Uniform Resource Locator): ví dụ https://www.google.com
+
+b) Thư điện tử (Email)
+- Gửi/nhận thư qua Internet.
+- Địa chỉ email: tên@tên_miền (ví dụ: hocsinh@gmail.com)
+- Dịch vụ phổ biến: Gmail, Outlook, Yahoo Mail.
+
+c) Tìm kiếm thông tin (Search Engine)
+- Công cụ tìm kiếm: Google, Bing, Cốc Cốc.
+- Sử dụng từ khoá để tìm thông tin trên Internet.
+
+d) Mạng xã hội (Social Network)
+- Ví dụ: Facebook, Instagram, TikTok, Zalo.
+- Chia sẻ thông tin, hình ảnh, video với bạn bè.
+
+e) Thương mại điện tử (E-commerce)
+- Mua bán hàng hoá qua Internet.
+- Ví dụ: Shopee, Lazada, Tiki, Amazon.
+
+f) Đám mây (Cloud Computing)
+- Lưu trữ và xử lí dữ liệu trên máy chủ từ xa.
+- Ví dụ: Google Drive, OneDrive, iCloud.
+
+3. An toàn trên Internet
+- Không chia sẻ thông tin cá nhân (số điện thoại, địa chỉ, mật khẩu) với người lạ.
+- Sử dụng mật khẩu mạnh: kết hợp chữ hoa, chữ thường, số và kí tự đặc biệt.
+- Không click vào link lạ, không tải phần mềm từ nguồn không tin cậy.
+- Cập nhật phần mềm và hệ điều hành thường xuyên.
+- Sử dụng phần mềm diệt virus.
+
+=== CHỦ ĐỀ 3: ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ ===
+
+--- BÀI 6: BẢO VỆ THÔNG TIN CÁ NHÂN ---
+
+1. Thông tin cá nhân và tầm quan trọng
+Thông tin cá nhân gồm: họ tên, ngày sinh, địa chỉ, số điện thoại, email, số CMND/CCCD, thông tin tài khoản ngân hàng...
+
+2. Nguy cơ khi lộ thông tin cá nhân
+- Bị lừa đảo tài chính (phishing).
+- Bị mạo danh (identity theft).
+- Bị quấy rối, đe doạ.
+- Tài khoản mạng xã hội, ngân hàng bị chiếm đoạt.
+
+3. Cách bảo vệ thông tin cá nhân
+- Đặt mật khẩu mạnh và không dùng chung mật khẩu cho nhiều tài khoản.
+- Bật xác thực hai yếu tố (2FA - Two Factor Authentication).
+- Không đăng thông tin nhạy cảm lên mạng xã hội.
+- Kiểm tra cài đặt quyền riêng tư trên các ứng dụng.
+- Cẩn thận với email/tin nhắn yêu cầu cung cấp thông tin cá nhân.
+
+--- BÀI 7: BẢN QUYỀN VÀ VI PHẠM BẢN QUYỀN ---
+
+1. Bản quyền phần mềm
+- Phần mềm miễn phí (Freeware): sử dụng không mất tiền, ví dụ VLC, 7-Zip.
+- Phần mềm thương mại: phải trả tiền mua bản quyền, ví dụ Microsoft Office.
+- Phần mềm nguồn mở (Open Source): mã nguồn công khai, ví dụ Linux, LibreOffice.
+- Phần mềm dùng thử (Shareware): dùng thử có giới hạn.
+
+2. Vi phạm bản quyền
+- Sao chép, phân phối phần mềm không có bản quyền (phần mềm lậu).
+- Hậu quả: vi phạm pháp luật, có thể bị xử phạt; phần mềm lậu thường chứa virus.
+
+=== CHỦ ĐỀ 4: ỨNG DỤNG TIN HỌC ===
+
+--- BÀI 8: PHẦN MỀM BẢNG TÍNH (Microsoft Excel / Google Sheets) ---
+
+1. Khái niệm cơ bản
+- Bảng tính (Spreadsheet): tổ chức dữ liệu theo hàng và cột.
+- Workbook: tệp bảng tính, chứa nhiều Sheet.
+- Worksheet (Sheet): một trang bảng tính.
+- Ô (Cell): giao của hàng và cột, ví dụ: A1, B3, C10.
+- Hàng (Row): đánh số 1, 2, 3...
+- Cột (Column): đánh chữ cái A, B, C...
+
+2. Nhập liệu
+- Số: nhập thẳng, căn phải mặc định.
+- Văn bản: nhập thẳng, căn trái mặc định.
+- Ngày tháng: nhập theo định dạng dd/mm/yyyy hoặc mm/dd/yyyy tuỳ cài đặt.
+- Công thức: bắt đầu bằng dấu = (bằng).
+
+3. Các hàm cơ bản trong Excel
+- =SUM(A1:A10): Tính tổng từ A1 đến A10.
+- =AVERAGE(A1:A10): Tính trung bình cộng.
+- =MAX(A1:A10): Tìm giá trị lớn nhất.
+- =MIN(A1:A10): Tìm giá trị nhỏ nhất.
+- =COUNT(A1:A10): Đếm số ô chứa số.
+- =COUNTA(A1:A10): Đếm số ô không rỗng.
+- =IF(điều_kiện, giá_trị_đúng, giá_trị_sai): Hàm điều kiện.
+  Ví dụ: =IF(B2>=5, "Đạt", "Không đạt")
+- =VLOOKUP(giá_trị, bảng, cột, 0): Tìm kiếm theo cột.
+
+4. Địa chỉ ô
+- Địa chỉ tương đối: A1 (thay đổi khi sao chép công thức).
+- Địa chỉ tuyệt đối: $A$1 (không thay đổi khi sao chép). Nhấn F4 để chuyển đổi.
+- Địa chỉ hỗn hợp: $A1 hoặc A$1.
+
+5. Biểu đồ (Chart)
+- Các loại biểu đồ: cột (Column), thanh ngang (Bar), đường (Line), tròn (Pie).
+- Tạo biểu đồ: chọn dữ liệu → Insert → Chart → chọn loại biểu đồ.
+
+--- BÀI 9: TRÌNH BÀY THÔNG TIN TRÊN TRANG TRÌNH CHIẾU ---
+
+1. Phần mềm trình chiếu
+- Microsoft PowerPoint, Google Slides, LibreOffice Impress.
+- Dùng để thuyết trình, báo cáo với hình ảnh và văn bản sinh động.
+
+2. Các thành phần của bài trình chiếu
+- Slide: mỗi trang chiếu riêng lẻ.
+- Layout (bố cục): cách sắp xếp nội dung trên slide.
+- Theme/Template: thiết kế màu sắc và phông chữ đồng nhất.
+- Transition: hiệu ứng chuyển giữa các slide.
+- Animation: hiệu ứng xuất hiện của đối tượng trong slide.
+
+3. Nguyên tắc thiết kế slide hiệu quả
+- Mỗi slide chỉ trình bày một ý chính.
+- Không quá nhiều chữ trên một slide (tối đa 6 dòng).
+- Sử dụng hình ảnh minh hoạ phù hợp.
+- Cỡ chữ đủ lớn để đọc được từ xa (tối thiểu 24pt).
+- Màu chữ và nền phải tương phản rõ ràng.
+
+=== CHỦ ĐỀ 5: GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH ===
+
+--- BÀI 10: THUẬT TOÁN ---
+
+1. Thuật toán là gì?
+Thuật toán (Algorithm) là một dãy hữu hạn các bước rõ ràng, xác định để giải quyết một vấn đề hoặc thực hiện một nhiệm vụ.
+
+2. Đặc trưng của thuật toán
+- Tính hữu hạn: thuật toán phải dừng sau một số hữu hạn bước.
+- Tính xác định: mỗi bước phải được mô tả rõ ràng, không mơ hồ.
+- Tính đúng đắn: thuật toán phải cho kết quả đúng.
+- Tính hiệu quả: các bước phải thực hiện được trong thời gian hợp lí.
+- Tính tổng quát: áp dụng được cho mọi bộ dữ liệu đầu vào hợp lệ.
+
+3. Cách biểu diễn thuật toán
+a) Ngôn ngữ tự nhiên: mô tả bằng lời văn thông thường.
+b) Sơ đồ khối (Flowchart):
+   - Hình elip/oval: bắt đầu/kết thúc.
+   - Hình chữ nhật: thao tác xử lí.
+   - Hình thoi: điều kiện rẽ nhánh.
+   - Mũi tên: chiều thực hiện.
+c) Ngôn ngữ lập trình: viết bằng Python, C++, Pascal...
+
+4. Ví dụ: Thuật toán tìm số lớn nhất trong 3 số
+Bước 1: Nhập ba số a, b, c.
+Bước 2: Gán max = a.
+Bước 3: Nếu b > max thì gán max = b.
+Bước 4: Nếu c > max thì gán max = c.
+Bước 5: In ra max.
+Bước 6: Kết thúc.
+
+--- BÀI 11: LẬP TRÌNH PYTHON CƠ BẢN ---
+
+1. Giới thiệu Python
+Python là ngôn ngữ lập trình bậc cao, dễ học, được dùng rộng rãi trong khoa học dữ liệu, trí tuệ nhân tạo, web.
+
+2. Biến và kiểu dữ liệu
+- int: số nguyên. Ví dụ: tuoi = 15
+- float: số thực. Ví dụ: diem = 8.5
+- str: chuỗi kí tự. Ví dụ: ten = "An"
+- bool: logic True/False. Ví dụ: da_hoc = True
+
+3. Nhập xuất dữ liệu
+- In ra màn hình: print("Xin chào!")
+- Nhập từ bàn phím: ten = input("Nhập tên: ")
+- Chuyển kiểu: int("15") → 15; float("8.5") → 8.5
+
+4. Các phép toán
+- Cộng: +, Trừ: -, Nhân: *, Chia: /, Chia lấy phần nguyên: //
+- Chia lấy phần dư: %, Luỹ thừa: **
+- Ví dụ: 10 // 3 = 3; 10 % 3 = 1; 2 ** 8 = 256
+
+5. Câu lệnh điều kiện if
+if điều_kiện:
+    khối_lệnh_1
+elif điều_kiện_2:
+    khối_lệnh_2
+else:
+    khối_lệnh_3
+
+Ví dụ:
+diem = float(input("Nhập điểm: "))
+if diem >= 8:
+    print("Giỏi")
+elif diem >= 6.5:
+    print("Khá")
+elif diem >= 5:
+    print("Trung bình")
+else:
+    print("Yếu")
+
+6. Vòng lặp for
+for i in range(1, 11):
+    print(i)    # In ra các số từ 1 đến 10
+
+for phan_tu in danh_sach:
+    print(phan_tu)   # Duyệt qua từng phần tử
+
+7. Vòng lặp while
+i = 1
+while i <= 10:
+    print(i)
+    i = i + 1   # Hoặc i += 1
+
+8. Danh sách (List)
+- Tạo: fruits = ["táo", "cam", "xoài"]
+- Truy cập: fruits[0] → "táo" (chỉ số bắt đầu từ 0)
+- Thêm: fruits.append("chuối")
+- Độ dài: len(fruits) → 4
+- Sắp xếp: fruits.sort()
+
+9. Hàm (Function)
+def tinh_dien_tich(dai, rong):
+    dien_tich = dai * rong
+    return dien_tich
+
+ket_qua = tinh_dien_tich(5, 3)
+print(ket_qua)   # In ra 15
+
+=== CHỦ ĐỀ 6: HƯỚNG NGHIỆP VỚI TIN HỌC ===
+
+--- BÀI 12: NGHỀ NGHIỆP TRONG LĨNH VỰC TIN HỌC ---
+
+1. Các nghề nghiệp phổ biến
+- Lập trình viên (Developer/Programmer): viết phần mềm, ứng dụng.
+- Kĩ sư phần mềm (Software Engineer): thiết kế và xây dựng hệ thống phần mềm lớn.
+- Nhà khoa học dữ liệu (Data Scientist): phân tích dữ liệu lớn, xây dựng mô hình AI.
+- Chuyên gia an ninh mạng (Cybersecurity Expert): bảo vệ hệ thống khỏi tấn công mạng.
+- Quản trị mạng (Network Administrator): quản lí hạ tầng mạng máy tính.
+- Thiết kế UI/UX: thiết kế giao diện và trải nghiệm người dùng.
+- Quản trị cơ sở dữ liệu (DBA): quản lí và tối ưu cơ sở dữ liệu.
+
+2. Xu hướng công nghệ hiện nay
+- Trí tuệ nhân tạo (AI - Artificial Intelligence).
+- Học máy (Machine Learning) và Học sâu (Deep Learning).
+- Điện toán đám mây (Cloud Computing).
+- Internet of Things (IoT): kết nối thiết bị thông minh.
+- Chuỗi khối (Blockchain).
+- Thực tế ảo (VR) và Thực tế tăng cường (AR).
+
+=== ÔN TẬP VÀ CÂU HỎI THƯỜNG GẶP ===
+
+Câu 1: Bit là gì?
+Bit là đơn vị nhỏ nhất của thông tin trong máy tính, chỉ nhận hai giá trị: 0 hoặc 1.
+
+Câu 2: RAM và ROM khác nhau như thế nào?
+RAM là bộ nhớ tạm thời, lưu dữ liệu đang xử lí, mất dữ liệu khi tắt máy.
+ROM là bộ nhớ cố định, lưu chương trình khởi động, không mất dữ liệu khi tắt máy.
+
+Câu 3: CPU là gì và có chức năng gì?
+CPU (Central Processing Unit) là bộ xử lí trung tâm, thực hiện các phép tính toán và điều khiển hoạt động của toàn bộ máy tính.
+
+Câu 4: Sự khác nhau giữa LAN và WAN?
+LAN (Local Area Network) là mạng cục bộ, phạm vi hẹp như trường học, công ty.
+WAN (Wide Area Network) là mạng diện rộng, phạm vi rộng như quốc gia hoặc toàn cầu.
+
+Câu 5: Hàm IF trong Excel dùng để làm gì?
+Hàm IF dùng để thực hiện điều kiện: nếu điều kiện đúng thì trả về giá trị 1, nếu sai thì trả về giá trị 2.
+Cú pháp: =IF(điều_kiện, giá_trị_nếu_đúng, giá_trị_nếu_sai)
+
+Câu 6: Thuật toán là gì? Nêu các đặc trưng của thuật toán.
+Thuật toán là dãy hữu hạn các bước rõ ràng để giải quyết một vấn đề.
+Các đặc trưng: tính hữu hạn, tính xác định, tính đúng đắn, tính hiệu quả, tính tổng quát.
+
+Câu 7: Vòng lặp for và while khác nhau thế nào trong Python?
+- Vòng lặp for: dùng khi biết trước số lần lặp, duyệt qua danh sách hoặc range.
+- Vòng lặp while: dùng khi không biết trước số lần lặp, lặp đến khi điều kiện sai.
+
+Câu 8: Địa chỉ tuyệt đối trong Excel là gì?
+Địa chỉ tuyệt đối ($A$1) không thay đổi khi sao chép công thức sang ô khác.
+Khác với địa chỉ tương đối (A1) thay đổi theo vị trí khi sao chép.
+
+Câu 9: Các biện pháp bảo vệ thông tin cá nhân trên Internet?
+- Đặt mật khẩu mạnh, khác nhau cho mỗi tài khoản.
+- Bật xác thực hai yếu tố (2FA).
+- Không chia sẻ thông tin nhạy cảm trên mạng xã hội.
+- Cẩn thận với email lừa đảo (phishing).
+- Cập nhật phần mềm thường xuyên.
+
+Câu 10: Phân biệt phần cứng và phần mềm.
+Phần cứng (Hardware) là các thành phần vật lí có thể sờ được: CPU, RAM, màn hình, bàn phím.
+Phần mềm (Software) là các chương trình, không có hình thể vật lí: Windows, Word, Chrome.

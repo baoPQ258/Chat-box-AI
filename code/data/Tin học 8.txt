@@ -1,0 +1,809 @@
+TIN HỌC 8
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HÀ ĐĂNG CAO TÙNG (Chủ biên)
+PHAN ANH - NGUYỄN HẢI CHÂU
+HOÀNG THỊ MẠI - NGUYỄN THỊ HOÀI NAM
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+HƯỚNG DẪN SỬ DỤNG SÁCH
+Sách giáo khoa Tin học 8 gồm 6 chủ đề với 20 bài học. Trong đó, chủ đề Tin học ứng dụng có hai chủ đề còn để lựa chọn là Soạn thảo văn bản và trình chiếu nâng cao (Bài 8a đến Bài 11a) và Làm quen với phần mềm chỉnh sửa ảnh (Bài 8b đến Bài 11b).
+Các bài học được xây dựng với cấu trúc thống nhất. Sau đây là những hướng dẫn để em sử dụng sách hiệu quả hơn.
+
+Mục tiêu: Giúp em biết cần đạt được gì sau bài học.
+Khởi động: Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học.
+Nội dung bài học:
+Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, học sinh chủ động hơn trong quá trình nhận thức.
+Kiến thức mới: Cung cấp cho học sinh nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học.
+Hộp kiến thức: Ghi ngắn gọn hoặc tóm tắt kiến thức mới. Em có thể dùng hộp kiến thức cùng với bảng giải thích thuật ngữ (ở cuối sách) để ôn tập hoặc tra cứu thuật ngữ mới.
+Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa.
+Luyện tập: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học.
+Vận dụng: Gồm những câu hỏi, bài tập yêu cầu em kết hợp kiến thức, kĩ năng đã học để giải quyết tình huống trong thực tiễn cuộc sống. Qua đó, em sẽ phát triển năng lực tư duy và hành động của mình.
+
+
+Sách sử dụng các phần mềm Microsoft Word, Microsoft Excel, Microsoft PowerPoint, phần mềm chỉnh sửa ảnh GIMP, ngôn ngữ lập trình trực quan Scratch để minh họa và hướng dẫn thực hành.
+Trong các đoạn hội thoại, có ba nhân vật là ba bạn học sinh lớp 8: An, Minh, Khoa. Mỗi bạn có một sở trường khác nhau, đại diện cho một trong ba mạch kiến thức của môn Tin học là Học vấn số hoá phổ thông, Công nghệ thông tin và truyền thông, Khoa học máy tính.
+An
+Minh
+Khoa
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau!
+LỜI NÓI ĐẦU
+Các em học sinh yêu quý!
+Sách giáo khoa Tin học 8 tiếp nối các bài học của những năm học trước nhằm tiếp tục phát triển năng lực của các em trong lĩnh vực Tin học và rèn luyện cho các em những phẩm chất cần có để tham gia vào xã hội kỹ thuật số.
+Cuốn sách sẽ kể cho các em nghe câu chuyện về sự phát triển của các công cụ tính toán, chỉ cho các em biết cách đánh giá và sử dụng thông tin, hướng dẫn các em sử dụng những công cụ xử lí dữ liệu dạng số, dạng văn bản, dạng hình ảnh,... để các em có thể tạo ra những sản phẩm kỹ thuật số cho riêng mình và chia sẻ với người khác.
+Được biên soạn theo Chương trình Giáo dục phổ thông 2018, Tin học 8 giúp các em biết viết những chương trình máy tính để giải quyết nhiều bài toán hay tạo ra những trò chơi đơn giản trên máy tính,... và lần đầu tiên các em nhận ra rằng máy tính không chỉ chứa những điều thú vị mà còn làm tăng khả năng của mỗi người, tạo ra nhiều nghề nghiệp mới mà các em có thể theo đuổi lâu dài.
+Các ví dụ trong sách gần gũi với các em trong đời sống hằng ngày nhưng cũng ẩn giấu nhiều điều thú vị, thúc đẩy các em tìm hiểu, khám phá,... đưa các em vào thế giới kỹ thuật số có biết bao nhiêu điều kì thú.
+Chúc các em học tập chăm chỉ và thành công.
+MỤC LỤC
+Chủ đề 1. Máy tính và cộng đồng ................................................ 5
+Bài 1. Lược sử công cụ tính toán .............................................. 5
+Chủ đề 2. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin ............. 10
+Bài 2. Thông tin trong môi trường số ....................................... 10
+Bài 3. Thực hành: Khai thác thông tin số .................................. 14
+Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số ...... 18
+Bài 4. Đạo đức và văn hoá trong sử dụng công nghệ kĩ thuật số .... 18
+Chủ đề 4. Ứng dụng tin học ..................................................... 21
+Bài 5. Sử dụng bảng tính giải quyết bài toán thực tế ................... 21
+Bài 6. Sắp xếp và lọc dữ liệu .................................................. 27
+Bài 7. Trực quan hoá dữ liệu .................................................. 32
+a. Soạn thảo văn bản và trình chiếu nâng cao ............................ 36
+Bài 8a. Làm việc với danh sách dạng liệt kê và hình ảnh trong văn bản .. 36
+Bài 9a. Tạo đầu trang, chân trang cho văn bản ........................... 42
+Bài 10a. Định dạng nâng cao cho trang chiếu ............................. 46
+Bài 11a. Sử dụng bản mẫu tạo bài trình chiếu ............................. 51
+b. Làm quen với phần mềm chỉnh sửa ảnh ................................. 56
+Bài 8b. Phần mềm chỉnh sửa ảnh ............................................. 56
+Bài 9b. Thay đổi khung hình, kích thước ảnh ............................. 62
+Bài 10b. Thêm văn bản, tạo hiệu ứng cho ảnh ............................. 66
+Bài 11b. Thực hành tổng hợp .................................................. 70
+Chủ đề 5. Giải quyết vấn đề với sự trợ giúp của máy tính ............. 73
+Bài 12. Từ thuật toán đến chương trình ..................................... 73
+Bài 13. Biểu diễn dữ liệu ....................................................... 76
+Bài 14. Cấu trúc điều khiển .................................................... 80
+Bài 15. Gỡ lỗi ...................................................................... 86
+Chủ đề 6. Hướng nghiệp với Tin học .......................................... 91
+Bài 16. Tin học với nghề nghiệp ............................................... 91
+Bảng giải thích thuật ngữ ......................................................... 95
+CHỦ ĐỀ 1. MÁY TÍNH VÀ CỘNG ĐỒNG
+BÀI 1
+LƯỢC SỬ CÔNG CỤ TÍNH TOÁN
+Sau bài học này em sẽ:
+• Trình bày được sơ lược lịch sử phát triển máy tính.
+• Nêu được ví dụ cho thấy sự phát triển máy tính đã đem đến những thay đổi lớn lao cho xã hội loài người.
+Công cụ tính toán đầu tiên
+Các phép tính đầu tiên được con người thực hiện bằng cách sử dụng 10 ngón tay. Cho đến nay, hệ thống ghi số thập phân (cách ghi số sử dụng các chữ số từ 0 đến 9) vẫn là cách ghi số phổ biến hơn cả. Trong tiếng Anh, từ “chữ số” (digit) có nguồn gốc từ chữ digitus (trong tiếng Latin có nghĩa là ngón tay).
+Hình 1.1. Bàn tính hiển thị số 6 302 715 408
+Bàn tính
+Hơn 2000 năm trước Công nguyên, con người đã biết làm các phép tính số học. Một trong những công cụ tính toán sớm nhất là bàn tính (Hình 1.1).
+1. MÁY TÍNH CƠ KHÍ
+Hoạt động 1 Sự ra đời của máy tính
+Hầu hết mọi người nghĩ về máy tính như một thiết bị điện tử, có khả năng xử lí dữ liệu đa dạng với tốc độ cao và có dung lượng lưu trữ lớn. Em hãy tìm hiểu và cho biết:
+
+Tên của một trong những chiếc máy tính đầu tiên.
+Chiếc máy đó có thể làm được những gì?
+Ý tưởng nào đã thúc đẩy sự phát minh ra máy tính?
+
+Những chiếc bánh răng
+Ý tưởng cơ giới hoá việc tính toán đóng vai trò quan trọng trong lịch sử phát triển của máy tính. Năm 1642, nhà bác học người Pháp Blaise Pascal, khi đó chưa đầy 20 tuổi, đã cho ra đời chiếc máy tính cơ khí Pascaline (Hình 1.2) để giúp đỡ cha trong việc tính thuế.
+Hình 1.2. Chiếc máy tính cơ khí đầu tiên Pascaline
+Sau Pascal, nhà Toán học người Đức Gottfried Leibniz đã cải tiến và thêm phép tính nhân, chia vào máy tính của Pascal để nó thực hiện được cả bốn phép tính số học.
+Dự án máy tính của Babbage
+Năm 1833 đánh dấu dự án đầy tham vọng của nhà Toán học, nhà phát minh, kĩ sư cơ khí người Anh Charles Babbage nhằm thiết kế và chế tạo những cỗ máy, thực hiện việc tính toán một cách tự động nhằm tránh những sai sót của con người trong việc tính toán và sao chép các con số.
+Nguyên lí thiết kế máy tính của Babbage giống như máy tính ngày nay. Đó là loại máy đa năng, thực hiện tính toán tự động và có những ứng dụng ngoài tính toán thuần tuý. Vì vậy, mặc dù dự án của ông không được hoàn thành do hạn chế về công nghệ, ông vẫn được coi là cha đẻ của công nghệ máy tính.
+Hộp kiến thức
+• Ý tưởng cơ giới hoá việc tính toán đóng vai trò quan trọng trong lịch sử phát triển của máy tính. Năm 1642, nhà bác học Blaise Pascal đã sáng chế ra chiếc máy tính cơ khí Pascaline.
+• Năm 1833, nhà Toán học Charles Babbage đã thiết kế máy tính đa năng, tính toán tự động tương tự như máy tính ngày nay.
+Câu hỏi
+Máy tính trong dự án của Babbage có những đặc điểm gì?
+A. Máy tính cơ học, thực hiện tự động.
+B. Máy tính có những ứng dụng ngoài tính toán thuần tuý.
+C. Có thiết kế giống với máy tính ngày nay.
+D. Cả ba đặc điểm trên.
+2. MÁY TÍNH ĐIỆN TỬ
+Máy tính điện – cơ và kiến trúc Von Neumann
+Năm 24 tuổi, Claude Shannon đã chỉ ra rằng có thể sử dụng các rơ le để thực hiện các thao tác tính toán trên các dãy bit. Đó là nền tảng cho việc thiết kế các máy tính kĩ thuật số hiện đại. Thời kì đầu, các máy tính được thiết kế dựa trên các rơ le, còn được gọi là máy tính điện – cơ.
+Được thôi thúc bởi ý tưởng của Babbage, được IBM tài trợ, năm 1943, Howard Aiken đã chế tạo thành công chiếc máy tính điều khiển tuần tự tự động (ASCC Automatic Sequence Controlled Calculator), một máy tính điện – cơ đa năng, có thể hoạt động với sự can thiệp tối thiểu của con người. Nó thực hiện phép tính cộng mất gần một giây và phép tính nhân mất khoảng 6 giây. Máy tính này được giới thiệu ở Đại học Harvard vào năm 1944 nên còn được biết tới với cái tên Harvard Mark I.
+Năm 1945, nhà Toán học người Mỹ gốc Hung-ga-ry John Von Neumann đã trình bày nguyên lí hoạt động của máy tính với khái niệm “chương trình được lưu trữ”. Theo đó: 1) các lệnh của chương trình được lưu trữ trong bộ nhớ giống như dữ liệu; 2) để thực hiện nhiệm vụ nào, chỉ cần tải chương trình tương ứng vào bộ nhớ; 3) chương trình được nạp từ bộ nhớ vào bộ xử lí từng lệnh một và thực hiện xong mới nạp lệnh tiếp theo (tuần tự).
+Theo nguyên lí đó, máy tính cần được cấu tạo dựa trên kiến trúc Von Neumann, gồm bộ xử lí, bộ nhớ, các cổng kết nối với thiết bị vào – ra và đường truyền giữa các bộ phận đó.
+Hình 1.3. Sơ đồ cấu trúc máy tính
+Trải qua nhiều giai đoạn, dựa trên những tiến bộ về công nghệ, máy tính điện tử có thể được phân chia thành năm thế hệ.
+Thế hệ thứ nhất (1945 – 1955)
+Công nghệ đèn điện tử chân không đầu thế kỉ XX mau chóng thay thế rơ le điện cơ, đánh dấu kỉ nguyên đầu tiên của máy tính điện tử.
+Mỗi giây, chiếc ENIAC (Hình 1.4) có thể thực hiện 5000 phép tính cộng hoặc 350 phép tính nhân.
+Đặc điểm máy tính thế hệ đầu tiên:
+• Thành phần điện tử chính: đèn điện tử chân không.
+• Bộ nhớ chính: trống từ.
+• Kích thước: rất lớn (thường chiếm một căn phòng).
+• Thiết bị vào – ra: máy đọc và tạo thẻ đục lỗ.
+• Ví dụ: Atanasoff-Berry Computer (ABC 1942), ENIAC (1943), EDVAC (1945),...
+Hình 1.4. Máy tính tích hợp điện tử số (ENIAC)
+Thế hệ thứ hai (1955 – 1965)
+Bóng bán dẫn là một cải tiến lớn, tạo nên thế hệ máy tính mới, có kích thước nhỏ hơn thế hệ đầu tiên. Chúng cũng rẻ hơn, tiêu thụ ít điện năng hơn, đáng tin cậy hơn và chạy nhanh hơn so với các máy tính làm bằng đèn điện tử chân không. Máy tính thế hệ thứ hai nhanh hơn máy tính thế hệ trước hàng chục lần. Chẳng hạn, chiếc IBM 7090 có thể tính được 229 000 phép tính mỗi giây. Chiếc máy tính thế hệ thứ hai được đưa vào nước ta năm 1968 là MINSK 22 (Hình 1.5) được sản xuất tại nước cộng hoà Belarus vào khoảng năm 1965.
+Đặc điểm máy tính thế hệ thứ hai:
+• Thành phần điện tử chính: bóng bán dẫn.
+• Bộ nhớ: lõi từ, băng từ.
+• Kích thước: lớn (bộ phận xử lí và tính toán lớn như những chiếc tủ).
+• Thiết bị vào – ra: máy đọc và in băng đục lỗ, máy đọc và in băng từ.
+• Ví dụ: IBM 7090 (1959), IBM 7094 (1962), UNIVAC 1107 (1960),...
+Hình 1.5. Máy tính Minsk 22
+Thế hệ thứ ba (1965 – 1974)
+Máy tính thế hệ thứ ba là máy tính được chế tạo dựa trên các mạch tích hợp (IC – Integrated Circuit). Công nghệ này làm giảm kích thước và tăng tốc độ tính toán của máy tính so với thế hệ thứ hai. Chẳng hạn, IBM System/360 Model 30 có thể thực hiện khoảng 1 triệu lệnh mỗi giây và quản lí được 8 MB bộ nhớ. Chiếc máy tính thế hệ thứ ba được đưa vào nước ta năm 1967 thuộc họ IBM System/360 (Hình 1.6).
+Hình 1.6. Máy tính IBM System/360
+Đặc điểm máy tính thế hệ thứ ba:
+• Thành phần điện tử chính: mạch tích hợp.
+• Bộ nhớ: lõi từ lớn, băng từ, đĩa từ.
+• Kích thước: lớn (tương đương một chiếc bàn làm việc).
+• Thiết bị vào – ra: được bổ sung bàn phím, màn hình, máy in,...
+• Ví dụ: dòng máy IBM System/360 (1964), IBM System/370 (1970), PDP-11 (1970), UNIVAC 1108 (1964),...
+Thế hệ thứ tư (1974 – 1990)
+Mạch tích hợp cỡ rất lớn (VLSI – Very Large Scale Integration) tạo nên những bộ xử lí nguyên khối, chứa hàng chục nghìn đến hàng triệu linh kiện bán dẫn được gọi là những bộ vi xử lí. Máy tính dựa trên công nghệ vi xử lí được gọi là máy vi tính. Bộ xử lí 80386 XS (1988) của tập đoàn Intel có thể thực hiện khoảng 5 triệu phép tính mỗi giây và quản lí được 4 GB bộ nhớ. Chiếc Micral (1973) là một trong những máy vi tính đầu tiên.
+Đặc điểm máy tính thế hệ thứ tư:
+• Thành phần điện tử chính: mạch tích hợp cỡ rất lớn và bộ vi xử lí.
+• Bộ nhớ: CD, RAM, ROM, USB, SSD,...
+• Kích thước: nhỏ, có thể đặt trên bàn.
+• Thiết bị vào – ra: được bổ sung thiết bị trò, máy quét,...
+• Mạng: một nhóm gồm hai hoặc nhiều máy tính được liên kết với nhau.
+• Ví dụ: IBM PC, STAR 1000, APPLE II, Apple Macintosh,...
+Thế hệ thứ năm (1990 – ngày nay)
+Tiến bộ công nghệ vào những năm 1980 cho phép tích hợp hàng chục triệu linh kiện bán dẫn vào một mạch được gọi là mạch tích hợp cỡ siêu lớn (ULSI – Ultra Large Scale Integration). Ngoài ra, kĩ thuật xử lí song song cũng là một bước tiến quan trọng giúp tăng hiệu suất tính toán đáng kể và giảm chi phí. Nhờ đó, máy tính thế hệ thứ năm có một số khả năng xử lí thông tin trong thế giới thực giống con người như: cảm nhận, suy luận, tương tác,... được gọi là trí tuệ nhân tạo.
+Đặc điểm máy tính thế hệ thứ năm:
+• Thành phần điện tử chính: mạch tích hợp cỡ siêu lớn.
+• Kích thước: nhỏ, có thể mang theo người (di động) và có dung lượng lưu trữ lớn.
+• Thiết bị vào – ra: được bổ sung thiết bị nhận dạng tiếng nói, hình ảnh, chuyển động,...
+• Ví dụ: điện thoại thông minh, loa thông minh, kính thông minh,...
+Hộp kiến thức
+Máy tính điện tử ra đời vào những năm 1940. Năm thế hệ của máy tính điện tử được đánh dấu bởi những tiến bộ công nghệ nhằm thu nhỏ các linh kiện điện tử, tích hợp chúng vào những thiết bị nhỏ, có tốc độ xử lí lớn, độ tin cậy cao, có khả năng kết nối toàn cầu, tiêu thụ ít năng lượng và được trang bị nhiều ứng dụng thân thiện với con người.
+Câu hỏi
+Bộ vi xử lí là linh kiện máy tính dựa trên công nghệ nào?
+A. Đèn điện tử chân không.
+B. Linh kiện bán dẫn đơn giản.
+C. Mạch tích hợp hàng chục, hàng trăm linh kiện bán dẫn.
+D. Mạch tích hợp cỡ lớn, gồm hàng chục nghìn đến hàng triệu linh kiện bán dẫn.
+3. MÁY TÍNH THAY ĐỔI THẾ GIỚI NHƯ THẾ NÀO?
+Hoạt động 3 Sự thay đổi
+Em hãy lấy ba ví dụ cho thấy máy tính làm thay đổi sâu sắc cuộc sống của con người.
+Máy tính đã thay đổi thế giới theo nhiều cách. Đó là do chúng có thể tiếp nhận mệnh lệnh của con người để hoạt động một cách bền bỉ, xử lí dữ liệu chính xác, với dung lượng lớn, tốc độ cao. Hơn thế, bằng cách rút ra những quy luật trong quá trình hoạt động, tạo ra những mệnh lệnh máy tính mới, máy tính có thể tự thay đổi, trở nên thông minh hơn, ví dụ:
+• Trong lĩnh vực y tế, những thiết bị nhỏ gọn như đồng hồ thông minh có thể theo dõi sức khỏe thường xuyên, phát hiện kịp thời những hiện tượng bất thường của cơ thể và đưa ra những phản hồi hợp lí như tự động thông báo đến người thân, cơ sở y tế hay dịch vụ cấp cứu.
+• Trong lĩnh vực giáo dục, Internet là kho thông tin khổng lồ, giúp con người có thể học mọi nơi, mọi lúc, giúp các giáo viên hỗ trợ học sinh từ xa, giúp các nhà khoa học, các chuyên gia, các nhà giáo dục phổ biến kiến thức, kĩ năng,... một cách hiệu quả.
+• Trong lĩnh vực kinh tế, các giao dịch tăng lên nhanh chóng trong môi trường kỹ thuật số. Cả người tiêu dùng và nhà cung ứng hàng hoá, dịch vụ đều được hỗ trợ để đa dạng hoá hình thức giao dịch, giúp cho nền kinh tế trở nên năng động hơn, nền kinh tế nhờ đó được phát triển.
+• Trong lĩnh vực quốc phòng, những thiết bị bay thông minh có thể hỗ trợ quan sát vùng trời, vùng biển, lãnh thổ; những khí tài có tính tự động cao, nhanh và chính xác có thể giúp quân đội bảo vệ Tổ quốc, giữ gìn an ninh quốc phòng.
+• Trong lĩnh vực an toàn xã hội, các thiết bị thu nhận thông tin ở nơi công cộng như camera an ninh có thể phát hiện những hiện tượng vi phạm pháp luật, gây mất an toàn xã hội, giúp người dân và các cơ quan chức năng kịp thời xử lí, giữ gìn cuộc sống bình yên.
+Vì máy tính là công cụ hỗ trợ con người đắc lực trong hoạt động trí óc, tạo nên một môi trường học tập, lao động, giải trí, giao tiếp,... nên con người cũng dần thay đổi hành vi của mình để thích nghi với môi trường mới ấy. Sự thay đổi ấy góp phần tạo nên những chuyển biến mạnh mẽ trong mọi lĩnh vực, từ nghiên cứu khoa học, giáo dục, y tế, đến quản lí xã hội, phát triển kinh tế,...
+Hộp kiến thức
+Thế giới đang biến đổi nhanh chóng và sâu sắc nhờ sự phát triển của công nghệ máy tính.
+LUYỆN TẬP
+
+Em hãy nêu một ví dụ cho thấy sự khác nhau rõ ràng trong hoạt động học tập khi chưa có và khi có các thiết bị công nghệ số hiện nay.
+Em hãy nêu ví dụ về một ứng dụng mà em cho là thông minh của những máy tính thế hệ mới.
+
+VẬN DỤNG
+
+Em hãy cho biết vào thời điểm đất nước ta hoàn toàn thống nhất năm 1975, những thế hệ máy tính điện tử nào đã xuất hiện ở nước ta?
+Em hãy đưa ra một dự báo về ứng dụng của máy tính trong tương lai. Hãy giải thích cơ sở của dự báo đó.
+✅ ĐÃ GỬI PHẦN 2 – TIN HỌC 8 (Kết nối tri thức với cuộc sống)
+Dưới đây là Phần 2 (tiếp nối ngay sau Phần 1 bạn đã nhận).
+Bạn copy toàn bộ văn bản bên dưới và dán tiếp vào file Tin_hoc_8_KNTT.txt (ngay sau nội dung Phần 1).
+
+CHỦ ĐỀ 2. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN
+BÀI 2
+THÔNG TIN TRONG MÔI TRƯỜNG SỐ
+Sau bài học này em sẽ:
+• Nêu được các đặc điểm của thông tin số: đa dạng, được thu thập ngày càng nhanh và nhiều, được lưu trữ với dung lượng khổng lồ bởi nhiều tổ chức và cá nhân, có tính bản quyền, có độ tin cậy rất khác nhau, có các công cụ tìm kiếm, chuyển đổi, truyền và xử lí hiệu quả.
+• Trình bày được tầm quan trọng của việc biết khai thác các nguồn thông tin đáng tin cậy, nêu được ví dụ minh họa.
+Hoạt động 1 Ảnh in và ảnh số
+Trong tập ảnh cũ, Khoa thấy bức ảnh ruộng bậc thang. Để chia sẻ ảnh với An mà không cần phải đến nhà bạn, Khoa đã dùng điện thoại thông minh chụp lại bức ảnh và gửi cho An qua thư điện tử. Em hãy cho biết:
+
+An có thể nhận được ảnh bằng cách nào?
+Sau khi An nhận được ảnh, Khoa có bị mất bức ảnh gốc không?
+An có thể lưu trữ ảnh vào những thiết bị nào?
+
+Hình 2.1. Bức ảnh được chụp lại và gửi qua mạng
+1. THÔNG TIN TRONG MÔI TRƯỜNG SỐ
+a) Thông tin số
+Trong Hoạt động 1, bằng thao tác chụp lại bức ảnh, Khoa đã tạo ra một bức ảnh số. Khác với bức ảnh trên giấy, bức ảnh số được tạo ra không tốn vật liệu và khi Khoa gửi cho An, Khoa không bị mất đi bức ảnh đó.
+Thông tin được mã hoá thành dãy bit, được chuyển vào máy tính, điện thoại thông minh, máy tính bảng,... để có thể lan truyền, trao đổi trong môi trường kĩ thuật số còn được gọi ngắn gọn là thông tin số.
+Thông tin số có thể được truy cập từ xa thông qua kết nối Internet. Chẳng hạn, khi được Khoa chia sẻ, An có thể vào hộp thư điện tử của mình để nhận ảnh mà không cần nhận trực tiếp từ Khoa như nhận bức ảnh in trên giấy. An có thể lưu ảnh về máy tính hoặc điện thoại của mình và chỉnh sửa bằng phần mềm ứng dụng rồi tiếp tục chia sẻ cho người khác.
+Thông tin số dễ dàng được nhận bản và chia sẻ. Thông tin số còn có thể được lan truyền tự động do nhiều thiết bị được đồng bộ với nhau. Điều đó khiến cho em khó biết được thiết bị nào đã nhận được thông tin hoặc thông tin sẽ lan rộng đến mức nào. Thông tin số khó bị xoá bỏ hoàn toàn.
+Thông tin số có những đặc điểm chính sau:
+• Thông tin số dễ dàng được nhận bản và lan truyền nhưng khó bị xoá bỏ hoàn toàn.
+• Thông tin số có thể được truy cập từ xa nếu người quản lí thông tin đó cho phép.
+Hoạt động 2 Thông tin số
+Khoa gửi cho An bức ảnh ruộng bậc thang qua thư điện tử. Nhận được, An chỉnh sửa lại ảnh cho đẹp hơn và sử dụng nó làm nền cho ảnh của mình rồi đưa lên trang cá nhân trên mạng xã hội. Em hãy cho biết:
+
+Máy chủ của dịch vụ thư điện tử có lưu trữ bức ảnh Khoa gửi không?
+Những ai có thể xem được bức ảnh An đưa lên mạng xã hội?
+An có thể gửi ảnh sau khi chỉnh sửa cho Khoa hoặc các bạn khác được không?
+
+Hình 2.2. Bức ảnh được sử dụng làm nền
+b) Thông tin số trong xã hội
+Khi bức ảnh đã được chia sẻ qua một ứng dụng, ví dụ thư điện tử, mạng xã hội, nó sẽ được ứng dụng đó lưu trữ lại và cho phép một số người được tiếp cận hay tiếp tục chia sẻ. Thông tin số có thể được lưu trữ với dung lượng rất lớn bởi nhiều cá nhân, tổ chức và được cấp quyền truy cập khác nhau.
+Không phải mọi thông tin trên mạng đều chân thực. An có thể lấy bức ảnh ruộng bậc thang nhận được làm nền cho ảnh của mình, nhưng không có nghĩa là An đã tới Yên Bái, nơi có ruộng bậc thang. Thông tin số dễ dàng được chỉnh sửa và lại tiếp tục được lan truyền trên mạng. Thông tin số có độ tin cậy rất khác nhau, phụ thuộc vào nguồn gốc và mục tiêu thông tin.
+Hộp kiến thức
+• Thông tin số đa dạng, được thu thập nhanh, được lưu trữ với dung lượng rất lớn bởi nhiều tổ chức và cá nhân.
+• Có nhiều công cụ hỗ trợ tìm kiếm, truy cập, lưu trữ, xử lí và chia sẻ thông tin số.
+• Quyền tác giả của thông tin số được pháp luật bảo hộ.
+• Thông tin số có mức độ tin cậy khác nhau.
+• Thông tin số cần được quản lí, khai thác an toàn và có trách nhiệm.
+Câu hỏi
+Em hãy chọn phương án ghép đúng:
+Thông tin số được nhiều tổ chức và cá nhân lưu trữ với dung lượng rất lớn,
+A. được truy cập tự do và có độ tin cậy khác nhau.
+B. được bảo hộ quyền tác giả và không đáng tin cậy.
+C. được bảo hộ quyền tác giả và có độ tin cậy khác nhau.
+D. được bảo hộ quyền tác giả và rất đáng tin cậy.
+2. THÔNG TIN ĐÁNG TIN CẬY
+Hoạt động 3 Tin giả
+
+Em hãy kể lại một nội dung trên mạng mà em biết đó là tin giả.
+Tin giả đó gây ra tác hại gì nếu người đọc tin vào điều đó?
+Làm thế nào để em biết đó là tin giả?
+
+Hình 2.3. Tin giả
+Không phải mọi thông tin chúng ta nghe thấy, xem được hay đọc được đều là sự thật. Internet là một kho thông tin khổng lồ, tuy nhiên, nhiều thông tin trên Internet có thể không đáng tin cậy. Thông tin không đáng tin cậy có thể là:
+• Thông tin không trung thực, mang tính chất lừa dối.
+• Thông tin đồn thổi, dẫn em đến kết luận thiếu căn cứ.
+• Thông tin thiếu kiểm chứng dẫn em đến quyết định sai lầm.
+Thông tin không đáng tin cậy có giá trị sử dụng thấp, thậm chí không sử dụng được. Việc xác định thông tin đáng tin cậy và biết khai thác nguồn thông tin đáng tin cậy rất quan trọng vì điều đó giúp em đưa ra những quyết định đúng đắn. Chẳng hạn, nếu không biết khai thác nguồn thông tin đáng tin cậy, mà tin vào những quảng cáo quá mức, em có thể tiêu tiền một cách lãng phí. Sau đây là một số gợi ý giúp em xác định được thông tin đáng tin cậy hay không:
+Xác định nguồn thông tin. Thẩm quyền và uy tín của tổ chức hay cá nhân cung cấp thông tin ảnh hưởng đến giá trị và độ tin cậy của thông tin. Chẳng hạn, thông tin từ blog có độ tin cậy thấp vì ai cũng có thể viết blog. Hoặc các nhà sản xuất có thể phóng đại lợi ích của dịch vụ hay sản phẩm mà họ cung cấp, trong khi hạ thấp vai trò của đối thủ cạnh tranh.
+Phân biệt ý kiến và sự kiện. Ý kiến là quan điểm, không phải sự kiện. Trong khi các ý kiến cần được xem xét và có thể cũng thú vị nhưng độ tin cậy của chúng thấp hơn sự kiện vì mang nhiều cảm xúc và định kiến cá nhân. Chẳng hạn phát biểu: “Tôi tin rằng việc đó đã xảy ra!” không có nghĩa rằng sự kiện được nói tới đã xảy ra trong thực tế.
+Kiểm tra chứng cứ của kết luận. Những kết luận không có chứng cứ, cũng giống như những ý kiến mang tính chất cá nhân nên có độ tin cậy rất thấp. Chẳng hạn, sau khi xem một bộ phim, một người nhận xét: “Tôi nghĩ đây là bộ phim hoạt hình hay nhất mọi thời đại”. Phát biểu này rõ ràng là quan điểm cá nhân và vì vậy cần được xử lí một cách thận trọng.
+Đánh giá tính thời sự của thông tin. Thời điểm công bố thông tin quan trọng vì nó quyết định thông tin có còn ý nghĩa không hay đã trở nên lỗi thời. Chẳng hạn, nội dung những trang web đã lâu không được cập nhật thường có độ tin cậy thấp.
+Hộp kiến thức
+• Thông tin đáng tin cậy giúp em đưa ra kết luận đúng, quyết định hành động đúng và giải quyết được các vấn đề được đặt ra.
+• Một số cách xác định thông tin có đáng tin cậy hay không: kiểm tra nguồn thông tin; phân biệt ý kiến với sự kiện; kiểm tra chứng cứ của kết luận; đánh giá tính thời sự của thông tin.
+LUYỆN TẬP
+
+Em hãy kể tên ba ứng dụng thu thập nhiều thông tin từ người sử dụng và cho biết:
+a) Tổ chức, cá nhân nào sở hữu các ứng dụng đó?
+b) Mỗi ứng dụng thu thập dạng thông tin nào?
+Em hãy đánh giá độ tin cậy của thông tin được cung cấp từ ba ứng dụng ở Câu 1.
+
+VẬN DỤNG
+
+Em hãy tìm kiếm trên Internet thông tin về một đội bóng, một cầu thủ hoặc một nhân vật mà em yêu thích.
+Em hãy phân tích mức độ tin cậy của nguồn tin tìm được ở Câu 1 và trình bày một bài giới thiệu về đội bóng, cầu thủ hoặc nhân vật đó.
+Em hãy kể một ví dụ về tin đồn (trong cuộc sống hoặc trên mạng) và cho biết:
+a) Tin đồn đó xuất hiện từ sự việc nào?
+b) Tác hại của tin đồn đó là gì?
+
+
+CHỦ ĐỀ 3. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HÓA TRONG MÔI TRƯỜNG SỐ
+BÀI 4
+ĐẠO ĐỨC VÀ VĂN HÓA TRONG SỬ DỤNG CÔNG NGHỆ KĨ THUẬT SỐ
+Sau bài học này em sẽ:
+• Nhận biết và giải thích được một số biểu hiện vi phạm đạo đức và pháp luật, biểu hiện thiếu văn hoá khi sử dụng công nghệ kĩ thuật số.
+• Bảo đảm được các sản phẩm số do bản thân tạo ra thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật.
+Khoa chia sẻ cho An bức ảnh ruộng bậc thang mà mình đã chụp.
+Trường hợp 1: An không hỏi ý kiến Khoa, tự mình chỉnh sửa bức ảnh và sử dụng làm nền cho ảnh của mình rồi đưa lên trang cá nhân trên mạng xã hội. An viết chú thích cho bức ảnh: Thật tuyệt khi được đến thăm nơi này.
+Trường hợp 2: An xin phép Khoa, chỉnh sửa lại bức ảnh cho đẹp hơn rồi đưa lên trang cá nhân trên mạng xã hội. An viết chú thích cho bức ảnh: Đất nước ta thật là đẹp (người chụp Lê Khoa).
+Theo em, An nên làm theo cách nào? Vì sao?
+1. BIỂU HIỆN VI PHẠM KHI SỬ DỤNG CÔNG NGHỆ KĨ THUẬT SỐ
+Hoạt động 1 Biểu hiện nào là vi phạm?
+Từ hiểu biết của em, hãy thảo luận với các bạn về một vài biểu hiện vi phạm đạo đức và pháp luật hay biểu hiện thiếu văn hoá khi sử dụng công nghệ kĩ thuật số.
+Công nghệ kĩ thuật số mang đến cho em rất nhiều lợi ích nhưng cũng tiềm ẩn những vấn nạn nhất định. Đó là những biểu hiện thiếu văn hoá, vi phạm đạo đức hoặc thậm chí vi phạm pháp luật của người sử dụng hay người tạo ra những nội dung số.
+Có thể kể ra một số biểu hiện vi phạm đạo đức, pháp luật hay thiếu văn hoá khi sử dụng công nghệ kĩ thuật số như:
+• Quay phim trong rạp chiếu phim.
+• Chụp ảnh ở nơi không cho phép (Hình 4.1).
+• Ghi âm trái phép các cuộc nói chuyện.
+• Tải về máy tính cá nhân các tệp bài hát, video có bản quyền để sử dụng mà chưa được phép.
+• Sao chép thông tin từ một trang web và coi đó là của mình.
+• Sử dụng phần mềm bẻ khoá.
+• Phát trực tiếp (livestream) hoặc chia sẻ các vụ bạo lực học đường. Đưa lên mạng thông tin cá nhân của người khác mà chưa được phép.
+• Tham gia, chia sẻ, quảng cáo cho các trang web cổ vũ bạo lực, đánh bạc,...
+Em cần tìm hiểu thông tin, trang bị cho mình những hiểu biết, những kiến thức pháp luật (Hình 4.2) để có nhận thức đúng đắn và bảo đảm rằng mình sử dụng công nghệ kĩ thuật số có trách nhiệm, tránh vi phạm pháp luật và các chuẩn mực về văn hoá, đạo đức của xã hội.
+Hình 4.1. Biển cấm quay phim, chụp ảnh
+Hình 4.2. Một chương trình cung cấp kiến thức mà học sinh cần tìm hiểu
+Ba điều lưu ý để tránh các vi phạm khi sử dụng công nghệ kĩ thuật số:
+• Tìm hiểu thông tin, trang bị cho mình những kiến thức cần thiết.
+• Chỉ sử dụng những sản phẩm số khi có sự cho phép của tác giả hoặc có bản quyền sử dụng.
+• Hầu hết thông tin trên Internet là có bản quyền.
+Câu hỏi
+
+Hành động nào sau đây không vi phạm đạo đức và pháp luật?
+A. Đăng tải thông tin sai sự thật lên mạng.
+B. Có ý nghe, ghi âm trái phép các cuộc nói chuyện.
+C. Tặng đĩa nhạc có bản quyền em đã mua cho người khác.
+D. Tải một bài trình chiếu của người khác từ Internet và sử dụng như là của mình tạo ra.
+Nêu một vài hành động chưa đúng của em khi sử dụng công nghệ kĩ thuật số mà em đã mắc phải. Nêu cách em sẽ phòng tránh hoặc từ bỏ vi phạm.
+
+2. TRUNG THỰC KHI TẠO RA SẢN PHẨM SỐ
+Có nhiều dạng sản phẩm số mà em có thể tạo ra (Hình 4.3), đáp ứng sở thích cũng như nhu cầu học tập, kết nối bạn bè.
+Hình 4.3. Các sản phẩm số được tạo bởi học sinh
+Nhờ công nghệ kĩ thuật số và các thiết bị điện tử thông minh, việc tạo ra các sản phẩm số rất dễ dàng và nhanh chóng. Tuy nhiên, em cần phải bảo đảm được sản phẩm số do bản thân tạo ra thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật. Để thực hiện được việc đó em cần trang bị cho mình những kiến thức cần thiết và chú ý một số điều sau:
+• Luôn trung thực trong quá trình tạo ra sản phẩm số: không sử dụng thông tin giả, thông tin không đáng tin cậy; không sao chép, chỉnh sửa thông tin của người khác rồi coi là của mình. Ở tình huống khởi động của bài, nếu An làm theo trường hợp 1, không hỏi ý kiến Khoa mà chỉnh sửa ảnh rồi viết chú thích làm người xem ảnh hiểu nhầm là An đã đến địa điểm trong ảnh, không ghi chú tác giả bức ảnh là Khoa thì đó là một việc không trung thực. Mặc dù việc này không vi phạm pháp luật nhưng vi phạm đạo đức.
+• Nên sử dụng thông tin do mình tự tạo (tự quay video, chụp ảnh, viết nội dung,...), không sử dụng các thông tin có bản quyền nếu chưa mua hoặc xin phép.
+• Nội dung và hình thức của sản phẩm tạo ra không được vi phạm các quy định, chuẩn mực về đạo đức, văn hoá trong xã hội nói chung. Ví dụ: chỉ dùng ngôn ngữ lịch sự, không dùng các hình ảnh giật gân, không tiết lộ thông tin cá nhân của người khác,...
+Cần bảo đảm tính văn hoá, thể hiện được đạo đức và tuân thủ pháp luật khi tạo ra các sản phẩm số, giúp tránh được việc lan truyền thông tin sai trái, đồng thời góp phần tạo ra một xã hội số lành mạnh và hợp pháp.
+Câu hỏi
+Em có cảnh báo và lời khuyên gì với bạn trong mỗi tình huống dưới đây?
+a) Bạn em quay video các bạn trong lớp có hành vi bạo lực và đăng lên mạng xã hội.
+b) Một người bạn sử dụng ảnh em chụp để tham gia một cuộc thi ảnh nhưng chưa có sự đồng ý của em.
+LUYỆN TẬP
+Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số.
+a) Chia sẻ thông tin mua bán động vật hoang dã quý hiếm.
+b) Tạo một trang cá nhân để chia sẻ những kinh nghiệm học tập của mình.
+c) Quay và lan truyền video bạo lực học đường.
+d) Sáng tác một bài thơ về lớp và gửi bạn bè cùng đọc.
+e) Tham gia cá cược bóng đá qua Internet.
+f) Chia sẻ địa chỉ một website có chứa các bộ phim không có bản quyền sử dụng.
+VẬN DỤNG
+Em hãy tạo một sản phẩm số theo cách sáng tạo để hướng dẫn các bạn hiểu đúng về việc sử dụng công nghệ kĩ thuật số. Em hãy đảm bảo sản phẩm của mình thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật nhé.
+CHỦ ĐỀ 4. ỨNG DỤNG TIN HỌC
+BÀI 5
+SỬ DỤNG BẢNG TÍNH GIẢI QUYẾT BÀI TOÁN THỰC TẾ
+Sau bài học này em sẽ:
+• Giải thích được sự thay đổi địa chỉ tương đối trong công thức khi sao chép công thức.
+• Giải thích được sự khác nhau giữa địa chỉ tương đối và địa chỉ tuyệt đối của một ô tính.
+• Sử dụng được phần mềm bảng tính trợ giúp giải quyết bài toán thực tế.
+• Sao chép được dữ liệu từ các tệp văn bản, trang trình chiếu sang trang tính.
+Bố của Khoa là giám đốc một công ti sản xuất phần mềm máy tính. Bố là người truyền cho Khoa niềm đam mê tin học. Trong kì nghỉ hè vừa qua, để ôn lại kiến thức và tìm hiểu thêm về phần mềm bảng tính, bố giao cho Khoa tính toán doanh thu một số phần mềm mà công ti của bố sản xuất. Những phần mềm này được đưa lên các chợ ứng dụng trên mạng. Người sử dụng truy cập vào các chợ ứng dụng tìm kiếm phần mềm mà mình cần để mua và cài đặt. Tuỳ theo từng phần mềm, người sử dụng có thể phải trả phí hoặc được miễn phí. Để hoàn thành việc bố giao, Khoa đã tạo bảng tính để lưu thông tin về các phần mềm như minh họa trong Hình 5.1.
+Hình 5.1. Danh sách phần mềm của công ti
+Theo em, bảng tính bạn Khoa tạo ra ở Hình 5.1 có cần bổ sung thông tin gì không?
+1. ĐỊA CHỈ TƯƠNG ĐỐI
+Hoạt động 1 Tính doanh thu phần mềm
+Dựa vào thông tin mà bạn Khoa đã lưu trữ trong bảng tính ở Hình 5.1, em hãy thực hiện:
+
+Viết công thức để tính Doanh thu của phần mềm Quản lí thời gian dựa trên Đơn giá và Số lượt mua (đơn giá bằng 0 là phần mềm miễn phí).
+Thao tác nào giúp em tính toán doanh thu cho các phần mềm còn lại mà không cần gõ công thức vào từng ô? Khi thực hiện thao tác đó, địa chỉ ở trong công thức sẽ thay đổi như thế nào?
+
+Một trong những ưu điểm nổi bật của chương trình bảng tính là tính toán tự động. Có ưu điểm này là vì chương trình bảng tính cho phép tính toán theo địa chỉ ô. Chương trình bảng tính sử dụng ba loại địa chỉ ô là địa chỉ tương đối, địa chỉ tuyệt đối và địa chỉ hỗn hợp. Trong bài học này, chúng ta sẽ tìm hiểu về địa chỉ tương đối và địa chỉ tuyệt đối.
+Ví dụ, chúng ta tính Doanh thu của mỗi phần mềm ở Hình 5.1 theo công thức:
+Doanh thu = Đơn giá × Số lượt mua
+Vì Đơn giá và Số lượt mua thay đổi theo từng phần mềm khác nhau nên cần tạo ra công thức tính toán (tại cột E) sao cho địa chỉ ô thay đổi theo từng dòng tương ứng với mỗi phần mềm khác nhau. Trong Hình 5.2, công thức tại ô E4 là =C4D4. Khi sao chép công thức này đến ô E5 thì các địa chỉ ô trong công thức sẽ tự động thay đổi, do đó công thức tại ô E5 là =C5D5. Các địa chỉ C4, D4, C5, D5 trong các công thức trên đều là địa chỉ tương đối. Khi nhập địa chỉ ô cho một công thức bằng thao tác nháy chuột vào ô thì chương trình bảng tính mặc định lấy địa chỉ ô đó là địa chỉ tương đối.
+Hình 5.2. Địa chỉ trong công thức tại ô E4 là địa chỉ tương đối
+Địa chỉ tương đối tự động thay đổi khi sao chép công thức.
+Nếu sao chép công thức từ ô E4 đến các ô E6, E7, E8 và E9 (Hình 5.2) thì công thức trong các ô E6, E7, E8, E9 là gì?
+2. ĐỊA CHỈ TUYỆT ĐỐI
+Hoạt động 2 Địa chỉ tuyệt đối
+Bạn Khoa đã tính được Doanh thu của mỗi phần mềm. Tìm hiểu thêm, bạn được biết “Doanh thu là số tiền thu được của đơn vị quản lí cho ứng dụng khi người sử dụng trả tiền mua phần mềm. Công ti của bố Khoa được trả 70% của số tiền này và gọi là Doanh thu của công ti”. Giả sử tỉ lệ phần trăm doanh thu mà công ti phần mềm được hưởng lưu ở ô F2 như minh họa trong Hình 5.3.
+Hình 5.3. Tỉ lệ doanh thu của công ti được lưu ở ô F2
+
+Em hãy nhập công thức để tính Doanh thu của công ti cho phần mềm Quản lí thời gian và Trò chơi sáng tạo vào ô F4 và F5, biết rằng:
+Doanh thu của công ti = Doanh thu × Tỉ lệ (được lưu tại ô F2)
+Nếu sao chép công thức từ ô F4 vào ô F5 thì công thức nhận được tại ô F5 có đúng yêu cầu không? Vì sao?
+
+Trong chương trình bảng tính, một địa chỉ ô trong công thức không thay đổi khi sao chép công thức thì địa chỉ đó là địa chỉ tuyệt đối. Phần mềm bảng tính quy định địa chỉ tuyệt đối có dấu $ trước tên cột và tên hàng. Ví dụ, $F$2 là địa chỉ tuyệt đối. Sau khi nhập địa chỉ tương đối, em nhấn phím F4 để chuyển địa chỉ tương đối thành địa chỉ tuyệt đối.
+Với yêu cầu tính Doanh thu của công ti, ta có công thức Doanh thu của công ti = Doanh thu × Tỉ lệ. Trong công thức này, giá trị của Doanh thu thay đổi theo từng phần mềm, còn giá trị của Tỉ lệ luôn cố định là 70% (như minh họa trong Hình 5.3).
+Xem xét công thức tính Doanh thu của công ti cho hai phần mềm Quản lí thời gian và Trò chơi sáng tạo, tại ô F4 và F5, ta có công thức như Hình 5.4.
+Các địa chỉ thay đổi trong các công thức
+Tại ô F4 = E4 * $F$2
+Tại ô F5 = E5 * $F$2
+Địa chỉ F2 không thay đổi trong các công thức
+Hình 5.4. Công thức tại ô F4 và F5
+Như vậy, để công thức thực hiện chính xác yêu cầu của bài toán thì địa chỉ ô chứa giá trị Doanh thu là địa chỉ tương đối, địa chỉ ô F2 chứa Tỉ lệ là địa chỉ tuyệt đối. Vì vậy, công thức đúng tại ô F4 để tính doanh thu của công ti cho phần mềm Quản lí thời gian là =E4*$F$2. Khi đó, việc sao chép công thức từ ô F4 đến các ô còn lại để tính Doanh thu của công ti cho các phần mềm trong danh sách sẽ trả lại kết quả chính xác.
+Hộp kiến thức
+• Địa chỉ tương đối tự động thay đổi khi sao chép công thức.
+• Địa chỉ tuyệt đối không thay đổi khi sao chép công thức.
+• Địa chỉ tuyệt đối có dấu $ trước tên cột và tên hàng.
+Câu hỏi
+
+Trong Hình 5.3, công thức tại ô F5 là =E5*$F$2. Sao chép công thức này đến ô F6, kết quả sao chép là:
+A. =E6F3 B. =E6$F$2 C. =$E$6F3 D. =$E$6$F$2
+Cách nhập kí hiệu $ cho địa chỉ tuyệt đối là:
+A. Gõ kí hiệu $ từ bàn phím khi nhập địa chỉ ô.
+B. Sau khi nhập địa chỉ tương đối, nhấn phím F4 để chuyển thành địa chỉ tuyệt đối.
+C. Sau khi nhập địa chỉ tương đối, nhấn phím F2 để chuyển thành địa chỉ tuyệt đối.
+D. Thực hiện được theo cả hai cách A và B.
+
+3. THỰC HÀNH: SỬ DỤNG BẢNG TÍNH GIẢI QUYẾT BÀI TOÁN THỰC TẾ
+Nhiệm vụ
+Tạo bảng tính theo mẫu như Hình 5.1. Lập công thức sử dụng địa chỉ tương đối và địa chỉ tuyệt đối để tính Doanh thu mỗi phần mềm và Doanh thu của công ti.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phần mềm bảng tính Microsoft Excel phiên bản 2016 để minh họa.)
+a) Tạo bảng dữ liệu trong chương trình bảng tính
+
+Khởi động phần mềm bảng tính.
+Nhập dữ liệu và định dạng để được bảng tính chứa đầy đủ thông tin như Hình 5.1.
+Lưu tệp.
+
+b) Tính Doanh thu của mỗi phần mềm
+
+Tại ô E4, nhập công thức =C4*D4.
+Sao chép công thức tại ô E4 cho các ô từ E5 đến E9.
+Lưu tệp.
+
+c) Tính Doanh thu của công ti
+
+Tại ô D2, gõ nội dung “Tỉ lệ doanh thu của công ti”. Tại ô F2, gõ tỉ lệ là 70% như minh họa trong Hình 5.3.
+Tại ô F3, gõ tiêu đề “Doanh thu của công ti” và định dạng để được bảng dữ liệu như minh họa trong Hình 5.3.
+Tại ô F4, nhập công thức =E4*$F$2 bằng cách gõ dấu $ từ bàn phím hoặc sau khi nhập F2 thì nhấn phím F4 trên bàn phím.
+Sao chép công thức tại ô F4 đến các ô từ F5 đến F9.
+Lưu tệp.
+
+4. THỰC HÀNH: SAO CHÉP DỮ LIỆU TỪ CÁC TỆP VĂN BẢN, TRANG TRÌNH CHIẾU SANG TRANG TÍNH
+Trong thực tế, có nhiều tình huống bảng dữ liệu được tạo ra trong phần mềm soạn thảo văn bản hoặc phần mềm trình chiếu. Khi cần tính toán trên các bảng dữ liệu này, em có thể sao chép bảng dữ liệu sang phần mềm bảng tính để giúp công việc được giải quyết nhanh chóng và hiệu quả.
+Nhiệm vụ
+Giả sử kết quả số học sinh chọn mỗi nhóm nghề của lĩnh vực Công nghệ thông tin được lưu trữ trong phần mềm soạn thảo văn bản hoặc phần mềm trình chiếu như Bảng 5.1.
+Bảng 5.1. Số liệu thống kê lựa chọn nghề nghiệp của học sinh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TTNhóm nghềNghềSố lượng HS1Lĩnh vực phát triển phần mềmLập trình viên, Thiết kế phần mềm, Kiến trúc sư phần mềm, Kiểm thử phần mềm, ...462Lĩnh vực mạng máy tính và an toàn thông tinQuản trị mạng, An toàn thông tin, ...253Lĩnh vực đa phương tiệnThiết kế đồ họa, truyền thông đa phương tiện784Lĩnh vực khác của Công nghệ thông tinQuản trị website, giảng viên Công nghệ thông tin, ...42
+Em hãy sao chép bảng số liệu này sang phần mềm bảng tính.
+Hướng dẫn
+
+Trong phần mềm soạn thảo văn bản hoặc phần mềm trình chiếu, chọn các hàng, cột của bảng.
+Chọn Home, chọn lệnh Copy hoặc nhấn tổ hợp phím Ctrl + C.
+Trong phần mềm bảng tính, mở bảng tính mới, chọn ô ở góc trên cùng bên trái của vùng muốn dán dữ liệu và chọn lệnh Paste.
+Đóng tệp văn bản hoặc tệp trình chiếu.
+Lưu tệp bảng tính với tên Khaosat.xlsx.
+
+LUYỆN TẬP
+
+Em hãy nêu ví dụ minh họa cho sự khác nhau giữa địa chỉ tương đối và địa chỉ tuyệt đối.
+Em hãy tạo một bảng tính đơn giản để tính tổng điểm của học sinh trong lớp và sử dụng địa chỉ tương đối, địa chỉ tuyệt đối trong công thức.
+
+VẬN DỤNG
+Em hãy tạo bảng tính để quản lí chi tiêu hàng tháng của gia đình. Sử dụng công thức với địa chỉ tương đối và địa chỉ tuyệt đối để tính tổng chi tiêu và tỉ lệ chi tiêu cho từng khoản.
+✅ ĐÃ GỬI PHẦN 4 – TIN HỌC 8 (Kết nối tri thức với cuộc sống)
+Dưới đây là Phần 4 (tiếp nối ngay sau Phần 3).
+Bạn copy toàn bộ văn bản bên dưới và dán tiếp vào file Tin_hoc_8_KNTT.txt (ngay sau nội dung Phần 3).
+
+BÀI 6
+SẮP XẾP VÀ LỌC DỮ LIỆU
+Sau bài học này em sẽ:
+• Sử dụng được lệnh sắp xếp dữ liệu trong bảng tính.
+• Sử dụng được lệnh lọc dữ liệu trong bảng tính.
+• Áp dụng được sắp xếp và lọc dữ liệu để giải quyết bài toán thực tế.
+Bạn Khoa đang giúp bố quản lí danh sách khách hàng của công ti. Danh sách này được lưu trong bảng tính như Hình 6.1.
+Hình 6.1. Danh sách khách hàng
+Hoạt động 1 Sắp xếp và lọc dữ liệu
+
+Em hãy sắp xếp danh sách khách hàng theo thứ tự tên khách hàng từ A đến Z.
+Em hãy lọc ra những khách hàng ở Hà Nội.
+Theo em, việc sắp xếp và lọc dữ liệu giúp ích gì cho việc quản lí danh sách khách hàng?
+
+1. SẮP XẾP DỮ LIỆU
+Chương trình bảng tính cho phép sắp xếp dữ liệu theo thứ tự tăng dần hoặc giảm dần theo một hoặc nhiều cột.
+Cách thực hiện sắp xếp
+
+Chọn vùng dữ liệu cần sắp xếp (bao gồm cả tiêu đề cột).
+Chọn tab Data → nhóm Sort & Filter → Sort.
+Trong hộp thoại Sort, chọn cột muốn sắp xếp, chọn thứ tự (A to Z hoặc Z to A).
+Nhấn OK.
+
+Hình 6.2. Hộp thoại Sort
+2. LỌC DỮ LIỆU
+Lọc dữ liệu giúp hiển thị chỉ những dòng thoả mãn điều kiện nhất định, các dòng không thoả mãn sẽ bị ẩn đi.
+Cách thực hiện lọc
+
+Chọn vùng dữ liệu (bao gồm tiêu đề).
+Chọn tab Data → Filter.
+Nháy mũi tên bên cạnh tiêu đề cột muốn lọc, chọn điều kiện lọc (Text Filters, Number Filters…).
+Nhấn OK.
+
+Hình 6.3. Lọc theo điều kiện
+Hộp kiến thức
+• Sắp xếp dữ liệu giúp sắp xếp lại các dòng theo thứ tự tăng hoặc giảm của một hoặc nhiều cột.
+• Lọc dữ liệu giúp hiển thị chỉ những dòng thoả mãn điều kiện, các dòng khác bị ẩn đi.
+Câu hỏi
+
+Khi sắp xếp dữ liệu, em có thể sắp xếp theo mấy cột cùng một lúc?
+Sau khi lọc dữ liệu, các dòng không thoả mãn điều kiện sẽ bị sao?
+
+LUYỆN TẬP
+Sử dụng bảng tính danh sách khách hàng ở Hình 6.1:
+
+Sắp xếp danh sách theo thứ tự giảm dần của cột “Số điện thoại”.
+Lọc ra tất cả khách hàng ở tỉnh “Hà Nội” và “Hải Phòng”.
+
+VẬN DỤNG
+Em hãy tạo bảng tính quản lí điểm số của lớp mình, sau đó thực hiện sắp xếp và lọc để tìm ra:
+
+Top 5 học sinh có điểm cao nhất.
+Danh sách học sinh có điểm dưới trung bình.
+
+
+BÀI 7
+TRỰC QUAN HOÁ DỮ LIỆU
+Sau bài học này em sẽ:
+• Biết và sử dụng được một số loại biểu đồ trong bảng tính.
+• Tạo và chỉnh sửa biểu đồ từ dữ liệu trong bảng tính.
+• Biết sử dụng biểu đồ để trình bày và phân tích dữ liệu.
+Hoạt động 1 Trực quan hoá dữ liệu
+Quan sát Hình 7.1, em cho biết:
+
+Biểu đồ này thể hiện điều gì?
+Theo em, sử dụng biểu đồ có lợi ích gì so với chỉ dùng bảng số liệu?
+
+Hình 7.1. Biểu đồ doanh thu
+1. CÁC LOẠI BIỂU ĐỒ
+Chương trình bảng tính cung cấp nhiều loại biểu đồ khác nhau để trực quan hoá dữ liệu. Một số loại phổ biến:
+
+Biểu đồ cột (Column): So sánh các giá trị theo hạng mục.
+Biểu đồ cột ngang (Bar): Tương tự cột nhưng nằm ngang.
+Biểu đồ đường (Line): Thể hiện xu hướng thay đổi theo thời gian.
+Biểu đồ tròn (Pie): Thể hiện tỉ lệ phần trăm của các thành phần trong tổng thể.
+Biểu đồ vùng (Area): Thể hiện sự thay đổi và đóng góp của từng phần theo thời gian.
+
+Hộp kiến thức
+Biểu đồ giúp trình bày dữ liệu một cách trực quan, dễ hiểu, giúp người xem nhanh chóng nắm bắt xu hướng, so sánh và phân tích dữ liệu.
+2. TẠO VÀ CHỈNH SỬA BIỂU ĐỒ
+Cách tạo biểu đồ
+
+Chọn vùng dữ liệu cần vẽ biểu đồ.
+Chọn tab Insert → nhóm Charts → chọn loại biểu đồ.
+Biểu đồ sẽ được tạo ngay trên trang tính.
+
+Cách chỉnh sửa biểu đồ
+
+Chọn biểu đồ → tab Chart Design và Format xuất hiện.
+Thay đổi tiêu đề, nhãn trục, màu sắc, kiểu biểu đồ, thêm dữ liệu,…
+
+Hình 7.2. Tab Chart Design
+LUYỆN TẬP
+Sử dụng bảng tính Doanh thu phần mềm ở Bài 5, em hãy:
+
+Tạo biểu đồ cột thể hiện doanh thu của từng phần mềm.
+Tạo biểu đồ tròn thể hiện tỉ lệ doanh thu của công ti theo từng phần mềm.
+
+VẬN DỤNG
+Em hãy thu thập số liệu về số lượng học sinh chọn các môn học tự chọn trong lớp, sau đó tạo bảng tính và vẽ ít nhất hai loại biểu đồ khác nhau để trình bày kết quả.
+BÀI 8a
+LÀM VIỆC VỚI DANH SÁCH DẠNG LIỆT KÊ VÀ HÌNH ẢNH TRONG VĂN BẢN
+Sau bài học này em sẽ:
+• Sử dụng được danh sách dạng liệt kê (bulleted list, numbered list) trong văn bản.
+• Chèn và định dạng hình ảnh trong văn bản.
+Hoạt động 1 Danh sách liệt kê
+Em hãy quan sát văn bản sau và cho biết:
+
+Văn bản sử dụng loại danh sách liệt kê nào?
+Lợi ích của việc sử dụng danh sách liệt kê là gì?
+
+1. DANH SÁCH LIỆT KÊ
+Trong Microsoft Word, danh sách liệt kê giúp trình bày thông tin rõ ràng, có cấu trúc. Có hai loại chính:
+• Danh sách có dấu đầu dòng (Bulleted list).
+• Danh sách có số thứ tự (Numbered list).
+Cách tạo danh sách
+
+Chọn đoạn văn cần chuyển thành danh sách.
+Chọn tab Home → nhóm Paragraph → nháy biểu tượng Bullets hoặc Numbering.
+Để thay đổi kiểu dấu đầu dòng hoặc số, nháy mũi tên bên cạnh biểu tượng.
+
+Hộp kiến thức
+Danh sách liệt kê giúp văn bản dễ đọc, có cấu trúc rõ ràng và chuyên nghiệp hơn.
+2. CHÈN VÀ ĐỊNH DẠNG HÌNH ẢNH
+Cách chèn hình ảnh
+
+Chọn vị trí muốn chèn.
+Chọn tab Insert → Pictures → chọn ảnh từ máy tính.
+
+Cách định dạng hình ảnh
+
+Chọn ảnh → tab Picture Format xuất hiện.
+Có thể thay đổi kích thước, vị trí, kiểu viền, hiệu ứng, căn chỉnh với văn bản (Wrap Text).
+
+Hình 8a.1. Tab Picture Format
+LUYỆN TẬP
+Tạo một văn bản giới thiệu về trường em, sử dụng danh sách liệt kê để trình bày các hoạt động ngoại khoá và chèn ít nhất 2 hình ảnh minh hoạ.
+VẬN DỤNG
+Em hãy tạo một tài liệu quảng cáo cho dự án Trường học xanh (từ các bài trước), sử dụng danh sách liệt kê và hình ảnh để trình bày lợi ích của dự án.
+
+BÀI 9a
+TẠO ĐẦU TRANG, CHÂN TRANG CHO VĂN BẢN
+Sau bài học này em sẽ:
+• Tạo và chỉnh sửa đầu trang, chân trang trong văn bản.
+• Thêm số trang, ngày tháng, tên tài liệu vào đầu trang/chân trang.
+Hoạt động 1 Đầu trang và chân trang
+
+Theo em, đầu trang và chân trang dùng để làm gì?
+Em thường thấy thông tin gì trong đầu trang/chân trang của một tài liệu?
+
+Cách tạo đầu trang/chân trang
+
+Chọn tab Insert → Header hoặc Footer.
+Chọn mẫu có sẵn hoặc Edit Header/Footer.
+Thêm văn bản, số trang, ngày tháng, hình ảnh.
+
+Hộp kiến thức
+Đầu trang và chân trang giúp tài liệu chuyên nghiệp hơn, hiển thị thông tin lặp lại trên mọi trang (số trang, tên tài liệu, ngày soạn...).
+LUYỆN TẬP
+Tạo một tài liệu báo cáo, thêm đầu trang ghi tên trường và lớp, chân trang ghi số trang và ngày tháng.
+VẬN DỤNG
+Em hãy tạo tài liệu tóm tắt dự án Trường học xanh với đầu trang/chân trang phù hợp.
+
+BÀI 10a
+ĐỊNH DẠNG NÂNG CAO CHO TRANG CHIẾU
+Sau bài học này em sẽ:
+• Sử dụng được các công cụ định dạng nâng cao trong PowerPoint.
+• Áp dụng hiệu ứng và chuyển tiếp hợp lí cho bài trình chiếu.
+Hoạt động 1 Định dạng nâng cao
+Quan sát một bài trình chiếu và cho biết em muốn thay đổi những gì để bài trình chiếu đẹp và chuyên nghiệp hơn.
+Cách định dạng nâng cao
+
+Thay đổi chủ đề (Theme).
+Sử dụng Master Slide để định dạng đồng bộ.
+Thêm hiệu ứng animation cho đối tượng.
+Thêm transition cho trang chiếu.
+
+Hộp kiến thức
+Định dạng nâng cao giúp bài trình chiếu đồng bộ, hấp dẫn và chuyên nghiệp.
+LUYỆN TẬP
+Mở bài trình chiếu đã tạo ở Bài 11 trước, áp dụng định dạng nâng cao và hiệu ứng.
+VẬN DỤNG
+Hoàn thiện bài trình chiếu về Năng lượng tái tạo với định dạng nâng cao.
+
+BÀI 11a
+SỬ DỤNG BẢN MẪU TẠO BÀI TRÌNH CHIẾU
+Sau bài học này em sẽ:
+• Sử dụng được bản mẫu (template) để tạo bài trình chiếu nhanh chóng.
+• Tùy chỉnh bản mẫu cho phù hợp với nội dung.
+Hoạt động 1 Bản mẫu
+Em hãy cho biết lợi ích của việc sử dụng bản mẫu khi tạo bài trình chiếu.
+Cách sử dụng bản mẫu
+
+Chọn tab File → New → chọn template.
+Thay thế nội dung mẫu bằng nội dung của em.
+
+LUYỆN TẬP
+Tạo bài trình chiếu mới bằng một bản mẫu có sẵn và tùy chỉnh.
+VẬN DỤNG
+Sử dụng bản mẫu để tạo bài trình chiếu giới thiệu về một chủ đề em quan tâm.
+
+b. Làm quen với phần mềm chỉnh sửa ảnh
+BÀI 8b
+PHẦN MỀM CHỈNH SỬA ẢNH
+Sau bài học này em sẽ:
+• Biết và sử dụng được một số chức năng cơ bản của phần mềm chỉnh sửa ảnh GIMP.
+Hoạt động 1 Làm quen với GIMP
+Mở GIMP và quan sát giao diện, cho biết các thành phần chính.
+Hộp kiến thức
+GIMP là phần mềm chỉnh sửa ảnh mã nguồn mở, miễn phí, có nhiều công cụ mạnh mẽ.
+LUYỆN TẬP
+Mở một ảnh trong GIMP và thử các công cụ cơ bản (crop, resize, brightness).
+VẬN DỤNG
+Chỉnh sửa một bức ảnh cá nhân để làm avatar hoặc ảnh bìa.
+
+BÀI 9b
+THAY ĐỔI KHUNG HÌNH, KÍCH THƯỚC ẢNH
+Sau bài học này em sẽ:
+• Thay đổi kích thước và khung hình của ảnh trong GIMP.
+Hoạt động 1
+Thực hành crop và resize một bức ảnh.
+BÀI 10b
+THÊM VĂN BẢN, TẠO HIỆU ỨNG CHO ẢNH
+Sau bài học này em sẽ:
+• Thêm văn bản và hiệu ứng cho ảnh.
+BÀI 11b
+THỰC HÀNH TỔNG HỢP
+Thực hành tổng hợp các kỹ năng chỉnh sửa ảnh để tạo một sản phẩm hoàn chỉnh.
+CHỦ ĐỀ 5. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH
+BÀI 12
+TỪ THUẬT TOÁN ĐẾN CHƯƠNG TRÌNH
+Sau bài học này em sẽ:
+• Hiểu mối quan hệ giữa thuật toán và chương trình máy tính.
+• Viết được chương trình đơn giản bằng ngôn ngữ lập trình trực quan Scratch.
+Hoạt động 1 Thuật toán và chương trình
+
+Em hãy nêu lại khái niệm thuật toán.
+Theo em, để máy tính thực hiện được thuật toán thì cần làm gì?
+
+Thuật toán là một chuỗi các bước hữu hạn, rõ ràng để giải quyết một bài toán. Để máy tính thực hiện được thuật toán, con người phải viết thuật toán đó dưới dạng chương trình máy tính bằng một ngôn ngữ lập trình mà máy tính hiểu được.
+Hộp kiến thức
+Chương trình máy tính là cách biểu diễn thuật toán bằng ngôn ngữ lập trình để máy tính có thể thực thi.
+Câu hỏi
+
+Thuật toán và chương trình có mối quan hệ như thế nào?
+Tại sao cần chuyển thuật toán thành chương trình?
+
+LUYỆN TẬP
+Viết thuật toán tìm số lớn nhất trong ba số a, b, c bằng ngôn ngữ tự nhiên, sau đó chuyển thành chương trình Scratch đơn giản.
+VẬN DỤNG
+Em hãy viết một chương trình Scratch đơn giản để vẽ một hình vuông hoặc một ngôi nhà.
+
+BÀI 13
+BIỂU DIỄN DỮ LIỆU
+Sau bài học này em sẽ:
+• Biết cách biểu diễn dữ liệu số, văn bản, hình ảnh dưới dạng bit.
+• Hiểu khái niệm bit, byte và các đơn vị lưu trữ.
+Hoạt động 1 Biểu diễn dữ liệu
+
+Máy tính lưu trữ và xử lí thông tin như thế nào?
+Một chữ cái “A” trong máy tính được biểu diễn ra sao?
+
+Máy tính chỉ hiểu và xử lí được dữ liệu dưới dạng số nhị phân (0 và 1). Mỗi chữ số nhị phân gọi là một bit.
+8 bit = 1 byte.
+Các đơn vị lớn hơn: KB, MB, GB, TB,...
+Hộp kiến thức
+Mọi loại dữ liệu (số, văn bản, hình ảnh, âm thanh, video) đều được mã hoá thành chuỗi bit để máy tính xử lí và lưu trữ.
+Câu hỏi
+1 byte bằng bao nhiêu bit?
+Một ảnh có dung lượng 2 MB thì bằng bao nhiêu byte?
+LUYỆN TẬP
+Chuyển số thập phân 10 sang nhị phân và giải thích cách máy tính lưu trữ chữ “Xin chào”.
+VẬN DỤNG
+Em hãy tính dung lượng một bài hát 4 phút nếu biết tốc độ lấy mẫu là 128 kbps.
+
+BÀI 14
+CẤU TRÚC ĐIỀU KHIỂN
+Sau bài học này em sẽ:
+• Hiểu và sử dụng được các cấu trúc điều khiển trong lập trình: tuần tự, rẽ nhánh, lặp.
+• Viết được chương trình có sử dụng cấu trúc rẽ nhánh và lặp trong Scratch.
+Hoạt động 1 Cấu trúc điều khiển
+Quan sát một chương trình Scratch và cho biết có những cấu trúc điều khiển nào.
+1. Cấu trúc tuần tự
+Các lệnh được thực hiện lần lượt từ trên xuống dưới.
+2. Cấu trúc rẽ nhánh (if...then...else)
+Thực hiện lệnh này hay lệnh kia tuỳ theo điều kiện.
+3. Cấu trúc lặp (repeat, forever, repeat until)
+Lặp lại một nhóm lệnh nhiều lần.
+Hộp kiến thức
+Các cấu trúc điều khiển giúp chương trình linh hoạt, thực hiện được nhiều logic phức tạp.
+LUYỆN TẬP
+Viết chương trình Scratch kiểm tra một số có phải là số chẵn hay không.
+VẬN DỤNG
+Tạo một trò chơi đoán số trong Scratch sử dụng cấu trúc rẽ nhánh và lặp.
+
+BÀI 15
+GỠ LỖI
+Sau bài học này em sẽ:
+• Biết cách phát hiện và sửa lỗi trong chương trình.
+• Hiểu một số lỗi phổ biến khi lập trình.
+Hoạt động 1 Gỡ lỗi
+Chạy một chương trình Scratch có lỗi và tìm cách sửa.
+Các loại lỗi phổ biến
+• Lỗi cú pháp (syntax error)
+• Lỗi logic (logic error)
+• Lỗi thời gian chạy (runtime error)
+Hộp kiến thức
+Gỡ lỗi là kỹ năng quan trọng giúp chương trình chạy đúng như mong muốn.
+LUYỆN TẬP
+Sửa lỗi trong một chương trình mẫu do giáo viên cung cấp.
+VẬN DỤNG
+Viết chương trình tính tổng các số từ 1 đến n, sau đó gỡ lỗi nếu có.
+
+CHỦ ĐỀ 6. HƯỚNG NGHIỆP VỚI TIN HỌC
+BÀI 16
+TIN HỌC VỚI NGHỀ NGHIỆP
+Sau bài học này em sẽ:
+• Nêu được một số nghề nghiệp liên quan đến Tin học.
+• Hiểu vai trò của Tin học trong nhiều lĩnh vực nghề nghiệp.
+Hoạt động 1 Nghề nghiệp tương lai
+Em hãy liệt kê một số nghề mà em quan tâm và cho biết Tin học hỗ trợ như thế nào trong nghề đó.
+Một số nghề liên quan đến Tin học
+• Lập trình viên
+• Kĩ sư phần mềm
+• Chuyên gia an ninh mạng
+• Thiết kế đồ hoạ, UX/UI
+• Phân tích dữ liệu (Data Analyst)
+• Quản trị hệ thống, quản trị mạng
+• Giáo viên Tin học, đào tạo công nghệ
+Tin học không chỉ là nghề riêng mà còn là công cụ hỗ trợ hầu hết các nghề khác trong xã hội số.
+Hộp kiến thức
+Tin học là nền tảng của nhiều nghề nghiệp trong tương lai và là kỹ năng cần thiết cho mọi ngành nghề.
+LUYỆN TẬP
+Em hãy chọn một nghề nghiệp và trình bày vai trò của Tin học trong nghề đó.
+VẬN DỤNG
+Em hãy viết một đoạn giới thiệu ngắn về kế hoạch học tập Tin học của mình để chuẩn bị cho nghề nghiệp tương lai.
+BẢNG GIẢI THÍCH THUẬT NGỮ
+Thuật ngữGiải thíchBitChữ số nhị phân (0 hoặc 1), đơn vị thông tin nhỏ nhấtByte8 bitThuật toánChuỗi bước hữu hạn, rõ ràng để giải quyết một bài toánChương trình máy tínhBiểu diễn thuật toán bằng ngôn ngữ lập trìnhĐịa chỉ tương đốiĐịa chỉ ô tự động thay đổi khi sao chép công thứcĐịa chỉ tuyệt đốiĐịa chỉ ô không thay đổi khi sao chép công thức (có dấu $)Biểu đồCông cụ trực quan hoá dữ liệuGỡ lỗiPhát hiện và sửa lỗi trong chương trìnhThông tin sốThông tin được mã hoá thành dãy bit… (và các thuật ngữ khác trong sách)…

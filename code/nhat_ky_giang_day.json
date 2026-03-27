@@ -1,0 +1,22 @@
+[
+    {
+        "role": "user",
+        "content": "hello ",
+        "time": "15:26:39 20/03/2026"
+    },
+    {
+        "role": "assistant",
+        "content": "Xin chào! Thầy/Cô rất vui được gặp em trong lớp học Tin học. Em cần giúp đỡ gì về môn Tin học cấp 2 không? Scratch, Python, thuật toán, hay có thể làOffice và Internet? Hãy cho thầy/cô biết em đang gặp khó khăn gì, hoặc có câu hỏi gì về môn học nhé!",
+        "time": "15:26:40 20/03/2026"
+    },
+    {
+        "role": "user",
+        "content": "giá xăng hiện nay là bao nhiêu ",
+        "time": "15:28:00 20/03/2026"
+    },
+    {
+        "role": "assistant",
+        "content": "Thầy/Cô chỉ hỗ trợ các em trong phạm vi môn Tin học cấp 2 thôi nhé! Giá xăng hiện nay không thuộc phạm vi môn Tin học, nếu em muốn biết giá xăng, em có thể tìm kiếm thông tin trên internet hoặc hỏi người lớn trong gia đình nhé! \n\nNếu em muốn học hoặc hỏi về Scratch, Python, thuật toán, Office hay Internet, thầy/cô sẵn lòng giúp đỡ!",
+        "time": "15:28:01 20/03/2026"
+    }
+]

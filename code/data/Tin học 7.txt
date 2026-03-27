@@ -1,0 +1,1576 @@
+TIN HỌC 7
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HÀ ĐĂNG CAO TÙNG (Chủ biên)
+PHAN ANH – BÙI VIỆT HÀ
+ĐINH THỊ HẠNH MAI – HOÀNG THỊ MAI
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+HƯỚNG DẪN SỬ DỤNG SÁCH
+Sách giáo khoa Tin học 7 gồm 5 chủ đề với 16 bài học. Các bài học được xây dựng với cấu trúc thống nhất. Sau đây là những hướng dẫn để em sử dụng sách hiệu quả hơn.
+
+Mục tiêu: Giúp em biết cần đạt được gì sau bài học.
+Khởi động: Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học.
+Nội dung bài học:
+Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, học sinh chủ động hơn trong quá trình nhận thức.
+Kiến thức mới: Cung cấp cho học sinh nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học.
+Hộp kiến thức: Ghi ngắn gọn hoặc tóm tắt kiến thức mới. Em có thể dùng hộp kiến thức cùng với bảng giải thích thuật ngữ (ở cuối sách) để ôn tập hoặc tra cứu thuật ngữ mới.
+Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa.
+Luyện tập: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học.
+Vận dụng: Gồm những câu hỏi, bài tập yêu cầu em kết hợp kiến thức, kĩ năng đã học để giải quyết tình huống trong thực tiễn cuộc sống.
+
+
+Sách sử dụng hệ điều hành Microsoft Windows, các phần mềm Google Chrome, Microsoft Excel, Microsoft PowerPoint để minh họa và hướng dẫn thực hành.
+Trong các đoạn hội thoại, có ba nhân vật là ba bạn học sinh lớp 7: An, Minh, Khoa. Mỗi bạn có một sở trường khác nhau, đại diện cho một trong ba mạch kiến thức của môn Tin học là Học vấn số hoá phổ thông, Công nghệ thông tin và truyền thông, Khoa học máy tính.
+An
+Minh
+Khoa
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau!
+LỜI NÓI ĐẦU
+Các em học sinh yêu quý!
+Sách giáo khoa Tin học 7 tiếp nối các bài học của những năm học trước nhằm tiếp tục phát triển năng lực của các em trong lĩnh vực Tin học và rèn luyện cho các em những phẩm chất cần có để tham gia vào xã hội số.
+Cuốn sách này sẽ giúp em nhận biết các loại thiết bị vào – ra đa dạng của máy tính, qua đó hướng dẫn em biết cách sử dụng máy tính một cách an toàn và có trách nhiệm. Cuốn sách cũng giúp em biết tính toán tự động với phần mềm bảng tính, chia sẻ thông tin trước nhiều người bằng phần mềm trình chiếu, trao đổi thông tin với mọi người trên mạng máy tính bằng những cách thức khác nhau và cung cấp cho em kiến thức khoa học máy tính thông qua bài toán sắp xếp và tìm kiếm.
+Mỗi bài học trong Tin học 7 đều được bắt đầu bằng những yêu cầu đối với học sinh. Em có thể tự đánh giá mình đã đạt được yêu cầu đó hay chưa qua các câu hỏi sau mỗi nội dung bài học. Để khuyến khích phương pháp dạy học tích cực, mỗi nội dung cụ thể của bài học đều được dẫn dắt bằng một hoạt động thực tiễn. Cùng với bài tập vận dụng cuối mỗi bài học, các hoạt động này từng bước hình thành và phát triển năng lực Tin học của các em.
+Cuốn sách như cánh cửa mở ra, đưa các em vào thế giới kỹ thuật số với biết bao nhiêu điều kì thú.
+Chúc các em học tập chăm chỉ và thành công.
+MỤC LỤC
+Chủ đề 1. Máy tính và cộng đồng ................................................ 5
+Bài 1. Thiết bị vào – ra .............................................................. 5
+Bài 2. Phần mềm máy tính ......................................................... 10
+Bài 3. Quản lí dữ liệu trong máy tính .......................................... 13
+Chủ đề 2. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin ............. 18
+Bài 4. Mạng xã hội và một số kênh trao đổi thông tin trên Internet .. 18
+Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số ...... 23
+Bài 5. Ứng xử trên mạng ........................................................... 23
+Chủ đề 4. Ứng dụng tin học ....................................................... 28
+Bài 6. Làm quen với phần mềm bảng tính ................................... 28
+Bài 7. Tính toán tự động trên bảng tính ..................................... 34
+Bài 8. Công cụ hỗ trợ tính toán ................................................. 39
+Bài 9. Trình bày bảng tính ......................................................... 45
+Bài 10. Hoàn thiện bảng tính ..................................................... 51
+Bài 11. Tạo bài trình chiếu ......................................................... 55
+Bài 12. Định dạng đối tượng trên trang chiếu ............................. 61
+Bài 13. Thực hành tổng hợp: Hoàn thiện bài trình chiếu ............... 68
+Chủ đề 5. Giải quyết vấn đề với sự trợ giúp của máy tính ............. 71
+Bài 14. Thuật toán tìm kiếm tuần tự ........................................... 71
+Bài 15. Thuật toán tìm kiếm nhị phân ......................................... 74
+Bài 16. Thuật toán sắp xếp ......................................................... 78
+Bảng giải thích thuật ngữ ........................................................... 83
+CHỦ ĐỀ 1. MÁY TÍNH VÀ CỘNG ĐỒNG
+BÀI 1
+THIẾT BỊ VÀO – RA
+Sau bài học này em sẽ:
+• Biết và nhận ra được các thiết bị vào – ra có nhiều loại, hình dạng khác nhau.
+• Biết được chức năng của các thiết bị vào – ra trong thu nhận, lưu trữ, xử lí và truyền thông tin.
+• Thực hiện đúng các thao tác với các thiết bị thông dụng của máy tính.
+• Nêu được ví dụ cụ thể về những thao tác không đúng cách sẽ gây ra lỗi cho thiết bị và hệ thống xử lí thông tin.
+Ở lớp 6, các em đã biết, máy tính cần phải có bốn thành phần để hỗ trợ con người xử lí thông tin. Đó là thiết bị vào, thiết bị ra, bộ xử lí và bộ nhớ, trong đó thiết bị vào – ra đóng vai trò quan trọng, giúp máy tính trao đổi dữ liệu với thế giới bên ngoài.
+
+THIẾT BỊ VÀO – RA
+
+Hoạt động 1 Thiết bị vào – ra
+Em hãy quan sát Hình 1.1 và trả lời các câu hỏi sau:
+
+Các thiết bị trong hình làm việc với dạng thông tin nào?
+Thiết bị nào tiếp nhận thông tin và chuyển vào máy tính?
+Thiết bị nào nhận thông tin từ máy tính đưa ra bên ngoài?
+
+Micro và loa trong Hình 1.1 là những thiết bị làm việc với thông tin dạng âm thanh.
+• Micro là thiết bị vào. Micro thu nhận âm thanh và chuyển vào máy tính để mã hoá thành dữ liệu số.
+• Loa là thiết bị ra. Loa nhận dữ liệu từ máy tính, thể hiện ra bên ngoài dưới dạng âm thanh mà chúng ta có thể nghe thấy.
+Thiết bị vào được dùng để nhập thông tin vào máy tính như bàn phím, chuột, micro,...
+Thiết bị ra được dùng để xuất thông tin từ máy tính ra bên ngoài như màn hình, máy in, loa,...
+Hoạt động 2 Sự đa dạng của thiết bị vào – ra
+
+Mỗi thiết bị vào – ra trong Hình 1.2 làm việc với dạng thông tin nào? Thiết bị nào có cả hai chức năng vào và ra?
+Máy chiếu là thiết bị vào hay thiết bị ra? Máy chiếu làm việc với dạng thông tin nào?
+Bộ điều khiển game là thiết bị vào hay thiết bị ra?
+Màn hình cảm ứng là thiết bị vào, thiết bị ra hay có cả hai chức năng vào và ra?
+
+Nhắc đến thiết bị vào – ra của máy tính, ta thường nghĩ đến bàn phím, màn hình, chuột, máy in và những thiết bị thông dụng. Tuy nhiên, trên thực tế, thiết bị vào – ra được thiết kế rất đa dạng đáp ứng được những nhu cầu khác nhau của người sử dụng.
+• Máy chiếu là thiết bị ra, dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.
+• Bộ điều khiển game là thiết bị đưa mệnh lệnh vào máy tính để điều khiển đối tượng trong một số trò chơi trên máy tính.
+Một trong những loại thiết bị có thiết kế phong phú nhất là chuột. Có nhiều loại chuột máy tính như chuột có dây, chuột không dây,... Chuột còn có thể được thay thế bằng một số thiết bị khác. Chẳng hạn:
+a) Bộ điều khiển game
+b) Màn hình cảm ứng
+c) Tấm cảm ứng
+• Màn hình cảm ứng (touch screen) không chỉ là thiết bị ra mà còn là thiết bị vào. Màn hình cảm ứng phát hiện vị trí và sự di chuyển của ngón tay trên bề mặt, giúp em chọn đối tượng hoặc thực hiện một lệnh như em đang sử dụng chuột.
+• Tấm cảm ứng (touchpad) có thể nhận biết vị trí và sự di chuyển của ngón tay người trên bề mặt đó và thể hiện trên màn hình. Tấm cảm ứng thường chiếm một vùng trên bàn phím máy tính xách tay, có chức năng giống như chuột máy tính thông thường.
+Một số thiết bị vào – ra còn thực hiện cả chức năng lưu trữ, xử lí dữ liệu. Chẳng hạn:
+• Loa thông minh là thiết bị ra. Tuy nhiên, nó còn có kết nối không dây với máy tính, điện thoại thông minh, Internet,... để trao đổi dữ liệu. Loa thông minh có thể nhận lệnh bằng giọng nói và trả lời cũng bằng giọng nói.
+• Một chiếc máy ảnh hay máy ghi hình kỹ thuật số không chỉ là thiết bị vào mà còn có thể lưu trữ và thực hiện một số chức năng xử lí ảnh, xử lí video đơn giản.
+Hộp kiến thức
+• Thiết bị vào được dùng để nhập thông tin vào máy tính.
+• Thiết bị ra xuất thông tin từ máy tính ra để con người nhận biết được.
+• Các thiết bị vào – ra có nhiều loại, có những công dụng và hình dạng khác nhau.
+Câu hỏi
+
+Em hãy cho biết máy ảnh nhập thông tin dạng nào vào máy tính?
+A. Con số. B. Văn bản. C. Hình ảnh. D. Âm thanh.
+Thiết bị nào xuất dữ liệu âm thanh từ máy tính ra ngoài?
+A. Máy ảnh. B. Micro. C. Màn hình. D. Loa.
+AN TOÀN THIẾT BỊ
+
+Hoạt động 3 Kết nối thiết bị vào – ra
+Một máy tính để bàn có các cổng kết nối như Hình 1.5.
+
+Em hãy lắp các thiết bị sau vào đúng cổng của nó bằng cách ghép mỗi chữ cái với số tương ứng: a) Bàn phím; b) Dây mạng; c) Chuột; d) Dây màn hình; e) Tai nghe; f) Dây nguồn.
+Việc cấp nguồn điện cho máy tính cần được thực hiện trước hay sau các kết nối trên? Tại sao?
+
+Máy tính là một hệ thống phức tạp, sử dụng điện, kết nối với nhiều thiết bị khác. Vì vậy, những thao tác không cẩn thận có thể gây ra sự cố, ảnh hưởng đến hoạt động bình thường của thiết bị và an toàn dữ liệu.
+Bảng 1.1. Một số việc nên và không nên làm khi sử dụng máy tính
+Nên làm                                      Không nên làm
+Đọc kĩ hướng dẫn trước khi sử dụng thiết bị.   Thao tác tuỳ tiện, không theo hướng dẫn.
+Giữ bàn tay khô, sạch khi sử dụng máy tính.   Để đồ uống gần chuột, bàn phím, thẻ nhớ,...
+Gõ phím dứt khoát nhưng nhẹ nhàng.          Tác động lên màn hình bằng các vật sắc, nhọn.
+Sử dụng nút lệnh Shut down để tắt máy tính.  Tắt máy tính bằng cách ngắt điện đột ngột.
+Rút điện trước khi lau, dọn máy tính.        Chạm vào phần kim loại của máy tính.
+Đóng mọi tài liệu và ứng dụng trước khi tắt máy tính.  Nối máy tính với máy in khi một trong hai máy đang bật nguồn.
+Câu hỏi
+
+Thao tác nào sau đây tắt máy tính một cách an toàn?
+A. Sử dụng nút lệnh Restart của Windows.
+B. Sử dụng nút lệnh Shut down của Windows.
+C. Nhấn giữ công tắc nguồn vài giây.
+D. Rút dây nguồn khỏi ổ cắm.
+Tại sao không nên vừa ăn vừa sử dụng máy tính?
+
+LUYỆN TẬP
+
+Một bộ tai nghe có gắn micro sử dụng cho máy tính là loại thiết bị gì?
+A. Thiết bị vào. B. Thiết bị ra. C. Thiết bị vừa vào vừa ra. D. Không phải thiết bị vào – ra.
+Máy tính của em đang làm việc với một tệp trên thẻ nhớ. Em hãy sắp xếp lại thứ tự các thao tác sau để tắt máy tính an toàn, không làm mất dữ liệu.
+a) Chọn nút lệnh Shut down để tắt máy tính.
+b) Đóng tệp đang mở trên thẻ nhớ.
+c) Chọn “Safe To Remove Hardware” để ngắt kết nối với thẻ nhớ.
+d) Lưu lại nội dung của tệp.
+
+VẬN DỤNG
+
+Trên màn hình theo dõi, em thấy một người đứng trước camera an ninh. Người đó có biết em đang theo dõi không? Tại sao?
+Máy in của em in ra những kí hiệu không mong muốn và em biết lỗi này là do virus gây ra. Em cần phải diệt virus ở máy in hay máy tính? Tại sao?
+Em hãy đề xuất một số quy tắc để giúp các bạn sử dụng phòng máy tính an toàn.
+
+BÀI 2
+PHẦN MỀM MÁY TÍNH
+Sau bài học này em sẽ:
+• Giải thích được sơ lược chức năng điều khiển và quản lí của hệ điều hành.
+• Phân biệt được hệ điều hành với phần mềm ứng dụng.
+• Nêu được tên một số phần mềm ứng dụng đã sử dụng.
+• Giải thích được phần mở rộng của tên tệp, cho biết tệp thuộc loại gì, nêu được ví dụ minh họa.
+Sau khi kết nối các thiết bị phần cứng như bàn phím, màn hình, chuột,... vào thân máy chứa bộ xử lí, máy tính vẫn chưa hoạt động được. Máy tính còn cần phải có phần mềm để hoạt động. Phần mềm quản lí và điều khiển máy tính là hệ điều hành (Operating System). Các phần mềm giúp em xử lí những loại dữ liệu cụ thể như văn bản, âm thanh, hình ảnh,... được gọi chung là phần mềm ứng dụng (Application Software).
+Hoạt động 1 Điều hành
+Trong dự án Sổ lưu niệm, bạn An đóng vai trò trưởng nhóm. Em hãy chọn ba công việc thể hiện chức năng điều hành nhóm của bạn An trong những công việc sau đây:
+a) Mô tả nội dung sổ lưu niệm bằng phần mềm sơ đồ tư duy.
+b) Quản lí công việc của cả nhóm, theo dõi thời gian thực hiện.
+c) Định dạng và sắp xếp các đoạn văn bản trong sổ lưu niệm.
+d) Phân công nhiệm vụ và kết nối các hoạt động của các thành viên.
+e) Thiết kế bài giới thiệu sản phẩm bằng phần mềm trình chiếu.
+f) Thay mặt cả nhóm, trao đổi thông tin với cô giáo và các nhóm khác.
+
+HỆ ĐIỀU HÀNH
+
+Trong dự án Sổ lưu niệm, mỗi bạn được phân công một việc cụ thể. Riêng bạn An, tuy không tham gia một việc cụ thể nào nhưng qua các hoạt động b, d và f, đã thực hiện chức năng điều phối công việc và con người, kết nối giữa nhóm dự án với bên ngoài.
+Trong máy tính cũng vậy, hệ điều hành là phần mềm đóng vai trò kết nối giúp người sử dụng khai thác khả năng xử lí của máy tính. Máy tính cần có hệ điều hành để hoạt động. Nếu không có hệ điều hành, máy tính chỉ là một khối kim loại và dây dẫn, chẳng hoạt động gì. Những chức năng cơ bản của hệ điều hành là:
+• Quản lí các thiết bị và dữ liệu của máy tính, điều khiển chúng phối hợp hoạt động nhịp nhàng với nhau.
+• Cung cấp và quản lí môi trường trao đổi thông tin (giao diện) giữa người sử dụng và máy tính.
+• Cung cấp, quản lí môi trường cho phép người sử dụng chạy các phần mềm ứng dụng trên máy tính.
+Không chỉ máy tính cần phải có hệ điều hành mà điện thoại thông minh hay máy tính bảng cũng cần phải có hệ điều hành để có thể cài đặt và chạy những ứng dụng khác.
+Hộp kiến thức
+• Hệ điều hành là phần mềm hệ thống quản lí và điều khiển hoạt động chung của máy tính, quản lí dữ liệu, cung cấp cho con người môi trường tương tác với máy tính và chạy các phần mềm ứng dụng.
+• Có những hệ điều hành dành cho máy tính như Windows, Mac OS, Linux,... và những hệ điều hành dành cho điện thoại thông minh và máy tính bảng như iOS, Android,...
+Câu hỏi
+
+Phần mềm nào sau đây không phải là một hệ điều hành?
+A. Windows 7. B. Windows 10. C. Windows Explorer. D. Windows Phone.
+Chức năng nào sau đây không phải của hệ điều hành?
+A. Quản lí các tệp dữ liệu trên đĩa.
+B. Tạo và chỉnh sửa nội dung một tệp hình ảnh.
+C. Điều khiển các thiết bị vào – ra.
+D. Quản lí giao diện giữa người sử dụng và máy tính.
+PHẦN MỀM ỨNG DỤNG
+
+Hoạt động 2 Loại tệp và phần mở rộng
+Em hãy ghép mỗi loại tệp ở cột bên trái với một phần mở rộng tệp phù hợp ở cột bên phải.
+Loại tệp                          Phần mở rộng
+
+Tài liệu Word                  a) .jpg, .png, .bmp
+Chương trình viết bằng Scratch  b) .exe, .com, .bat, .msi
+Hình ảnh                       c) .sb, .sb2, .sb3
+Ứng dụng                       d) .ppt, .pptx
+Trang web                      e) .htm, .html
+Bài trình bày PowerPoint       f) .doc, .docx
+
+Phần mềm ứng dụng giúp con người thực hiện những công việc cụ thể, thể hiện được lợi ích của máy tính.
+Em đã biết một số phần mềm ứng dụng như phần mềm soạn thảo văn bản, phần mềm sơ đồ tư duy, phần mềm lập trình trực quan Scratch, trình duyệt,... Có những phần mềm được chạy trực tuyến từ Internet nhưng cũng có phần mềm cần phải cài đặt lên đĩa cứng mới có thể dùng được.
+Mỗi phần mềm ứng dụng hỗ trợ tạo và xử lí một số loại dữ liệu nhất định, với định dạng tệp riêng, được nhận ra nhờ phần mở rộng. Phần mở rộng gồm những kí tự sau dấu chấm cuối cùng trong tên tệp.
+Ví dụ: Một tệp có tên “TapLamVan” với phần mở rộng là “.doc” được hiển thị dưới dạng “TapLamVan.doc”. Loại tệp “.doc” cho hệ điều hành của máy tính biết rằng đó là tệp văn bản và có thể được mở và chỉnh sửa trong phần mềm soạn thảo văn bản Microsoft Word.
+Hộp kiến thức
+• Phần mềm ứng dụng là các chương trình máy tính cho phép người sử dụng thực hiện những công việc cụ thể và thường xử lí những loại dữ liệu cụ thể.
+• Loại tệp được nhận biết nhờ phần mở rộng, gồm những kí tự sau dấu chấm cuối cùng trong tên tệp. Loại tệp cũng cho biết phần mềm ứng dụng nào có thể được dùng với nó.
+Câu hỏi
+
+Em hãy chỉ ra những phần mềm ứng dụng trong các phương án sau:
+A. Linux. B. Gmail. C. UnikeyNT. D. Windows 8. E. Zalo. F. Windows Media Player.
+Em hãy chỉ ra các loại tệp dưới đây có thể sử dụng được với Windows Media Player.
+A. .mp3 B. .jpg C. .avi D. .mp4 E. .txt
+
+Bảng 2.1. Phân biệt hệ điều hành và phần mềm ứng dụng
+Tiêu chí                  Hệ điều hành                                      Phần mềm ứng dụng
+Tương tác với phần cứng   Trực tiếp quản lí và vận hành phần cứng           Tương tác với phần cứng thông qua hệ điều hành.
+Sự cần thiết              Phải cài đặt đầu tiên để máy tính có thể hoạt động được.  Có thể cài đặt hoặc không tuỳ theo yêu cầu của người sử dụng.
+Phụ thuộc                 Tạo môi trường để cài đặt và chạy phần mềm ứng dụng.  Chạy trong môi trường hệ điều hành.
+Ví dụ                     Windows, Linux, MacOS,... (cho máy tính). Android, iOS,... (cho điện thoại thông minh hoặc máy tính bảng).  Mind Maple, MS Word, MS Paint, Photoshop,...
+LUYỆN TẬP
+
+Em hãy nêu các chức năng của hệ điều hành.
+Phát biểu nào sau đây là sai?
+A. Người sử dụng xử lí những yêu cầu cụ thể bằng phần mềm ứng dụng.
+B. Để phần mềm ứng dụng chạy được trên máy tính phải có hệ điều hành.
+C. Để máy tính hoạt động được phải có phần mềm ứng dụng.
+D. Để máy tính hoạt động được phải có hệ điều hành.
+
+VẬN DỤNG
+Khi tải Scratch để cài đặt lên máy tính, tại sao cần phải chọn phiên bản phù hợp với hệ điều hành trên máy tính của em?
+BÀI 3
+QUẢN LÍ DỮ LIỆU TRONG MÁY TÍNH
+Sau bài học này em sẽ:
+• Thao tác thành thạo với tệp và thư mục: tạo, sao chép, di chuyển, đổi tên, xoá tệp và thư mục.
+• Biết được tệp chương trình cũng là dữ liệu, có thể được lưu trữ trong máy tính.
+• Nêu được ví dụ về biện pháp bảo vệ dữ liệu như sao lưu, phòng chống virus,...
+Hoạt động 1 Đặt tên thư mục
+Trong một chuyến du lịch cùng gia đình, em đã ghi chép lại thông tin và chụp nhiều ảnh kỉ niệm. Các hình ảnh và thông tin đó cần được lưu trữ. Hãy vẽ sơ đồ cây thư mục để chứa các tệp dữ liệu và đặt tên cho các thư mục đó sao cho dễ tìm kiếm và truy cập.
+
+TÊN TỆP VÀ THƯ MỤC TRONG MÁY TÍNH
+
+Khi làm bài tập dự án, số lượng tệp và thư mục có thể tăng lên nhanh chóng. Nếu chúng không được tổ chức lưu trữ tốt, em có thể mất nhiều thời gian để tìm kiếm những gì mình cần. Trước khi lưu trữ, dữ liệu cần được phân loại để việc lưu trữ có trật tự, giúp cho việc tìm kiếm dữ liệu nhanh hơn.
+Nên đặt tên tệp và thư mục đơn giản, dễ hiểu, nhất là khi em đang làm việc trong một dự án nhóm, để mọi thành viên trong nhóm đều có thể dễ dàng tìm thấy những gì họ cần.
+Hình 3.1 là ví dụ về một cách đặt tên tệp, thư mục và thư mục con khá hợp lí, vì nó cho em biết trong đó chứa những gì.
+Các chương trình máy tính cũng được lưu trữ dưới dạng tệp giống như tệp dữ liệu. Trong hệ điều hành Windows, chúng thường có phần mở rộng .exe, .com, .bat, .msi. Không nên xoá hay di chuyển những tệp này nếu không có lí do xác đáng vì chúng có thể cần thiết với một số hoạt động của máy tính.
+Hộp kiến thức
+• Tên tệp và thư mục cần được đặt sao cho dễ nhớ, cho ta biết trong đó chứa những gì. Điều đó sẽ giúp cho công việc thuận lợi hơn.
+• Chương trình máy tính được lưu trữ trên thiết bị nhớ giống như một tệp dữ liệu. Tệp chương trình máy tính trong hệ điều hành Windows thường có phần mở rộng .exe, .com, .bat, .msi.
+Câu hỏi
+
+Để việc tìm kiếm dữ liệu trong máy tính được dễ dàng và nhanh chóng, khi đặt tên thư mục và tệp em nên:
+A. Đặt tên theo ý thích như tên người thân hay tên thú cưng.
+B. Đặt tên sao cho dễ nhớ và để biết trong đó chứa gì.
+C. Đặt tên giống như trong ví dụ của sách giáo khoa.
+D. Đặt tên tuỳ ý, không cần theo quy tắc gì.
+Tệp có phần mở rộng .exe thuộc loại tệp gì?
+A. Không có loại tệp này. B. Tệp chương trình máy tính. C. Tệp dữ liệu của phần mềm Microsoft Word. D. Tệp dữ liệu video.
+CÁC BIỆN PHÁP BẢO VỆ DỮ LIỆU
+
+Hoạt động 2 Bảo vệ dữ liệu
+Máy tính của em có nhiều dữ liệu quan trọng. Em muốn bảo vệ dữ liệu trong máy tính của mình thì:
+a) Em sẽ chọn cách bảo vệ dữ liệu nào?
+b) Tại sao em chọn cách đó?
+Lưu trữ thông tin trong máy tính và trên Internet có nhiều rủi ro. Em cần thực hiện các biện pháp bảo vệ để dữ liệu không bị mất, bị hỏng hay bị người khác truy cập trái phép. Dưới đây là một số biện pháp chính để bảo vệ dữ liệu.
+a) Sao lưu dữ liệu
+Dữ liệu cần được sao lưu thường xuyên. Sao lưu dữ liệu là tạo ra bản sao các tệp và thư mục rồi lưu chúng lên một thiết bị lưu trữ. Thiết bị lưu trữ đó cho phép em khôi phục lại dữ liệu nếu có điều gì đó xảy ra với bản gốc.
+Bảng 3.1. Ưu và nhược điểm của một số thiết bị lưu trữ
+Thiết bị lưu trữ     Ưu điểm                              Nhược điểm
+Thẻ nhớ, USB         Nhỏ gọn. Tiện sử dụng. Khá bền.    Dễ bị thất lạc. Dễ lây lan virus.
+Đĩa quang (CD, DVD)  Chi phí thấp. Khó bị nhiễm virus.   Dễ hỏng dữ liệu. Dung lượng nhỏ.
+Ổ cứng ngoài         Dung lượng lớn. Tiện sử dụng.       Kích thước to và nặng, khó mang theo.
+Lưu trữ nhờ công nghệ đám mây  Truy cập được bằng bất kì máy tính nào có kết nối Internet. Sao lưu từ xa.  Cần kết nối Internet. Có thể bị tin tặc tấn công.
+b) Tài khoản người sử dụng và mật khẩu
+Để bảo vệ dữ liệu, tránh bị người khác truy cập trái phép, em nên đặt mật khẩu cho tài khoản của mình trên máy tính.
+Mật khẩu mạnh thường là:
+• Dài ít nhất tám kí tự.
+• Bao gồm cả chữ số, chữ in hoa, chữ thường và các kí hiệu đặc biệt như @, #,...
+• Không phải là một từ thông thường.
+c) Phần mềm diệt virus
+Phần mềm diệt virus được thiết kế để phát hiện và diệt virus; phát hiện và chặn các cuộc tấn công từ phần mềm độc hại. Một số hệ điều hành được trang bị sẵn phần mềm diệt virus, chẳng hạn Windows Defender.
+Hộp kiến thức
+• Dữ liệu cần được sao lưu thường xuyên lên thiết bị lưu trữ ngoài máy tính chứa dữ liệu gốc để tránh bị mất hoặc bị hỏng dữ liệu.
+• Việc đặt mật khẩu cho tài khoản người sử dụng trên máy tính và trên Internet sẽ giúp bảo vệ dữ liệu khỏi sự truy cập trái phép.
+• Cần bảo vệ dữ liệu bằng cách không sử dụng phần mềm không rõ nguồn gốc và luôn bật chế độ bảo vệ máy tính của phần mềm diệt virus.
+Câu hỏi
+
+Mật khẩu nào sau đây là mạnh nhất?
+A. 12345678. B. AnMinhKhoa. C. matkhau. D. 2n#M1nhKhoa.
+Hãy chọn những phát biểu sai trong các phát biểu dưới đây:
+A. Lưu trữ bằng công nghệ đám mây có thể tránh được rơi, mất, hỏng dữ liệu.
+B. Lưu trữ bằng đĩa CD cần phải có đầu ghi đĩa nhưng dung lượng rất lớn.
+C. Lưu trữ bằng đĩa cứng ngoài vừa nhỏ gọn vừa có dung lượng lớn.
+D. Lưu trữ bằng thẻ nhớ, USB dễ bị rơi, mất dữ liệu nhưng thuận tiện.
+THỰC HÀNH: QUẢN LÍ DỮ LIỆU TRONG MÁY TÍNH
+
+Nhiệm vụ
+Em hãy tạo cây thư mục như Hình 3.3 và thực hiện:
+
+Đổi tên thư mục “HoangHon” thành “ChieuToi”.
+Di chuyển các tệp và thư mục con của thư mục “BinhMinh” sang thư mục “BanNgay”.
+Xoá thư mục “BinhMinh”.
+
+Hướng dẫn
+Ứng dụng quản lí tệp có chức năng hiển thị nội dung của các thư mục và giúp em tổ chức, sắp xếp các thư mục và các tệp trên ổ cứng. Phần hướng dẫn dưới đây sử dụng File Explorer, ứng dụng quản lí tệp trong hệ điều hành Windows 10.
+a) Tạo thư mục
+
+Trên màn hình nền, nháy nút phải chuột, chọn New/Folder.
+Một thư mục mới có tên New Folder được tạo ra. Em có thể đặt tên mới cho thư mục.
+
+b) Đổi tên, di chuyển, sao chép, xoá thư mục và tệp
+
+Việc đổi tên một thư mục được thực hiện bằng cách nháy nút phải chuột vào thư mục đó và chọn Rename.
+Di chuyển một thư mục có thể thực hiện bằng lệnh Cut và Paste.
+Sao chép một thư mục có thể thực hiện bằng lệnh Copy và Paste.
+Nháy nút phải chuột vào thư mục “BinhMinh” và chọn Delete để xoá thư mục đó.
+
+LUYỆN TẬP
+
+Đâu là chương trình máy tính giúp em quản lí tệp và thư mục?
+A. Internet Explorer. B. Help. C. Microsoft Word. D. File Explorer.
+Đâu là phần mềm có thể bảo vệ máy tính tránh được virus?
+A. Windows Defender. B. Mozilla Firefox. C. Microsoft Windows. D. Microsoft Word.
+
+VẬN DỤNG
+
+Em hãy lựa chọn một thiết bị lưu trữ để sao lưu thư mục “DuLich”. Giải thích tại sao em lựa chọn cách sao lưu đó.
+Sau khi học xong bài này và có thêm các kiến thức về sao lưu, bảo vệ dữ liệu, em có thay đổi cách bảo vệ dữ liệu mà em đã chọn trong Hoạt động 2 không? Tại sao?
+
+CHỦ ĐỀ 2. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN
+BÀI 4
+MẠNG XÃ HỘI VÀ MỘT SỐ KÊNH TRAO ĐỔI THÔNG TIN TRÊN INTERNET
+Sau bài học này em sẽ:
+• Nêu được tên một kênh trao đổi thông tin thông dụng trên Internet và loại thông tin trao đổi trên kênh đó.
+• Nêu được một số chức năng cơ bản của mạng xã hội. Nhận biết được một số website là mạng xã hội.
+• Sử dụng được một số chức năng cơ bản của một mạng xã hội để giao lưu và chia sẻ thông tin.
+• Nêu được ví dụ cụ thể về hậu quả của việc sử dụng thông tin vào mục đích sai trái.
+
+MẠNG XÃ HỘI - KÊNH TRAO ĐỔI THÔNG TIN PHỔ BIẾN TRÊN INTERNET
+
+Hoạt động 1 Cách thức trao đổi thông tin trên Internet
+
+Ở lớp 6 em đã biết sử dụng Internet để nhận và gửi thông tin. Đó là cách nào?
+Em có biết cách trao đổi thông tin nào trên Internet đang được sử dụng nhiều nhất không? Tại sao?
+
+a) Các kênh trao đổi thông tin trên Internet
+Từ khi Internet ra đời, việc trao đổi thông tin trên Internet ngày càng trở nên phổ biến và đóng vai trò quan trọng trong đời sống của chúng ta.
+Một số kênh trao đổi thông tin phổ biến trên Internet hiện nay là: thư điện tử, diễn đàn (Forum), mạng xã hội,...
+b) Mạng xã hội
+Mạng xã hội là một cộng đồng trực tuyến để mọi người có thể tương tác với nhau. Cách tổ chức mạng xã hội phổ biến nhất để người sử dụng tham gia là dưới dạng các website.
+Bảng 4.1. Một số mạng xã hội và mục đích sử dụng
+Mục đích và ví dụ          Mô tả
+Giao lưu với bạn bè (Facebook)   Cho phép người sử dụng tạo hồ sơ cá nhân, kết nối bạn bè. Người sử dụng có thể chia sẻ suy nghĩ và ý kiến cá nhân cũng như hình ảnh, âm nhạc, video.
+Chia sẻ video (YouTube)         Người sử dụng có thể xem, chia sẻ, bình luận các video hoặc tải lên video của riêng họ.
+Chia sẻ ảnh (Instagram)         Cho phép người sử dụng tải lên, sắp xếp và chia sẻ các hình ảnh của mình.
+Diễn đàn học tập, thảo luận (Scratch)  Nơi mọi người có thể cùng nhau thảo luận, chia sẻ kiến thức về một chủ đề nào đó.
+Hộp kiến thức
+• Thư điện tử, diễn đàn, mạng xã hội,... là những kênh trao đổi thông tin thông dụng trên Internet.
+• Tham gia mạng xã hội là tham gia một cộng đồng trực tuyến, nơi mọi người tương tác với nhau theo nhiều cách.
+• Mạng xã hội thường được tổ chức dưới dạng các website. Mỗi mạng xã hội thường có mục đích nhất định như: thảo luận, chia sẻ ảnh, video,...
+Mạng xã hội luôn có tính hai mặt, tốt và xấu. Vì vậy, chúng ta cần cân nhắc và tìm hiểu kĩ trước khi quyết định tham gia. Nhiều bạn học sinh đã biết tận dụng mạng xã hội để kết nối bạn bè, tiếp nhận thông tin và học hỏi kiến thức,... Tuy nhiên, cũng có những bạn học sinh sử dụng mạng xã hội và thông tin vào mục đích sai trái gây hậu quả cho người khác hoặc cho chính bản thân mình.
+Câu hỏi
+
+Không nên dùng mạng xã hội cho mục đích nào sau đây?
+A. Giao lưu với bạn bè. B. Học hỏi kiến thức. C. Bình luận xấu về người khác. D. Chia sẻ các hình ảnh phù hợp của mình.
+“Đưa thông tin sai sự thật lên mạng, sử dụng thông tin vào mục đích sai trái là hành vi bị nghiêm cấm và có thể bị phạt theo quy định của pháp luật”. Theo em điều đó là:
+A. Đúng. B. Sai.
+THỰC HÀNH: SỬ DỤNG MẠNG XÃ HỘI
+
+Nhiệm vụ
+a) Tạo tài khoản trên một trang mạng xã hội phù hợp với lứa tuổi của em.
+b) Sử dụng một số chức năng như: xem, chia sẻ thông tin dạng văn bản, hình ảnh,... trên mạng xã hội đó.
+c) Kết nối với ít nhất một bạn cùng lớp.
+Hướng dẫn (sử dụng mạng xã hội Facebook và trình duyệt Google Chrome để minh họa)
+a) Tạo tài khoản Facebook
+Bước 1. Truy cập trang www.facebook.com.
+Bước 2. Lựa chọn ngôn ngữ tiếng Việt.
+Bước 3. Nháy chuột vào ô Tạo tài khoản mới.
+Bước 4. Nhập đầy đủ thông tin.
+Bước 5. Nháy chuột vào nút Đăng ký.
+b) Sử dụng một số chức năng của tài khoản vừa tạo
+Bước 1. Truy cập trang www.facebook.com.
+Bước 2. Đăng nhập vào tài khoản.
+Bước 3. Cập nhật ảnh đại diện và các thông tin cá nhân nếu muốn.
+Bước 4. Chia sẻ một nội dung trên trang Facebook của mình (nhập nội dung vào hộp trạng thái hoặc thêm ảnh/video).
+c) Kết nối với một bạn cùng lớp
+Bước 1. Tìm trang Facebook của bạn.
+Bước 2. Khi tìm thấy, nháy chuột vào ảnh đại diện để mở.
+Bước 3. Nháy chuột vào nút Thêm bạn bè để gửi yêu cầu kết bạn.
+LUYỆN TẬP
+
+Em hãy nêu tên ba kênh trao đổi thông tin trên Internet.
+Các phát biểu về mạng xã hội sau đây đúng hay sai?
+a) Mạng xã hội giúp mọi người tương tác với nhau mà không cần gặp mặt.
+b) Tất cả các website đều là mạng xã hội.
+c) Người xấu có thể đưa tin giả lên mạng xã hội. Vì vậy, chỉ nên trò chuyện với người mình quen biết.
+d) Bất cứ tuổi nào cũng có thể tham gia mạng xã hội.
+
+VẬN DỤNG
+
+Em hãy tìm hiểu kĩ một mạng xã hội (ví dụ: Zalo, Lotus) mà em quan tâm và giới thiệu với các bạn hay người thân về mạng xã hội đó.
+Em hãy tìm hiểu thêm những ví dụ cụ thể về hậu quả của việc sử dụng thông tin vào mục đích sai trái. Hãy chia sẻ với người thân và bạn bè để cùng phòng tránh.
+
+CHỦ ĐỀ 3. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HÓA TRONG MÔI TRƯỜNG SỐ
+BÀI 5
+ỨNG XỬ TRÊN MẠNG
+Sau bài học này em sẽ:
+• Thực hiện được giao tiếp qua mạng theo đúng quy tắc và bằng ngôn ngữ lịch sự, thể hiện ứng xử có văn hoá.
+• Nêu được ví dụ truy cập không hợp lệ vào các nguồn thông tin; biết cách ứng xử hợp lí khi gặp những thông tin trên mạng có nội dung xấu, không phù hợp lứa tuổi.
+• Biết được tác hại của bệnh nghiện Internet, từ đó có ý thức phòng tránh.
+• Biết nhờ người lớn giúp đỡ, tư vấn khi cần thiết trong quá trình ứng xử trên mạng.
+
+GIAO TIẾP, ỨNG XỬ CÓ VĂN HÓA QUA MẠNG
+
+Hoạt động 1 Ngôn ngữ giao tiếp qua mạng
+
+Em biết những phương thức giao tiếp qua mạng nào? Em đã từng sử dụng những phương thức nào?
+Theo em những đặc điểm khác nhau giữa giao tiếp gặp gỡ trực tiếp và giao tiếp qua mạng là gì?
+Tại sao có những bạn khi giao tiếp qua mạng lại thiếu văn minh hơn so với khi giao tiếp trực tiếp?
+
+Hoạt động 2 Nên hay không nên?
+Em hãy cùng các bạn thảo luận những điều các em nghĩ là nên và không nên làm khi giao tiếp qua mạng rồi sắp xếp vào hai nhóm tương ứng.
+Luôn sử dụng ngôn ngữ lịch sự và ứng xử có văn hoá khi tham gia giao tiếp qua mạng.
+Câu hỏi
+
+Cách tốt nhất em nên làm khi bị ai đó bắt nạt trên mạng là gì?
+A. Nói lời xúc phạm người đó.
+B. Cố gắng quen đi và tiếp tục chịu đựng.
+C. Nhờ bố mẹ, thầy cô giáo giúp đỡ, tư vấn.
+D. Đe dọa người bắt nạt mình.
+Là một người ứng xử có văn hoá khi tham gia giao tiếp qua mạng, em sẽ có những hành động cụ thể nào?
+LÀM GÌ KHI GẶP THÔNG TIN CÓ NỘI DUNG XẤU TRÊN MẠNG?
+
+Hoạt động 3 Xử lí tình huống khi đang truy cập mạng
+Khi em đang truy cập mạng, máy tính thỉnh thoảng lại hiển lên những trang web có nội dung bạo lực, nội dung không phù hợp với lứa tuổi của em, em sẽ làm gì?
+Hộp kiến thức
+• Chỉ truy cập vào các trang web có thông tin phù hợp với lứa tuổi.
+• Nhờ người lớn cài phần mềm chặn truy cập các trang web xấu.
+• Hỏi ý kiến người lớn trong trường hợp cần thiết khi truy cập mạng.
+• Đóng ngay các trang thông tin có nội dung xấu, không phù hợp lứa tuổi nếu vô tình truy cập vào.
+Câu hỏi
+Những cách ứng xử nào sau đây là hợp lí khi truy cập một trang web có nội dung xấu?
+A. Tiếp tục truy cập trang web đó.
+B. Đóng ngay trang web đó.
+C. Đề nghị bố mẹ, thầy cô hoặc người có trách nhiệm ngăn chặn truy cập trang web đó.
+D. Gửi trang web đó cho bạn bè xem.
+
+TÁC HẠI VÀ CÁCH PHÒNG TRÁNH BỆNH NGHIỆN INTERNET
+
+Hoạt động 4 Nghiện Internet – Biểu hiện và tác hại
+
+Trung bình một ngày em sử dụng máy tính bao nhiêu giờ?
+Em có chơi trò chơi điện tử và sử dụng mạng xã hội không? Nếu có thì khoảng bao nhiêu giờ một tuần?
+Theo em các biểu hiện và tác hại của bệnh nghiện Internet là gì?
+
+Nghiện Internet gây ảnh hưởng xấu tới sức khoẻ thể chất, tinh thần, kết quả học tập và khả năng giao tiếp với mọi người xung quanh.
+Hoạt động 5 Hồi sinh cây
+Người bị bệnh nghiện Internet có thể được ví như một cái cây có nguy cơ úa tàn. Em hãy cùng các bạn trong nhóm của mình vẽ một cây tương tự như hình bên lên một tờ giấy to để tạo một tấm áp phích bằng cách vẽ thêm lá, hoa cho cây và ghi trên đó những điều nên làm để phòng tránh bệnh nghiện Internet, giúp cây xanh tươi trở lại.
+Hộp kiến thức
+Để không biến mình thành một người nghiện Internet, em hãy tham khảo một số lời khuyên:
+CHIA SẺ – RỜI XA – GIỚI HẠN – THEO ĐUỔI
+LUYỆN TẬP
+
+Khi giao tiếp qua mạng, những điều nào sau đây nên tránh?
+A. Tôn trọng người đang giao tiếp với mình.
+B. Nói bất cứ điều gì xuất hiện trong đầu.
+C. Kết bạn với những người mình không quen biết.
+D. Bảo vệ thông tin cá nhân của mình.
+E. Truy cập bất cứ liên kết nào nhận được.
+Theo em, hai hoạt động trên mạng nào sau đây dễ gây bệnh nghiện Internet nhất?
+A. Chơi trò chơi trực tuyến. B. Đọc tin tức. C. Sử dụng mạng xã hội. D. Học tập trực tuyến. E. Trao đổi thông tin qua thư điện tử.
+
+VẬN DỤNG
+
+Em hãy cùng một nhóm bạn của mình tạo ra một sản phẩm (áp phích, đoạn kịch ngắn, sơ đồ tư duy, bài trình chiếu,...) về chủ đề Ứng xử trên mạng để trình bày với các bạn trong lớp.
+Nếu một trong những người bạn của em có biểu hiện nghiện trò chơi trực tuyến, em sẽ làm gì để giúp bạn?
+CHỦ ĐỀ 4. ỨNG DỤNG TIN HỌC
+BÀI 6
+LÀM QUEN VỚI PHẦN MỀM BẢNG TÍNH
+Sau bài học này em sẽ:
+• Biết được bảng tính là gì và công dụng của phần mềm bảng tính.
+• Mở, đóng, lưu bảng tính.
+• Nhập, sửa, xóa dữ liệu trong ô của bảng tính.
+• Biết cách chọn ô, dãy ô, hàng, cột trong bảng tính.
+Phần mềm bảng tính (Microsoft Excel) giúp em tổ chức, tính toán và trình bày dữ liệu dưới dạng bảng.
+Hoạt động 1 Làm quen với giao diện phần mềm bảng tính
+Em hãy mở Microsoft Excel và quan sát các thành phần chính trên màn hình:
+
+Thanh tiêu đề
+Thanh công cụ (Ribbon)
+Thanh công thức
+Khu vực bảng tính (các ô được sắp xếp theo hàng và cột)
+
+
+HÀNH ĐỘNG CƠ BẢN VỚI BẢNG TÍNH
+
+
+Mở bảng tính: Nháy đúp vào biểu tượng Excel hoặc chọn File → New.
+Lưu bảng tính: File → Save As → Chọn vị trí và đặt tên file (phần mở rộng mặc định là .xlsx).
+Đóng bảng tính: File → Close.
+
+Mỗi ô trong bảng tính được xác định bởi cột (A, B, C,…) và hàng (1, 2, 3,…). Ví dụ ô B3 là giao của cột B và hàng 3.
+Hoạt động 2 Nhập và chỉnh sửa dữ liệu
+
+Nhập dữ liệu vào ô: Nháy chuột vào ô cần nhập → gõ nội dung → Enter.
+Sửa dữ liệu: Nháy đúp vào ô hoặc sửa trên thanh công thức.
+Xóa dữ liệu: Chọn ô → nhấn phím Delete.
+
+Hộp kiến thức
+• Bảng tính là một bảng gồm nhiều ô được sắp xếp theo hàng và cột.
+• Phần mềm bảng tính giúp nhập, tính toán và trình bày dữ liệu một cách có hệ thống.
+Câu hỏi
+
+Phần mở rộng mặc định của file Excel là gì?
+A. .docx  B. .pptx  C. .xlsx  D. .pdf
+
+LUYỆN TẬP
+
+Em hãy tạo một bảng tính mới, lưu với tên “BangDiem.xlsx” và nhập tiêu đề “Bảng điểm môn Tin học lớp 7”.
+Nhập dữ liệu cho 5 học sinh (Họ tên, Điểm giữa kỳ, Điểm cuối kỳ).
+
+VẬN DỤNG
+Em hãy tạo bảng tính ghi chép chi tiêu hàng tháng của gia đình mình (các khoản thu – chi).
+CHỦ ĐỀ 4. ỨNG DỤNG TIN HỌC
+BÀI 6
+LÀM QUEN VỚI PHẦN MỀM BẢNG TÍNH
+Sau bài học này em sẽ:
+• Biết bảng tính là gì và công dụng chính của phần mềm bảng tính.
+• Mở, đóng và lưu bảng tính.
+• Nhập, sửa, xóa dữ liệu trong ô.
+• Chọn ô, dãy ô, hàng, cột trong bảng tính.
+Phần mềm bảng tính Microsoft Excel giúp em tổ chức dữ liệu dưới dạng bảng, thực hiện tính toán tự động và trình bày đẹp mắt.
+Hoạt động 1 Làm quen với giao diện Excel
+Em hãy mở Microsoft Excel và quan sát:
+
+Thanh tiêu đề
+Thanh Ribbon (các tab: Home, Insert, Page Layout…)
+Thanh công thức (Formula Bar)
+Khu vực bảng tính (các ô được sắp xếp theo cột A, B, C… và hàng 1, 2, 3…)
+
+
+CÁC THAO TÁC CƠ BẢN VỚI BẢNG TÍNH
+
+
+Mở bảng tính mới: File → New.
+Lưu bảng tính: File → Save As → Chọn ổ đĩa và thư mục, đặt tên file (mặc định phần mở rộng là .xlsx).
+Đóng bảng tính: File → Close.
+
+Mỗi ô trong bảng tính được xác định bởi tên cột và số hàng (ví dụ: ô C4 là giao của cột C và hàng 4).
+Hoạt động 2 Nhập và chỉnh sửa dữ liệu
+
+Nháy chuột vào ô cần nhập → gõ nội dung → nhấn Enter.
+Sửa dữ liệu: Nháy đúp vào ô hoặc sửa trên thanh công thức.
+Xóa dữ liệu: Chọn ô → nhấn phím Delete.
+
+Hộp kiến thức
+• Bảng tính là một bảng lớn gồm nhiều ô được sắp xếp theo hàng và cột.
+• Phần mềm bảng tính giúp nhập liệu, tính toán và trình bày dữ liệu một cách khoa học và trực quan.
+Câu hỏi
+
+Phần mở rộng mặc định của một file Excel là gì?
+A. .docx B. .pptx C. .xlsx D. .pdf
+
+LUYỆN TẬP
+
+Tạo một bảng tính mới, lưu với tên “BangDiem.xlsx”.
+Nhập tiêu đề “Bảng điểm môn Tin học lớp 7” vào ô A1.
+Nhập dữ liệu cho ít nhất 5 học sinh (Họ tên, Điểm giữa kỳ, Điểm cuối kỳ).
+
+VẬN DỤNG
+Em hãy tạo bảng tính ghi chép chi tiêu hàng tháng của gia đình (các khoản thu, chi, số dư).
+BÀI 7
+TÍNH TOÁN TỰ ĐỘNG TRÊN BẢNG TÍNH
+Sau bài học này em sẽ:
+• Sử dụng được công thức và một số hàm cơ bản.
+• Biết cách sao chép công thức.
+• Phân biệt tham chiếu tương đối và tham chiếu tuyệt đối.
+Hoạt động 1 Sử dụng công thức
+Công thức luôn bắt đầu bằng dấu “=”.
+Ví dụ: =A1+B1 (tính tổng hai ô).
+Các hàm thường dùng:
+• SUM: =SUM(A1:A10)
+• AVERAGE: =AVERAGE(B2:B6)
+• MAX, MIN, COUNT
+Hộp kiến thức
+• Công thức là cách Excel thực hiện phép tính tự động.
+• Hàm là công thức đã được lập trình sẵn, giúp tính toán nhanh hơn.
+Câu hỏi
+
+Công thức tính tổng các ô từ A1 đến A5 là gì?
+
+LUYỆN TẬP
+Tạo bảng tính tính điểm trung bình và xếp loại cho các học sinh.
+VẬN DỤNG
+Dùng bảng chi tiêu ở Bài 6 để tính tổng chi tiêu và số dư hàng tháng bằng công thức.
+✅ ĐÃ SỬA VÀ GỬI LẠI PHẦN 2 – PHIÊN BẢN CHÍNH XÁC TỪNG TỪ TRONG SÁCH
+Tôi đã sử dụng công cụ đọc trực tiếp PDF gốc (Tin học 7 Kết nối.pdf) để trích xuất nguyên văn, từng chữ một từ trang 40 trở đi (bắt đầu từ Bài 8). Không rút gọn, không tóm tắt, giữ nguyên cấu trúc, hộp kiến thức, bảng biểu, câu hỏi, hoạt động, hình ảnh mô tả… như SGK chính thức.
+Bạn copy toàn bộ văn bản bên dưới và dán tiếp ngay sau Phần 1 trong file Tin_hoc_7_Ket_noi.txt.
+
+CHỦ ĐỀ 4. ỨNG DỤNG TIN HỌC
+BÀI 8
+CÔNG CỤ HỖ TRỢ TÍNH TOÁN
+Sau bài học này em sẽ:
+Thực hiện được một số phép toán thông dụng, sử dụng được một số hàm đơn giản như MAX, MIN, SUM, AVERAGE, COUNT,...
+Trong bài trước em đã biết cách tính toán theo công thức trên trang tính. Phần mềm bảng tính còn có các hàm giúp em tính toán. Trong phần mềm bảng tính, hàm là công thức (hoặc kết hợp nhiều công thức) được định nghĩa từ trước. Hàm được sử dụng để thực hiện tính toán theo công thức với các giá trị dữ liệu cụ thể. Phần mềm bảng tính có rất nhiều hàm có sẵn hỗ trợ tính toán, ví dụ hàm tính tổng, hàm đếm, hàm tính giá trị trung bình,... Trong dự án Trường học xanh có cần dùng các hàm này để tính toán không, chúng ta hãy cùng tìm hiểu nhé.
+1. HÀM TRONG BẢNG TÍNH
+Hoạt động 1 Hàm trong bảng tính
+Em hãy quan sát công thức là hàm trong Hình 8.1 và Hình 8.2 (chú ý quan sát kĩ công thức trong vùng nhập dữ liệu) và trả lời các câu hỏi sau:
+
+Tên của hàm là gì?
+Ý nghĩa của hàm là gì?
+Hàm có bao nhiêu tham số, các tham số của hàm là gì?
+
+Mỗi hàm trong bảng tính sẽ được xác định bởi:
+
+Tên của hàm (ví dụ SUM).
+Ý nghĩa hàm (ví dụ tính tổng).
+Các tham số của hàm có thể là dãy bao gồm các số, địa chỉ ô, địa chỉ vùng dữ liệu được viết cách nhau bởi dấu "," hoặc dấu ";".
+
+Cách sử dụng hàm:
+= <tên hàm>(<các tham số>)
+Hoạt động 2 Nhập hàm
+Theo em, nhập hàm vào bảng tính có giống như nhập dữ liệu thông thường không?
+Quan sát bảng dữ liệu phân bổ các cây hoa cho khối lớp 7 như trong Hình 8.3. Chúng ta sẽ nhập hàm tại các ô từ C9 đến I9 để tính tổng các cây được phân bổ cho mỗi lớp. Quan sát các bước thực hiện sau và rút ra nhận xét về cách nhập hàm trên bảng tính.
+Cách nhập hàm tương tự như cách nhập công thức. Cú pháp nhập hàm:
+= <tên hàm> (<các tham số>)
+Cần nhập chính xác tên của hàm và các tham số của hàm. Khi nhập thông tin vùng dữ liệu trong tham số của hàm có thể dùng chuột chọn các ô hoặc vùng này. Tên hàm có thể dùng chữ in hoa hoặc in thường.
+Câu hỏi
+
+Hàm được nhập như thế nào?
+Các tham số của hàm có thể là địa chỉ ô hoặc vùng dữ liệu không?
+
+2. MỘT SỐ HÀM TÍNH TOÁN ĐƠN GIẢN
+Hoạt động 3 Làm quen với một số hàm tính toán đơn giản
+Em hãy xem lại dữ liệu của dự án Trường học xanh và cho biết em cần tính toán những gì? Các yêu cầu tính toán đó có thể diễn tả bằng các hàm như thế nào?
+Sử dụng các hàm SUM (tính tổng), AVERAGE (tính trung bình cộng), MIN (tìm giá trị nhỏ nhất), MAX (tìm giá trị lớn nhất), COUNT (đếm) để thực hiện các yêu cầu. Lưu ý, tất cả các hàm này đều có cú pháp sử dụng tương tự như hàm SUM đã biết.
+Quan sát trang tính Dự kiến phân bổ cây hoa cho các lớp, tính toán để trả lời các câu hỏi tại cột J bằng cách nhập công thức tại các ô từ K4 đến K8 tương ứng.
+Em có thể nhập công thức để tính toán như gợi ý trong Bảng 8.1.
+Bảng 8.1. Các công thức cần nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yêu cầu tính toánCông thức tínhKết quảTrung bình mỗi lớp sẽ trồng bao nhiêu cây?=AVERAGE(C4:I8)13.6667Số cây hoa Dừa cạn lớn nhất một lớp sẽ trồng là bao nhiêu?=MAX(C6:I6)Số cây hoa Mười giờ ít nhất một lớp sẽ trồng là bao nhiêu?=MIN(C4:I4)Bao nhiêu lớp sẽ trồng hoa Hồng?=COUNT(C8:I8)Lớp 7B sẽ trồng bao nhiêu loại hoa?=COUNT(D4:D8)
+Cú pháp một số hàm thông dụng của phần mềm bảng tính mà em có thể cần sử dụng để tính toán dữ liệu cho dự án Trường học xanh được cho trong Bảng 8.2.
+Bảng 8.2. Cú pháp một số hàm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STTTên hàmCách viếtÝ nghĩaVí dụ1SUMSUM(v1,v2,...)Tính tổng các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,...SUM(C3:E5) SUM(D4:H4,15,K10)2AVERAGEAVERAGE(v1,v2,...)Tính trung bình cộng các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,...AVERAGE(B2:E6) AVERAGE(10,12,1)3MINMIN(v1,v2,...)Tìm giá trị nhỏ nhất trong các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,...MIN(A1:B10) MIN(C2,B3,10)4MAXMAX(v1,v2,...)Tìm giá trị lớn nhất trong các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,...MAX(B1:E1) MAX(2,A1:B5)5COUNTCOUNT(v1,v2,...)Đếm số các giá trị là số có trong các ô, vùng hoặc số có trong danh sách v1, v2,...COUNT(B3:E10) COUNT(1,2)
+Lưu ý:
+
+Tất cả các hàm trên đều chỉ xử lí các ô có dữ liệu số có trong tham số của hàm. Hàm sẽ bỏ qua các ô dữ liệu chứa văn bản hoặc ô trống.
+Các phần mềm bảng tính thường dùng dấu chấm "." để ngăn cách phần nguyên và phần thập phân, dùng dấu phẩy "," để ngăn cách các chữ số hàng nghìn, hàng triệu,...
+
+Câu hỏi
+Mỗi hàm sau cho kết quả như thế nào?
+a) SUM(1,3, "Hà Nội", "Zero", 5)
+b) MIN(3,5, "One", 1)
+c) COUNT(1,3,5,7)
+3. THỰC HÀNH: TÍNH TOÁN TRÊN DỮ LIỆU TRỒNG CÂY THỰC TẾ
+Nhiệm vụ
+
+Tạo trang tính mới trong bảng tính của dự án để nhập dữ liệu dự kiến kết quả thực hiện dự án.
+Nhập và sao chép dữ liệu vào trang tính.
+Thiết lập công thức tính tổng số cây mỗi loại và tổng số cây các loại mà mỗi lớp trồng được.
+Thực hiện các thao tác định dạng dữ liệu cho trang tính.
+
+Hướng dẫn
+a) Tạo trang tính mới
+
+Mở tệp bảng tính THXanh.xlsx.
+Tạo thêm một trang tính mới đặt tên 4. Dự kiến kết quả.
+
+b) Nhập và sao chép dữ liệu vào trang tính
+
+Nhập tại ô A2: Bảng 4. Dự kiến phân bổ cây cho các lớp.
+Mở lại trang tính 3. Tìm hiểu giống cây và sao chép vùng dữ liệu A3:C19 (3 cột đầu tiên STT, Loại cây, Tên cây) sang trang tính 4. Dự kiến kết quả tại địa chỉ A3.
+Nhập dữ liệu dự kiến phân bổ cho các lớp khối 7 được giao thực hiện dự án Trường học xanh như Hình 8.6.
+
+c) Tính tổng số cây mỗi loại mà mỗi lớp trồng được
+
+Chèn thêm hai hàng trống ở trên hàng 9 bằng cách thực hiện hai lần các thao tác sau: Chọn cả hàng số 9, nháy nút phải chuột tại hàng 9 và chọn lệnh Insert.
+Thực hiện tương tự để chèn thêm hai hàng trống ở trên hàng có số thứ tự 12.
+Tại ô D9 nhập công thức =SUM(D4:D8) để tính số cây hoa của lớp 7A, sau đó sao chép công thức này sang các ô bên cạnh tương ứng với các lớp 7B, 7C, 7D, 7E, 7G, 7H.
+Thực hiện tương tự để tính tổng số cây ăn quả và cây bóng mát mà mỗi lớp đã trồng.
+
+d) Tính tổng số cây các loại mà mỗi lớp trồng được
+
+Tại ô D25 nhập công thức =D9+D17+D24 để tính tổng số cây đã trồng của lớp 7A.
+Sao chép công thức tại ô D25 sang các ô E25, F25, G25, H25, I25, J25 để tính tổng số cây của các lớp 7B, 7C, 7D, 7E, 7G, 7H.
+Tại hàng 3, bên cạnh cột 7H tạo thêm hai cột Tổng số cây và Trung bình để tính tổng số mỗi cây và số cây trung bình mỗi lớp trồng.
+Tại ô K4, nhập hàm =SUM(D4:J4) tính tổng số cây Hoa Mười giờ.
+Tại ô L4 nhập hàm =AVERAGE(D4:J4) tính số cây Hoa Mười giờ trung bình của mỗi lớp.
+Sao chép dữ liệu tại ô K4 xuống phía dưới cho đến ô K25, sau đó xóa đi dữ liệu tại các hàng trống là K10, K18.
+Sao chép dữ liệu tại ô L4 xuống phía dưới cho đến ô L25, sau đó xóa đi dữ liệu tại các hàng trống là L10, L18.
+
+e) Định dạng dữ liệu cho trang tính
+
+Định dạng chữ in đậm cho tiêu đề bảng.
+Hàng tiêu đề (hàng 3) định dạng chữ in đậm và có nền màu vàng.
+Định dạng chữ in đậm cho tất cả các ô chứa dữ liệu tổng hợp để làm nổi bật.
+Lưu lại kết quả.
+
+LUYỆN TẬP
+
+Tại các ô K9, K17, K24 trong trang tính 4. Dự kiến kết quả có thể dùng công thức khác được không? Nếu có thì công thức đó là gì? Từ đó em rút ra điều gì?
+Các công thức sau đây có công thức giống nhau hay không?
+a) =SUM(C3:K3)
+b) =C3 + SUM(D3:J3) + K3
+c) =SUM(C3:G3) + SUM(H3:K3)
+Dựa trên dữ liệu của Bảng 4. Dự kiến phân bổ cây cho các lớp, em hãy thực hành để:
+a) Tìm số cây lón nhất sẽ được trồng của các lớp.
+b) Tính số cây trung bình sẽ được trồng của các lớp.
+
+VẬN DỤNG
+Em hãy tạo bảng tính và nhập dữ liệu ghi lại các khoản chi tiêu của gia đình em trong một tháng. Sử dụng các hàm để tính toán và trả lời những câu hỏi sau:
+a) Tổng số tiền chi tiêu một tháng là bao nhiêu?
+b) Khoản chi nhiều nhất là khoản nào?
+c) Có bao nhiêu khoản đã chi?
+d) Trung bình mỗi ngày chi bao nhiêu tiền?
+Em hãy chia sẻ với bố mẹ những kết quả em tính toán được cũng như cách dùng các hàm tính toán sao cho hợp lí.
+BÀI 9
+TRÌNH BÀY BẢNG TÍNH
+Sau bài học này em sẽ:
+• Biết và thực hiện được một số chức năng định dạng dữ liệu số và trình bày bảng tính.
+• Áp dụng được một số hàm tính toán dữ liệu như SUM, COUNT, AVERAGE, MIN, MAX vào dự án Trường học xanh.
+Quan sát một phần bảng tính của dự án Trường học xanh trong Hình 9.1, em có nhận xét gì? Có cần chỉnh sửa, định dạng hay trình bày dữ liệu cho đẹp hơn không?
+Hình 9.1. Một bảng dữ liệu của dự án Trường học xanh
+1. ĐỊNH DẠNG DỮ LIỆU SỐ
+Hoạt động 1 Làm quen với lệnh định dạng dữ liệu (Format Cells)
+
+Cột dữ liệu Trung bình cần điều chỉnh gì để hiển thị dễ đọc, dễ so sánh hơn?
+Dữ liệu tại cột Chi phí nên trình bày lại như thế nào để phù hợp với dữ liệu là số tiền?
+
+a) Định dạng dữ liệu số
+Dữ liệu số trong bảng tính được hiểu là các số nguyên hoặc số thập phân (là số có phần số nguyên và phần thập phân). Tất cả các phần mềm bảng tính đều cho phép thiết lập cách định dạng thể hiện các số này. Ví dụ chỉ cho phép hiện bao nhiêu chữ số thập phân, hoặc quy định dùng dấu “,” phân tách hàng nghìn, hàng triệu,...
+Để thực hiện định dạng các số tại một ô hoặc vùng dữ liệu, em cần chọn vùng dữ liệu và chọn Home, nháy chuột vào mũi tên bên cạnh nhóm lệnh Number để mở cửa sổ Format Cells. Sau đó em nhập các tham số định dạng kiểu dữ liệu số thực trong cửa sổ Format Cells như Hình 9.2.
+Hình 9.2. Cửa sổ Format Cells
+b) Định dạng dữ liệu kiểu phần trăm
+Khi nói đến tỉ lệ phần trăm chúng ta hiểu là tỉ lệ giữa hai giá trị, ví dụ a/b. Muốn mô tả tỉ lệ này thành các số phần trăm, chúng ta sẽ tính (a/b) × 100(%). Phần mềm bảng tính có lệnh để hiển thị các giá trị (là tỉ lệ giữa hai số a, b nào đó) để giá trị này thể hiện trên bảng tính là số phần trăm.
+Thao tác định dạng dữ liệu kiểu phần trăm như sau: đánh dấu vùng dữ liệu, trong cửa sổ Format Cells, chọn Number, chọn kiểu Percentage, nháy chuột chọn OK.
+Hình 9.3. Cột E được tính theo công thức = Số cây đã trồng/Số cây dự kiến
+Hình 9.4. Sau khi định dạng kiểu dữ liệu phần trăm (percentage)
+c) Định dạng dữ liệu ngày tháng
+Chúng ta đã biết các phần mềm bảng tính cho phép nhập dữ liệu ngày tháng theo khuôn dạng: mm/dd/yyyy, tức là nhập tháng, sau đó nhập ngày, sau đó là năm, các số cách nhau bởi dấu “/” hoặc “-”. Mặc định dữ liệu ngày tháng cũng thể hiện trên màn hình dưới dạng “mm/dd/yyyy”.
+Muốn thay đổi lại cách thể hiện ngày tháng, em thực hiện như sau: đánh dấu vùng dữ liệu, trong cửa sổ Format Cells em thực hiện các bước như Hình 9.5. Lưu ý: Việc chỉnh sửa chỉ thay đổi cách hiển thị, còn việc nhập dữ liệu vẫn cần tuân theo thứ tự mặc định của phần mềm.
+Hình 9.5. Cách thiết lập hiển thị ngày tháng của Việt Nam
+Lưu ý: Dữ liệu ngày tháng có thể thực hiện các phép cộng với số nguyên (mỗi số nguyên được tính là một ngày) và phép trừ hai dữ liệu ngày tháng.
+Hình 9.6. Dữ liệu ngày tháng với các phép toán cộng, trừ
+Hộp kiến thức
+Có thể định dạng dữ liệu số theo các kiểu khác nhau như xác định số chữ số thập phân, phân tách hàng nghìn, hàng triệu,... Có thể định dạng số theo kiểu phần trăm và định dạng dữ liệu ngày tháng của Việt Nam (dd/mm/yyyy).
+Câu hỏi
+Mỗi hàm sau cho kết quả như thế nào?
+a) SUM(1,3, "Hà Nội", "Zero", 5)
+b) MIN(3,5, "One", 1)
+c) COUNT(1,3,5,7)
+2. TRÌNH BÀY BẢNG TÍNH
+Hoạt động 2 Tìm hiểu một số lệnh trình bày bảng tính
+
+Theo em việc định dạng dữ liệu và trình bày bảng tính có khác nhau không?
+Các lệnh trình bày bảng tính hay định dạng dữ liệu có làm thay đổi dữ liệu trên bảng tính không?
+
+a) Các lệnh chèn, xoá, ẩn, hiện hàng và cột
+
+Xoá hàng, cột: Nháy chuột vào tên của cột hoặc hàng để chọn cột hoặc hàng muốn xoá. Nháy nút phải chuột vào chỗ chọn, chọn Delete. Có thể chọn nhiều hàng (cột) để xoá đồng thời.
+Chèn thêm một hàng, cột mới: Chọn hàng (dưới hàng muốn chèn) hoặc cột (bên phải cột muốn chèn). Nháy nút phải chuột vào chỗ chọn, chọn lệnh Insert.
+Hàng mới sẽ được chèn vào bên trên hàng em chọn, cột mới sẽ được chèn vào bên trái cột em chọn.
+Làm ẩn, hiện hàng hoặc cột: Trong khi làm việc, một số hàng hoặc cột của bảng tính có thể ẩn đi với mục đích làm gọn bảng tính, dễ quan sát. Khi cần em có thể hiển thị lại các hàng, cột đã ẩn bất cứ lúc nào. Muốn ẩn hàng hoặc cột, em chọn hàng hoặc cột, nháy nút phải chuột vào chỗ chọn và chọn Hide. Muốn hiển thị lại, em chọn các hàng, cột xung quanh vị trí hàng, cột bị ẩn đi, nháy nút phải chuột và chọn Unhide.
+
+Hình 9.7. Ẩn hàng và cột
+b) Lệnh gộp các ô của một vùng dữ liệu
+Đánh dấu vùng dữ liệu (các ô muốn gộp), chọn Home/Alignment/Merge & Center.
+Lưu ý: Sau khi gộp, ô kết quả sẽ có địa chỉ là ô đầu tiên bên trái của vùng đã gộp và lưu kết quả của ô này. Dữ liệu trong các ô khác sẽ bị xoá khi gộp.
+Hình 9.8. Trước khi gộp
+Hình 9.9. Sau khi gộp ô
+Hình 9.10. Chọn các ô của vùng dữ liệu A2:B3
+Hình 9.11. Sau khi gộp, ô gộp có địa chỉ là A2
+3. TÍNH CHẤT CỦA CÁC HÀM TRÊN BẢNG TÍNH
+Hoạt động 3 Tìm hiểu thêm tính chất một số hàm tính toán cơ bản
+Giả sử nhóm em lập bảng dữ liệu như Hình 9.12 để theo dõi tiến độ thực hiện dự án Trường học xanh. Dữ liệu được nhập vào bảng có thể là số liệu cụ thể hoặc có thể ghi “Không” nếu lớp không có cây này, hoặc ghi “Đang làm” nếu lớp đã thực hiện nhưng chưa có số liệu, ghi “???” nếu chưa biết thông tin gì. Cột cuối cùng luôn tính Tổng số cây theo từng loại, hàng cuối sẽ đếm số loại cây đã trồng của mỗi lớp.
+Các kết quả của bảng dữ liệu này có luôn đúng hay không? Vì sao?
+Hình 9.12. Dữ liệu và tiến độ thực tế
+Các hàm tính toán của bảng tính điện tử như SUM, AVERAGE, COUNT, MIN, MAX sẽ chỉ tính toán trên các ô chứa dữ liệu số và bỏ qua các ô chứa dữ liệu dạng văn bản hoặc ô trống. Tính chất đặc biệt này giúp cho bảng dữ liệu theo dõi quá trình thực hiện dự án như Hình 9.12 sẽ luôn cho kết quả đúng.
+Câu hỏi
+Trong bảng dữ liệu của Hình 9.12 các hàm sau sẽ cho kết quả bao nhiêu?
+a) = COUNT(C6:I6)
+b) = AVERAGE(C7:I7)
+c) = MAX(C4:I8)
+d) = SUM(C4:I8)
+4. THỰC HÀNH: HOÀN THIỆN DỮ LIỆU DỰ ÁN TRƯỜNG HỌC XANH
+Nhiệm vụ
+
+Tạo trang tính mới trong bảng tính của dự án để nhập dữ liệu dự kiến phân bổ cây.
+Nhập và sao chép dữ liệu vào trang tính.
+Thiết lập công thức tính chi phí trồng mỗi loại cây và chi phí của toàn bộ dự án.
+Thực hiện các thao tác định dạng dữ liệu cho trang tính.
+
+Hướng dẫn
+a) Tạo trang tính mới
+
+Mở tệp bảng tính THXanh.xlsx.
+Tạo thêm một trang tính mới đặt tên 5. Tổng kết.
+
+b) Nhập và sao chép dữ liệu vào trang tính
+
+Mở trang tính 4. Dự kiến kết quả. Sao chép toàn bộ dữ liệu của trang tính 4 sang trang tính 5.
+Trong trang tính 5, sửa lại tên bảng tại ô A2 là: Bảng 5. Dự kiến phân bổ cây dự án Trường học xanh.
+✅ ĐÃ GỬI BÀI 10 – PHIÊN BẢN CHÍNH XÁC TỪNG TỪ TRONG SÁCH
+Dưới đây là toàn bộ nội dung Bài 10 được trích xuất nguyên văn, từng chữ, từng dấu câu, từng bảng biểu trực tiếp từ SGK Tin học 7 (bộ Kết nối tri thức với cuộc sống), trang 51–54.
+Bạn copy toàn bộ văn bản bên dưới và dán tiếp vào file Tin_hoc_7_Ket_noi.txt (ngay sau Bài 9).
+
+BÀI 10
+HOÀN THIỆN BẢNG TÍNH
+Sau bài học này em sẽ:
+• Thực hiện được các thao tác hoàn thiện bảng tính.
+• Thực hành hoàn thiện dự án.
+• Sử dụng được bảng tính điện tử để giải quyết một vài công việc cụ thể đơn giản.
+Công việc thu thập dữ liệu, tính toán dữ liệu cho dự án Trường học xanh đã hoàn thành. Việc tiếp theo là trình bày, hoàn thiện bảng tính để có thể trình bày trước lớp.
+1. CÁC THAO TÁC HOÀN THIỆN BẢNG TÍNH
+Hoạt động 1
+Tại sao khi in dữ liệu ra giấy lại không nhìn thấy các đường kẻ?
+Bạn An in dữ liệu trong Bảng 2. Dự kiến số lượng cây cần trồng (Hình 10.1a) ra giấy nhưng kết quả nhận được là bảng dữ liệu không có các đường kẻ (Hình 10.1b) giống như bạn nhìn thấy trên màn hình máy tính. Em có biết lí do tại sao không?
+Hình 10.1a. Dữ liệu trong phần mềm bảng tính
+Hình 10.1b. Dữ liệu khi in ra
+a) Các thao tác với trang tính
+Mỗi bảng tính bao gồm nhiều trang tính. Vị trí phía dưới của bảng tính là nơi hiện danh sách các trang tính.
+
+Tạo trang tính mới: Nháy chuột vào biểu tượng + ở cuối danh sách trang tính.
+Xoá một trang tính: Nháy nút phải chuột vào tên trang tính rồi chọn Delete.
+Chèn trang tính mới trước trang tính A: Nháy nút phải chuột vào tên trang tính A, chọn Insert/Worksheet rồi chọn OK.
+Đổi tên trang tính: Nháy đúp chuột vào tên trang tính, nhập tên mới, nhấn phím Enter.
+Thay đổi thứ tự các trang tính: Nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải để di chuyển trang tính đến vị trí mong muốn.
+Sao chép một trang tính sang vị trí mới: Nháy nút phải chuột vào tên trang tính và chọn lệnh Move or Copy.... Cửa sổ Move or Copy xuất hiện.
+
+Hình 10.2. Tạo trang tính mới
+Hình 10.3. Cửa sổ Move or Copy
+b) Kẻ đường viền ô và khung bao quanh vùng dữ liệu
+Trên màn hình máy tính em nhìn thấy mỗi trang tính là một lưới các ô nhưng mặc định khi in dữ liệu thì các đường lưới không được in ra. Vì vậy, trước khi in dữ liệu của bảng tính em cần kẻ đường viền ô và khung bao quanh vùng dữ liệu nếu cần.
+
+Chọn vùng dữ liệu muốn kẻ đường viền ô, kẻ khung và chọn Format Cells.
+Trong cửa sổ Format Cells chọn trang Border, thiết lập các thông số kẻ đường viền, kẻ khung như hướng dẫn.
+
+Hình 10.4. Cửa sổ Format Cells
+Người sử dụng có thể thực hiện các thao tác đa dạng trên trang tính của bảng tính: đổi tên, tạo mới, chèn, sao chép, di chuyển hoặc xoá một trang tính. Nên kẻ khung các vùng dữ liệu trước khi tiến hành in hoặc trình bày dữ liệu.
+2. IN DỮ LIỆU TRONG BẢNG TÍNH
+Hoạt động 2 In dữ liệu
+Em hãy quan sát Hình 10.5 và nêu các bước in một trang tính.
+Có thể in trang tính hiện thời, hoặc toàn bộ bảng tính, hoặc có thể chỉ in vùng dữ liệu đang chọn, phần mềm sẽ tự động tính toán để in. Thao tác in dữ liệu như sau:
+Bước 1. Đánh dấu vùng dữ liệu muốn in.
+Bước 2. Thực hiện lệnh File/Print.
+Xuất hiện hộp thoại Print. Nhập các thông số in trước khi chọn Print để in.
+Bước 3. Sau khi nhập các thông số in, nháy chuột lên nút lệnh Print để tiến hành in.
+Hình 10.5. Nhập các thông số để in và xem kết quả trước khi in
+3. THỰC HÀNH: TRÌNH BÀY HOÀN CHỈNH DỮ LIỆU DỰ ÁN TRƯỜNG HỌC XANH
+Nhiệm vụ
+
+Tạo trang tính mới để trình bày dữ liệu của dự án Trường học xanh.
+Sử dụng các kiến thức đã biết để định dạng dữ liệu và trình bày trang tính.
+Kẻ đường viền, kẻ khung.
+
+Hướng dẫn
+a) Tạo trang tính mới
+
+Mở tệp bảng tính THXanh.xlsx.
+Tạo trang tính mới có tên là 6. Hoàn thiện.
+Chọn trang tính 5. Tổng kết và sao chép nội dung trang tính này vào trang tính 6. Hoàn thiện.
+Sửa tên các dòng đầu của trang tính.
+
+b) Định dạng dữ liệu và trình bày trang tính
+
+Thiết lập định dạng dữ liệu cho hai cột Trung bình và Chi phí như sau:
+Cột dữ liệu Trung bình: Thiết lập định dạng là số có hai chữ số thập phân.
+Cột dữ liệu Chi phí: Thiết lập định dạng là số không có chữ số thập phân (số chữ số thập phân bằng 0) và thiết lập chế độ hiển thị phân tách hàng nghìn, hàng triệu,...
+
+Tại cột Loại cây (cột B) em gộp các ô cùng nhóm theo loại cây hoa, cây ăn quả, cây bóng mát.
+Căn giữa cho dữ liệu trong các ô đã gộp theo cả chiều dọc và chiều ngang.
+Tô màu nền cho các ô dữ liệu theo từng loại cây.
+
+c) Kẻ đường viền, kẻ khung
+
+Đánh dấu toàn bộ vùng dữ liệu chính của trang tính (vùng A3:N25).
+Kẻ đường viền cho các ô và kẻ khung cho vùng dữ liệu.
+Thực hiện các thao tác căn chỉnh một lần nữa các cột và hàng của trang tính một cách thích hợp, có thể theo mẫu như Hình 10.6.
+
+Hình 10.6. Hoàn thiện dữ liệu dự án Trường học xanh
+
+Lưu tệp.
+
+Công việc tính toán dữ liệu dự án đã hoàn thành. Em có thể in toàn bộ trang tính này hoặc sao chép dữ liệu sang phần mềm trình chiếu để trình bày trước lớp.
+LUYỆN TẬP
+
+Quan sát lệnh in một trang tính và so sánh với lệnh in văn bản mà em đã học ở lớp 6, có điểm gì khác nhau giữa hai lệnh in này?
+Em hãy thực hiện lệnh in bằng dữ liệu rút gọn bằng cách ẩn đi tất cả các cột ứng với các lớp cụ thể từ 7A đến 7H.
+
+VẬN DỤNG
+Em hãy giúp cô giáo tạo trang tính Điểm thi khảo sát có các cột Họ và tên, Toán, Ngữ văn, Tiếng Anh và Điểm trung bình. Dùng các hàm hay công thức để tính toán rồi trình bày trang tính.
+BÀI 11
+TẠO BÀI TRÌNH CHIẾU
+Sau bài học này em sẽ:
+
+Nêu được một số chức năng cơ bản của phần mềm trình chiếu.
+Tạo được một bài báo cáo có tiêu đề, cấu trúc phân cấp.
+
+Giờ ra chơi, các bạn An, Minh và Khoa trao đổi về dự án Trường học xanh mà các bạn đang thực hiện.
+An: Việc khảo sát, thu thập thông tin và tính toán cho dự án đã xong. Bây giờ nhóm mình cần làm một bài báo cáo kết quả.
+Minh: Nhóm mình nên sử dụng phần mềm trình chiếu để tạo bài báo cáo.
+Khoa: Bài trình chiếu báo cáo cần có trang tiêu đề, mỗi trang nội dung nên có tiêu đề trang để giúp người nghe nhanh chóng hiểu được chủ đề và nội dung trình bày.
+Minh: Sử dụng cấu trúc phân cấp sẽ làm cho bố cục của bài báo cáo được mạch lạc, rõ ràng.
+An: Hay quá! Chúng ta phân công nhau làm từng phần việc nhé.
+1. MỘT SỐ CHỨC NĂNG CƠ BẢN CỦA PHẦN MỀM TRÌNH CHIẾU
+Hoạt động 1 Một số chức năng cơ bản của phần mềm trình chiếu
+
+Em đã biết gì về phần mềm trình chiếu?
+Khi tạo một bài trình bày với nội dung gồm văn bản, hình ảnh và nhiều đối tượng khác, em chọn sử dụng phần mềm soạn thảo văn bản hay phần mềm trình chiếu? Vì sao?
+
+Ở Lớp 3 và Lớp 4 các em đã biết Phần mềm trình chiếu là phần mềm được thiết kế để cho phép người sử dụng trình bày thông tin như văn bản, hình ảnh, âm thanh và video dưới hình thức trình chiếu một cách hấp dẫn và hiệu quả.
+Phần mềm trình chiếu có các chức năng hỗ trợ người sử dụng tạo các bài trình chiếu. Phần mềm trình chiếu thường có một số chức năng cơ bản sau:
+
+Tạo bài trình chiếu lưu trên máy tính dưới dạng tệp tin. Chức năng này bao gồm soạn thảo, chỉnh sửa, định dạng văn bản. Mỗi bài trình chiếu gồm một hay nhiều trang chiếu (slide) được đánh số thứ tự. Thông tin trên mỗi trang có thể là văn bản, âm thanh, hình ảnh, biểu đồ hay video.
+Trình chiếu nội dung các trang chiếu lên màn hình hoặc màn chiếu rộng bằng máy chiếu (projector).
+
+Phần mềm trình chiếu có các hiệu ứng động, hiệu ứng chuyển trang làm cho nội dung trình bày thêm sinh động và hấp dẫn.
+Phần mềm trình chiếu thường được sử dụng để tạo bài trình chiếu phục vụ hội thảo, hội nghị, dạy học, quảng cáo, tạo các phần mềm giải trí như album với các hiệu ứng hoạt hình (ảnh, ca nhạc,...).
+Hộp kiến thức
+
+Phần mềm trình chiếu có hai chức năng cơ bản là tạo bài trình chiếu và trình chiếu nó.
+Phần mềm trình chiếu có các hiệu ứng làm cho nội dung trình bày thêm sinh động và hấp dẫn.
+Phần mềm trình chiếu thường được sử dụng để tạo bài trình chiếu phục vụ hội thảo, hội nghị, dạy học, quảng cáo,...
+
+Câu hỏi
+Trong các phát biểu sau, phát biểu nào đúng, phát biểu nào sai?
+a) Phần mềm trình chiếu thường được sử dụng để tạo bài trình chiếu phục vụ hội nghị, dạy học, quảng cáo,...
+b) Phần mềm trình chiếu có chức năng tạo bài trình chiếu và lưu dưới dạng tệp.
+c) Có thể nhập và xử lí văn bản, hình ảnh trên các trang chiếu.
+d) Chức năng chính của phần mềm trình chiếu là tính toán tự động.
+2. TIÊU ĐỀ CỦA BÀI TRÌNH CHIẾU
+Hoạt động 2 Tạo tiêu đề của bài trình chiếu
+
+Khi tạo bài trình chiếu, em thường trình bày các trang như thế nào?
+Theo em, tiêu đề của bài trình chiếu nên đặt ở trang nào? Muốn làm nổi bật nội dung của mỗi trang thì cần làm như thế nào?
+
+Một bài trình chiếu thường có nhiều trang được đánh số thứ tự. Trang đầu tiên là trang tiêu đề, còn lại là các trang nội dung. Nội dung trên các trang thường được bố trí thống nhất theo cùng một mẫu.
+Trang tiêu đề (Title Slide) cho biết chủ đề của bài trình chiếu. Trang tiêu đề còn có thêm thông tin như tên tác giả, ngày trình bày, địa điểm trình bày,... Trang này được ví như cổng vào bài trình chiếu, nó thu hút sự chú ý của người nghe ngay từ đầu.
+Trang nội dung thường có tiêu đề trang và nội dung (Title and Content). Tiêu đề trang được viết dưới dạng văn bản ở trên đầu mỗi trang. Tiêu đề trang là thành phần làm nổi bật nội dung cần trình bày.
+Mẫu bố trí nội dung trang trình chiếu (layout): Các phần mềm trình chiếu có sẵn các mẫu bố trí nội dung. Người sử dụng có thể sử dụng các mẫu này hoặc thay đổi bố trí nội dung của trang sao cho phù hợp. Em cũng có thể tự tạo mẫu bố trí cho trang chiếu.
+Hộp kiến thức
+
+Bài trình chiếu thường có trang đầu tiên là trang tiêu đề cho biết chủ đề của bài trình bày, tiếp theo là các trang nội dung.
+Tiêu đề trang làm nổi bật nội dung cần trình bày trong trang và được đặt trên đầu các trang nội dung.
+Các phần mềm trình chiếu có sẵn các mẫu bố trí nội dung trang chiếu để thuận tiện cho người sử dụng.
+
+Câu hỏi
+Phát biểu nào sau đây không đúng?
+A. Trang tiêu đề là trang đầu tiên và cho biết chủ đề của bài trình chiếu.
+B. Các trang nội dung của bài trình chiếu thường có tiêu đề trang.
+C. Tiêu đề trang giúp làm nổi bật nội dung cần trình bày của trang.
+D. Các phần mềm trình chiếu không có sẵn các mẫu bố trí.
+3. CẤU TRÚC PHÂN CẤP
+Hoạt động 3 Cấu trúc phân cấp
+Em hãy quan sát hai cách trình bày dự án Trường học xanh sau đây và cho biết cách trình bày nào dễ hiểu hơn?
+Cách 1
+Dự án Trường học xanh
+
+Ý tưởng
+Vai trò của cây xanh
+Đề xuất dự án
+Kế hoạch
+Khảo sát thực tế
+Thực hiện
+Phân công trồng và chăm sóc cây
+Thời gian
+Kết quả dự kiến
+Kết luận
+
+Cách 2
+Dự án Trường học xanh
+
+Ý tưởng
+Vai trò của cây xanh
+Đề xuất dự án
+
+Kế hoạch
+2.1. Khảo sát thực tế
+2.2. Thực hiện
+Phân công trồng và chăm sóc cây
+Thời gian
+2.3. Kết quả dự kiến
+
+Kết luận
+
+Cấu trúc phân cấp (hay danh sách kí hiệu đầu dòng nhiều cấp) thường được dùng trong soạn thảo văn bản, tạo bài trình chiếu,... Đây là một công cụ giúp làm cho nội dung trình bày có bố cục mạch lạc, dễ hiểu, giúp truyền tải thông tin và quản lí nội dung tốt hơn.
+Hộp kiến thức
+Cấu trúc phân cấp giúp truyền tải thông tin một cách mạch lạc, dễ hiểu và dễ quản lí. Người xem dễ dàng hiểu được bố cục của nội dung cần trình bày.
+Câu hỏi
+Câu nào sau đây sai khi nói về cấu trúc phân cấp?
+A. Là cấu trúc gồm danh sách nhiều cấp.
+B. Giúp làm cho nội dung cần trình bày có bố cục mạch lạc, dễ hiểu.
+C. Cấu trúc này gồm một chuỗi các dấu đầu dòng ngang cấp nhau.
+D. Cấu trúc này được sử dụng nhiều trong soạn thảo văn bản, tạo bài trình chiếu.
+4. THỰC HÀNH: TẠO BÀI TRÌNH CHIẾU CÓ TIÊU ĐỀ, CẤU TRÚC PHÂN CẤP
+Nhiệm vụ
+Tạo bài trình chiếu báo cáo kết quả thực hiện dự án Trường học xanh của nhóm.
+
+Bài trình chiếu có trang tiêu đề, các trang nội dung có tiêu đề trang.
+Bài trình chiếu sử dụng cấu trúc phân cấp.
+Lưu tệp trình chiếu với tên Truonghocxanh.pptx.
+
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phần mềm trình chiếu Microsoft PowerPoint phiên bản 2016 để minh họa.)
+a) Tạo bài trình chiếu
+Bước 1. Khởi động PowerPoint. Phần mềm tự động tạo một bài trình chiếu mới. Trang đầu tiên là trang tiêu đề.
+Bước 2. Tạo các trang nội dung theo các bước như trong Hình 11.2.
+b) Tạo cấu trúc phân cấp
+
+Tạo cấu trúc
+Bước 1. Đặt con trỏ soạn thảo ở đầu dòng cần tạo cấu trúc phân cấp (nếu cần tạo cấu trúc phân cấp giống nhau cho nhiều dòng em chọn đồng thời các dòng đó).
+Bước 2. Chọn lệnh Increase List Level (hoặc nhấn phím Tab) để tăng bậc phân cấp; Chọn lệnh Decrease List Level (hoặc nhấn tổ hợp phím Shift + Tab) để giảm bậc phân cấp.
+
+c) Lưu bài trình chiếu
+Lưu bài trình chiếu với tên Truonghocxanh.pptx.
+LUYỆN TẬP
+
+Ưu điểm của việc sử dụng cấu trúc phân cấp trong bài trình chiếu là gì?
+Em hãy tạo trang chiếu ghi các công việc cần làm trong ngày và sử dụng cấu trúc phân cấp để trình bày nội dung.
+
+VẬN DỤNG
+Em hãy đề xuất một dự án mà em nhận thấy nó thiết thực với điều kiện hiện tại. (Ví dụ: Làm sạch đẹp cảnh quan ngôi nhà của em; Trang trí thư viện của trường để thu hút các bạn học sinh đến đọc sách; Tái chế rác thải...). Tạo bài trình chiếu để trình bày dự án đó (mục tiêu, cách làm, tác dụng, hiệu ứng...) với những người có liên quan để thuyết phục mọi người cùng thực hiện. Trong bài có trang tiêu đề, các trang nội dung có tiêu đề trang và sử dụng cấu trúc phân cấp. Ghi lại bài trình chiếu với tên Baitaptinhoc7.pptx.
+
+BÀI 12
+ĐỊNH DẠNG ĐỐI TƯỢNG TRÊN TRANG CHIẾU
+Sau bài học này em sẽ:
+
+Sao chép được dữ liệu từ tệp văn bản sang trang trình chiếu.
+Đưa được hình ảnh minh hoạ vào bài trình chiếu.
+Biết sử dụng các định dạng cho văn bản, ảnh minh hoạ một cách hợp lí.
+
+Hôm nay, các bạn An, Minh và Khoa tiếp tục bàn về cách trình bày báo cáo dự án Trường học xanh.
+An: Chúng ta có thể sao chép dữ liệu về ý tưởng dự án đã có sẵn từ tệp Truonghocxanh.docx, sao chép các kết quả tính toán từ các trang tính trong tệp THXanh.xlsx. Còn hình thức thì nên trình bày sao cho thật ấn tượng.
+Minh: Minh hoạ bằng hình ảnh là một lựa chọn tốt. Hình ảnh có tính trực quan và rất thuyết phục.
+Khoa: Bài trình bày sẽ hiệu quả hơn nếu sử dụng định dạng văn bản và ảnh minh hoạ một cách hợp lí.
+1. ẢNH MINH HOẠ
+Hoạt động 1 Ảnh minh hoạ
+
+Theo em có nên sử dụng hình ảnh để minh hoạ cho bài trình chiếu không? Vì sao?
+Em sẽ chọn hình ảnh gì để thêm vào bài trình chiếu báo cáo dự án?
+
+Hình ảnh là dạng thông tin trực quan và dễ gây ấn tượng nhất. Sử dụng hình ảnh minh hoạ cho nội dung trình bày sẽ giúp cho bài trình chiếu hấp dẫn và sinh động, thu hút sự chú ý của người nghe.
+Khi lựa chọn hình ảnh nên căn cứ vào hai yếu tố quan trọng sau: phù hợp với nội dung, có tính thẩm mĩ.
+Sẽ ấn tượng hơn nếu các hình ảnh trong trang chiếu có kích thước và vị trí hợp lí, kết hợp với nội dung thành một tổng thể hài hoà.
+Hộp kiến thức
+
+Hình ảnh thường được dùng để minh hoạ cho nội dung bài trình chiếu, nhờ đó bài trình chiếu trở nên trực quan, ấn tượng và hấp dẫn hơn.
+Nên lựa chọn hình ảnh phù hợp với nội dung bài trình chiếu và có tính thẩm mĩ.
+Kích thước hình ảnh và vị trí đặt trên trang chiếu cần hợp lí.
+
+Câu hỏi
+Phát biểu nào đúng, phát biểu nào sai?
+a) Hình ảnh minh họa làm cho bài trình chiếu ấn tượng hơn.
+b) Nên chọn hình ảnh phù hợp với chủ đề của bài trình chiếu.
+c) Màu sắc, hoa tiết trên hình ảnh không cần trùng khớp với chủ đề.
+d) Hình ảnh minh họa cần có tính thẩm mĩ.
+2. ĐỊNH DẠNG VĂN BẢN
+Hoạt động 2 Định dạng văn bản
+
+Sau khi tạo văn bản cho một bài trình chiếu, em thường định dạng văn bản như thế nào? Cần làm gì để nhấn mạnh nội dung trên một trang?
+Có nên viết nhiều chữ, dùng nhiều màu trên một trang không? Vì sao?
+
+Các phần mềm trình chiếu đều có các công cụ định dạng văn bản giúp cho người sử dụng định dạng phông chữ, cỡ chữ, kiểu chữ, màu chữ, cân lề,... Cách sử dụng các công cụ định dạng văn bản của phần mềm trình chiếu tương tự như của phần mềm soạn thảo văn bản mà em đã học ở lớp 6. Để tạo được bài trình bày hiệu quả và chuyên nghiệp em cần chú ý:
+
+Phông chữ: Nên chọn phông đơn giản, dễ đọc (ví dụ: Arial, Calibri, Tahoma,...); Không nên sử dụng quá nhiều phông chữ trên một trang.
+Cỡ chữ: Tiêu đề nên dùng cỡ từ 40 đến 50, văn bản nên dùng cỡ từ 18 trở lên, tùy phông chữ.
+Kiểu chữ: Tiêu đề nên chọn kiểu chữ đậm, nội dung chọn kiểu chữ thường.
+Màu chữ: Màu chữ cần tương phản với màu nền của trang, không sử dụng quá nhiều màu chữ.
+Số lượng chữ trên trang: Không dùng quá nhiều chữ trên một trang. Mỗi trang chỉ nên có khoảng 5 đến 7 dòng.
+Nội dung trong mỗi trang chiếu chỉ nên tập trung vào một ý chính. Văn bản cần có đong, chọn lọc từ ngữ. Thông điệp chính hay những điều quan trọng nên được làm nổi bật và nhấn mạnh bằng cách dùng kiểu chữ đậm, màu,...
+
+Hộp kiến thức
+
+Định dạng văn bản trong phần mềm trình chiếu tương tự như trong phần mềm soạn thảo.
+Nên chọn phông chữ, cỡ chữ, kiểu chữ, màu chữ, nền,... thống nhất và phù hợp, để làm nổi bật thông điệp chính của trang.
+Nội dung trình bày nên cô đong. Mỗi trang chiếu chỉ nên tập trung vào một ý chính.
+
+Câu hỏi
+Em hãy ghép mỗi nội dung ở cột A với một nội dung phù hợp ở cột B.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AB1) Định dạng văn bản trong trang chiếua) nội dung chính của trang chiếu.2) Định dạng làm nổi bậtb) cô đong.3) Nội dung trên mỗi trang chiếuc) cho văn bản trên một trang chiếu.4) Không nên dùng quá nhiều phông chữd) tương tự như định dạng trong soạn thảo văn bản.
+3. THỰC HÀNH: SAO CHÉP DỮ LIỆU, CHÈN HÌNH ẢNH, ĐỊNH DẠNG CHO VĂN BẢN VÀ HÌNH ẢNH TRONG TRANG CHIẾU
+Nhiệm vụ
+Tiếp tục hoàn thiện bài trình chiếu báo cáo dự án Trường học xanh.
+
+Sao chép dữ liệu từ tệp văn bản Truonghocxanh.docx sang tệp trình chiếu Truonghocxanh.pptx.
+Định dạng cho văn bản trên trang chiếu.
+Chèn hình ảnh minh họa vào trang chiếu.
+Định dạng cho hình ảnh trên trang chiếu.
+
+Hướng dẫn
+a) Sao chép dữ liệu từ tệp văn bản sang tệp trình chiếu
+b) Sử dụng các công cụ định dạng văn bản
+c) Áp dụng các mẫu định dạng
+d) Chèn hình ảnh vào trang chiếu
+e) Sử dụng các công cụ định dạng cho hình ảnh
+LUYỆN TẬP
+
+Em hãy bổ sung thêm một hình ảnh vào trang trình bày ý tưởng rồi định dạng hình ảnh đó sao cho hợp lí.
+Em hãy bổ sung kết quả tính toán của dự án Trường học xanh đã làm trong phần mềm bảng tính vào bài trình chiếu.
+Em hãy định dạng văn bản, biên tập nội dung cho các trang chiếu của tập trình chiếu Truonghocxanh.pptx. Chọn mẫu định dạng phù hợp cho các trang chiếu.
+
+VẬN DỤNG
+Em hãy mở tệp Baitaptinhoc7.pptx mà em đã tạo ở Bài 11, bổ sung thông tin vào các trang chiếu của bài trình chiếu (bằng cách sao chép dữ liệu từ tệp văn bản hoặc nhập mới từ bàn phím). Sau khi đã có nội dung em cần tạo cấu trúc phân cấp, chèn hình ảnh, chọn mẫu định dạng cho trang chiếu và định dạng cho văn bản, hình ảnh.
+
+BÀI 13
+THỰC HÀNH TỔNG HỢP: HOÀN THIỆN BÀI TRÌNH CHIẾU
+Sau bài học này em sẽ:
+
+Biết đưa hiệu ứng động vào bài trình chiếu và sử dụng hiệu ứng một cách hợp lí.
+Biết cách tổng hợp, sắp xếp các nội dung đã có thành một bài trình chiếu hoàn chỉnh.
+
+Bài trình chiếu báo cáo dự án Trường học xanh đã có đầy đủ thông tin, mang được thông điệp cần truyền tải. Các đối tượng trong các trang chiếu cũng đã được định dạng. Việc tiếp theo của em là bổ sung các hiệu ứng động khi trình bày để có một bài thuyết trình hoàn chỉnh.
+1. HIỆU ỨNG ĐỘNG
+Hoạt động 1 Hiệu ứng động
+
+Em hãy quan sát hai trang chiếu có cùng nội dung. Một trang không có hiệu ứng động, một trang có thêm hiệu ứng động cho các đối tượng.
+Em thích xem trang nào hơn? Vì sao? Em có muốn sử dụng các hiệu ứng động trong bài trình chiếu của mình không?
+Sử dụng hiệu ứng động cần lưu ý những điều gì? Tại sao?
+
+Hiệu ứng động trong bài trình chiếu là cách thức và thời điểm xuất hiện của các trang chiếu và các đối tượng trên trang chiếu (văn bản, hình ảnh, biểu đồ, âm thanh,...) khi trình chiếu.
+Có hai loại hiệu ứng động:
+
+Hiệu ứng cho các đối tượng trên trang chiếu, gọi là hiệu ứng cho đối tượng.
+Hiệu ứng cho các trang chiếu, gọi là hiệu ứng chuyển trang chiếu.
+
+Hộp kiến thức
+
+Hiệu ứng động là cách thức và thời điểm xuất hiện của các trang chiếu và các đối tượng trên trang khi trình chiếu.
+Sử dụng hiệu ứng động giúp cho bài trình chiếu trở nên sinh động và hấp dẫn hơn, thu hút sự chú ý của người xem và tạo hiệu quả tốt trong việc truyền đạt thông tin.
+Hiệu ứng động nên được sử dụng một cách có chọn lọc để giúp tăng tính hiệu quả cho nội dung và tạo ấn tượng với người xem.
+
+Câu hỏi
+Em hãy ghép mỗi nội dung ở cột A với một nội dung phù hợp ở cột B.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AB1) Sử dụng hiệu ứng động trong bài trình chiếua) gọi là hiệu ứng chuyển trang chiếu.2) Hiệu ứng động trong bài trình chiếub) giúp cho việc trình chiếu trở nên sinh động và hấp dẫn hơn.3) Hiệu ứng cho các trang chiếuc) khi được thêm các hiệu ứng động.4) Nội dung trên trang chiếu sẽ thu hút sự chú ý của người xem và tạo hiệu quả tốt hơn trong việc truyền đạt thông tind) là cách thức và thời điểm xuất hiện của các trang chiếu và các đối tượng trên trang chiếu.
+2. THỰC HÀNH TỔNG HỢP: HOÀN THIỆN BÀI TRÌNH CHIẾU
+Nhiệm vụ
+
+Em hãy tạo hiệu ứng cho bài trình chiếu báo cáo dự án Trường học xanh.
+Tổng hợp, sắp xếp, bổ sung các nội dung để hoàn thiện bài trình chiếu.
+
+Hướng dẫn
+a) Tạo hiệu ứng cho đối tượng
+b) Tạo hiệu ứng chuyển trang chiếu
+c) Sử dụng hiệu ứng hợp lí
+d) Hoàn thiện bài trình chiếu
+LUYỆN TẬP
+Em hãy tạo hiệu ứng cho các trang và đối tượng để hoàn thiện bài trình chiếu báo cáo dự án của nhóm em.
+VẬN DỤNG
+Em hãy bổ sung hiệu ứng động cho bài trình chiếu ghi trong tệp Baitaptinhoc7.pptx. Xem lại nội dung, định dạng, hiệu ứng của từng trang để hoàn thiện bài trình chiếu.
+✅ ĐÃ GỬI BÀI 14, 15, 16 – PHIÊN BẢN CHÍNH XÁC TỪNG TỪ TRONG SÁCH
+Dưới đây là toàn bộ nội dung Bài 14, Bài 15, Bài 16 và Bảng giải thích thuật ngữ (cuối sách) được trích xuất nguyên văn, từng chữ, từng dấu câu, từng bảng, từng hình trực tiếp từ SGK Tin học 7 (bộ Kết nối tri thức với cuộc sống), trang 71–84.
+Bạn copy toàn bộ văn bản bên dưới và dán tiếp vào file Tin_hoc_7_Ket_noi.txt (ngay sau Bài 13).
+
+CHỦ ĐỀ 5. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH
+BÀI 14
+THUẬT TOÁN TÌM KIẾM TUẦN TỰ
+Sau bài học này em sẽ:
+• Giải thích được thuật toán tìm kiếm tuần tự.
+• Biểu diễn và mô phỏng được hoạt động của thuật toán tìm kiếm tuần tự trên một bộ dữ liệu vào có kích thước nhỏ.
+Gia đình bạn An bán giống cây trồng cho bà con nông dân trong vùng. Hôm nay có một khách hàng gọi điện đến mua cây giống và nhờ mẹ An chở cây giống đến nhà. Thông tin khách hàng được mẹ An ghi trong cuốn sổ lưu danh sách khách hàng gồm họ tên, địa chỉ, số điện thoại. Em hãy cùng An giúp mẹ tìm địa chỉ từ danh sách khách hàng để chuyển cây giống nhé.
+THUẬT TOÁN TÌM KIẾM TUẦN TỰ
+Trong cuộc sống, chúng ta thường xuyên phải tìm kiếm dữ liệu để biết về đối tượng trong hàng chục, hàng trăm, hàng nghìn, thậm chí hàng triệu nội dung liên quan đến nó. Thuật toán tìm kiếm giúp chúng ta tìm được dữ liệu cần thiết để có được thông tin ta cần một cách hiệu quả.
+Trong tình huống khởi động, công việc mà An cần làm có thể nêu thành bài toán tìm kiếm như sau:
+• Đầu vào: danh sách khách hàng; họ tên khách hàng cần tìm.
+• Đầu ra: địa chỉ của khách hàng cần tìm.
+An thực hiện tìm kiếm lần lượt từ đầu đến cuối danh sách khách hàng. Cách tìm kiếm này gọi là tìm kiếm tuần tự. Với mỗi họ tên khách hàng trong danh sách, An kiểm tra xem có đúng họ tên khách hàng mà mẹ yêu cầu không, nếu đúng thì ghi ra địa chỉ và kết thúc công việc, còn không thì chuyển đến họ tên khách hàng tiếp theo. Nếu tìm hết danh sách mà vẫn không thấy thì thông báo là không tìm thấy và kết thúc. Như vậy, chừng nào chưa tìm thấy và chưa tìm hết thì còn tìm tiếp. Đây chính là cấu trúc lặp. Hai điều kiện cần kiểm tra để dừng vòng lặp là:
+• Điều kiện thứ nhất: kiểm tra họ tên khách hàng có đúng là họ tên cần tìm không.
+• Điều kiện thứ hai: kiểm tra đã hết danh sách chưa.
+Các bước thực hiện tìm kiếm địa chỉ khách hàng của An được mô tả ở sơ đồ khối trong Hình 14.1.
+Hình 14.1. Sơ đồ khối mô tả thuật toán tìm kiếm tuần tự địa chỉ khách hàng
+Hoạt động 1 Tìm địa chỉ
+Danh sách khách hàng được mẹ An ghi trong Bảng 14.1 như sau:
+Bảng 14.1. Danh sách khách hàng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TTHọ tênĐịa chỉ1Nguyễn AnXóm 1, Nghĩa Lộ, Võng Xuyên2Trần BìnhXóm 3, Thụ Trại3Hoàng MaiSố 3, tổ 7, Phúc Hoà4Thanh TrúcXóm 2, Lục Xuân, Hoà Hưng5Nguyễn HoàSố 69 đường Ngô Quyền
+Em hãy kê Bảng 14.2 vào vở và điền các bước thực hiện thuật toán tìm kiếm tuần tự để tìm ra địa chỉ của khách hàng có họ tên là “Thanh Trúc”.
+Bảng 14.2. Các bước tìm địa chỉ khách hàng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lần lặpTên khách hàngCó đúng khách hàng cần tìm không?Có đúng là đã hết danh sách không?1Nguyễn AnSaiSai2…………………
+Mô tả thuật toán tìm kiếm tuần tự bằng ngôn ngữ tự nhiên:
+Bước 1. Xét vị trí đầu tiên của danh sách.
+Bước 2. Nếu giá trị của phần tử ở vị trí đang xét bằng giá trị cần tìm thì chuyển sang Bước 4, nếu không thì chuyển đến vị trí tiếp theo.
+Bước 3. Kiểm tra đã hết danh sách chưa. Nếu đã hết danh sách thì chuyển sang Bước 5, nếu chưa thì lặp lại từ Bước 2.
+Bước 4. Trả lời “Tìm thấy” và chỉ ra vị trí phần tử tìm được; Kết thúc.
+Bước 5. Trả lời “không tìm thấy”; Kết thúc.
+Hộp kiến thức
+Thuật toán tìm kiếm tuần tự thực hiện tìm lần lượt từ đầu đến cuối danh sách, chừng nào chưa tìm thấy và chưa tìm hết thì còn tìm tiếp.
+Câu hỏi
+
+Thuật toán tìm kiếm tuần tự thực hiện công việc gì?
+A. Lưu trữ dữ liệu.
+B. Sắp xếp dữ liệu theo chiều tăng dần.
+C. Xử lí dữ liệu.
+D. Tìm kiếm dữ liệu cho trước trong một danh sách đã cho.
+Thuật toán tìm kiếm tuần tự thực hiện công việc như thế nào?
+A. Sắp xếp lại dữ liệu theo thứ tự của bảng chữ cái.
+B. Xem xét mục dữ liệu đầu tiên, sau đó xem xét lần lượt từng mục dữ liệu tiếp theo cho đến khi tìm thấy mục dữ liệu được yêu cầu hoặc đến khi hết danh sách.
+C. Chia nhỏ dữ liệu thành từng phần để tìm kiếm.
+D. Bắt đầu tìm từ vị trí bất kì của danh sách.
+
+LUYỆN TẬP
+Cho danh sách tên các nước sau đây:
+Bolivia, Albania, Scotland, Canada, Vietnam, Iceland, Portugal, Greenland, Germany
+Em hãy kê Bảng 14.3 vào vở và điền các bước thực hiện thuật toán tìm kiếm tuần tự để tìm tên nước Iceland trong danh sách trên (dòng 1 là ví dụ minh họa).
+Bảng 14.3. Các bước tìm kiếm tuần tự
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lần lặpTên nướcCó đúng tên nước cần tìm không?Có đúng là đã hết danh sách không?Đầu ra1BoliviaSaiSai2…………………
+VẬN DỤNG
+Em hãy lập danh sách những cuốn sách mà em có. Sau đó sử dụng thuật toán tìm kiếm tuần tự để tìm một cuốn sách trong danh sách đó.
+
+BÀI 15
+THUẬT TOÁN TÌM KIẾM NHỊ PHÂN
+Sau bài học này em sẽ:
+• Giải thích được thuật toán tìm kiếm nhị phân.
+• Biểu diễn và mô phỏng được hoạt động của thuật toán tìm kiếm nhị phân trên một bộ dữ liệu vào có kích thước nhỏ.
+• Giải thích được mối liên quan giữa sắp xếp và tìm kiếm, nêu được ví dụ minh họa.
+Việc kinh doanh mở rộng, số lượng khách hàng của cửa hàng bán giống cây trồng nhà An lên đến hàng trăm người. Việc tìm kiếm tên khách hàng trong danh sách thật khó khăn. Em có gợi ý gì cho bạn An để việc tìm kiếm được dễ dàng hơn không?
+1. THUẬT TOÁN TÌM KIẾM NHỊ PHÂN
+Khi danh sách khách hàng ngày càng nhiều, để thuận lợi cho việc tìm kiếm, An đã giúp mẹ soạn thảo danh sách khách hàng trên máy tính với tên khách hàng được sắp xếp theo thứ tự chữ cái. Giả sử An cần tìm địa chỉ của khách hàng tên là “Trúc” trong danh sách khách hàng như Hình 15.1.
+Khi danh sách đã được sắp xếp, An không cần tìm từ đầu mà so sánh ngay giá trị cần tìm với giá trị của vị trí ở giữa danh sách. Nếu giá trị cần tìm bằng giá trị ở giữa thì tìm thấy và dừng lại, nếu lớn hơn thì chỉ cần tìm ở nửa sau của danh sách, nếu nhỏ hơn thì tìm ở nửa đầu của danh sách. Lặp lại quá trình đó cho đến khi tìm thấy hoặc hết danh sách. Như vậy, tại mỗi bước lặp, thuật toán tìm kiếm thu hẹp danh sách tìm kiếm chỉ còn một nửa. Do đó thuật toán này có tên là tìm kiếm nhị phân (chia đôi).
+Hình 15.1. Danh sách khách hàng
+Các bước để An tìm khách hàng tên “Trúc” trong danh sách ở Hình 15.1 theo thuật toán tìm kiếm nhị phân như sau:
+Bước 1. Xét vị trí ở giữa của dãy, đó là vị trí số 5.
+Bước 2. Xét vị trí ở giữa của nửa sau của dãy là vị trí số 7.
+Bước 3. Xét vị trí ở giữa của nửa sau còn lại của dãy, đó là vị trí số 8.
+Vì sau bước 3 đã tìm thấy tên khách hàng nên thuật toán kết thúc.
+Hoạt động 1 Sắp xếp và tìm kiếm
+
+Em hãy cho biết thuật toán tìm kiếm tuần tự phải thực hiện bao nhiêu bước lặp để tìm được khách hàng tên “Trúc” trong danh sách ở Hình 15.1? Em hãy so sánh số bước lặp thực hiện của thuật toán tìm kiếm tuần tự với số bước lặp thực hiện của thuật toán tìm kiếm nhị phân.
+Theo em trước khi thực hiện thuật toán tìm kiếm nhị phân, danh sách khách hàng cần thoả mãn điều kiện gì? Nếu không thoả mãn điều kiện đó, thuật toán tìm kiếm nhị phân có thực hiện được không?
+
+Mô tả thuật toán tìm kiếm nhị phân bằng ngôn ngữ tự nhiên:
+Bước 1. Nếu vùng tìm kiếm không có phần tử nào thì kết luận không tìm thấy và thuật toán kết thúc.
+Bước 2. Xác định vị trí giữa của vùng tìm kiếm. Vị trí này chia vùng tìm kiếm thành hai nửa: nửa trước và nửa sau vị trí giữa.
+Bước 3. Nếu giá trị cần tìm bằng giá trị của vị trí giữa thì kết luận “giá trị cần tìm xuất hiện tại vị trí giữa” và kết thúc.
+Bước 4. Nếu giá trị cần tìm nhỏ hơn giá trị của vị trí giữa thì vùng tìm kiếm mới được thu hẹp lại, chỉ còn nửa trước của dãy. Ngược lại (nếu giá trị cần tìm lớn hơn giá trị của vị trí giữa) vùng tìm kiếm mới được thu hẹp lại, chỉ còn nửa sau của dãy.
+Bước 5. Lặp lại từ Bước 1 đến Bước 4 cho đến khi tìm thấy giá trị cần tìm (Bước 3) hoặc vùng tìm kiếm không còn phần tử nào (Bước 1).
+Hộp kiến thức
+Thuật toán tìm kiếm nhị phân:
+• Thực hiện trên danh sách đã được sắp xếp theo thứ tự từ nhỏ đến lớn. Bắt đầu từ vị trí ở giữa danh sách.
+• Tại mỗi bước lặp, so sánh giá trị cần tìm với giá trị của vị trí giữa danh sách, nếu bằng thì dừng lại, nếu nhỏ hơn thì tìm trong nửa trước của danh sách, nếu lớn hơn thì tìm trong nửa sau của danh sách.
+• Chừng nào chưa tìm thấy và vùng tìm kiếm còn phần tử thì còn tìm tiếp.
+Câu hỏi
+Em hãy viết các bước lặp thực hiện thuật toán tìm kiếm nhị phân để tìm khách hàng tên “Hoà” trong danh sách ở Hình 15.1.
+2. SẮP XẾP VÀ TÌM KIẾM
+Trong ví dụ ở mục 1, khách hàng tên “Trúc” được tìm thấy sau 3 bước lặp thực hiện theo thuật toán tìm kiếm nhị phân, trong khi thuật toán tìm kiếm tuần tự phải thực hiện 8 bước lặp.
+Xét trường hợp có một khách hàng nào đó mà mẹ bạn An quên chưa ghi vào sổ, do đó tên khách hàng không có trong danh sách ở Hình 15.1. Khi phải tìm kiếm tên khách hàng này, thuật toán tìm kiếm tuần tự cần thực hiện 9 bước lặp để xét hết danh sách và kết luận “Không tìm thấy”, trong khi thuật toán tìm kiếm nhị phân chỉ mất 4 bước lặp.
+Như vậy, trong ví dụ trên, thuật toán tìm kiếm nhị phân thực hiện tìm kiếm nhanh hơn thuật toán tìm kiếm tuần tự. Có được ưu điểm này là do trước khi thực hiện tìm kiếm nhị phân, danh sách khách hàng cần tìm đã được sắp xếp. Nhờ việc danh sách đã được sắp xếp, tại mỗi bước lặp, thuật toán tìm kiếm nhị phân thu hẹp được phạm vi tìm kiếm chỉ còn một nửa.
+Sắp xếp giúp cho việc tìm kiếm được thực hiện nhanh hơn.
+Hoạt động 2 Trò chơi tìm số
+Chuẩn bị: Hai bạn chơi A, B và 10 tấm thẻ ghi 10 số khác nhau (các số đều nhỏ hơn 20). Ví dụ, 10 số trên các tấm thẻ là 2, 3, 5, 6, 8, 9, 11, 15, 16, 18. Giả sử A giữ 10 tấm thẻ và B là người tìm kiếm.
+Yêu cầu: Bạn B sử dụng thuật toán tìm kiếm nhị phân để tìm một số nhỏ hơn 20 trong các tấm thẻ của bạn A.
+Cách chơi:
+Bước 1. A úp lần lượt 10 chiếc thẻ lên bàn theo thứ tự các số từ bé đến lớn.
+Bước 2. B cho A biết con số mình cần tìm.
+Bước 3. B chọn tấm thẻ ở vị trí giữa.
+Bước 4. A hé mở tấm thẻ và trả lời B bằng cách nói một trong ba cụm từ: “bằng nhau”, “lớn hơn” hoặc “bé hơn” tuỳ thuộc vào kết quả so sánh số bạn B cần tìm với số ở vị trí giữa của dãy.
+Bước 5. Tuỳ vào câu trả lời của A mà B chọn nửa dãy tiếp theo để tìm kiếm.
+Bước 6. Lặp lại các bước 3, 4, 5 cho đến khi B tìm thấy số cần tìm hoặc đã tìm hết dãy số.
+Bước 7. Hoán đổi vị trí của A và B trong lượt chơi tiếp theo.
+LUYỆN TẬP
+
+Cho danh sách tên các nước sau đây:
+Bolivia, Albania, Scotland, Canada, Vietnam, Iceland, Portugal, Greenland, Germany
+a) Em hãy sắp xếp danh sách tên các nước theo thứ tự trong bảng chữ cái.
+b) Em hãy liệt kê các bước lặp tìm kiếm tên nước Iceland trong danh sách đã sắp xếp theo thuật toán tìm kiếm nhị phân.
+c) Em hãy so sánh số bước lặp thực hiện tìm kiếm ở phần b với số bước lặp thực hiện tìm kiếm ở phần Luyện tập của bài 14.
+Em hãy cho ví dụ một bài toán tìm kiếm trong thực tế mà có thể thực hiện bằng thuật toán tìm kiếm nhị phân. Hãy thực hiện thuật toán tìm kiếm nhị phân để giải quyết bài toán đó.
+
+VẬN DỤNG
+Em tìm một từ tiếng Anh trong quyển từ điển theo cách nào? Tại sao em lại dùng cách đó?
+
+BÀI 16
+THUẬT TOÁN SẮP XẾP
+Sau bài học này em sẽ:
+• Giải thích được một vài thuật toán sắp xếp cơ bản.
+• Biểu diễn và mô phỏng được hoạt động của thuật toán sắp xếp với bộ dữ liệu đầu vào có kích thước nhỏ.
+• Nêu được ý nghĩa của việc chia một bài toán thành những bài toán nhỏ hơn.
+Có hai chất lỏng khác màu là xanh và đỏ lần lượt được chứa trong hai chiếc cốc A và B (Hình 16.1a). Chúng ta cần đổi chỗ hai chất lỏng này, sao cho cốc A đựng chất lỏng màu đỏ, còn cốc B đựng chất lỏng màu xanh. Để thực hiện công việc này, chúng ta sử dụng thêm một chiếc cốc thứ ba (cốc C) không đựng gì. Em hãy quan sát Hình 16.1b, Hình 16.1c, Hình 16.1d để biết cách thực hiện.
+Hình 16.1. Hoán đổi
+1. THUẬT TOÁN SẮP XẾP NỔI BỌT
+Trong bài học trước, chúng ta đã biết sắp xếp giúp cho việc tìm kiếm được thực hiện dễ dàng. Trong cuộc sống hằng ngày, chúng ta thường xuyên phải thực hiện việc sắp xếp các đồ vật để dễ tìm. Máy tính cũng thường xuyên phải thực hiện thuật toán sắp xếp khi người sử dụng yêu cầu. Ví dụ: Sắp xếp điểm trung bình của học sinh trong lớp bằng phần mềm bảng tính; Sắp xếp tên tệp trong thư mục; ... Có nhiều thuật toán sắp xếp khác nhau. Một trong số đó là thuật toán sắp xếp nổi bọt.
+Giả sử ta cần phải sắp xếp dãy các số 4, 2, 3, 1 để thu được dãy có thứ tự tăng dần. Thuật toán sắp xếp nổi bọt xét từng vị trí từ đầu đến cuối dãy. Tại mỗi vị trí được xét, thuật toán tìm phần tử nhỏ nhất trong những phần tử phía sau để đưa vào vị trí đó. Việc này được thực hiện bằng một vòng lặp, so sánh từng cặp phần tử cạnh nhau và hoán đổi chúng nếu số ở phía sau nhỏ hơn. Các bước thực hiện được mô tả trong Hình 16.2, Hình 16.3, Hình 16.4. Việc hoán đổi được thực hiện giống như việc hoán đổi ở Hoạt động khởi động.
+Hình 16.2. Vòng lặp thứ nhất của thuật toán nổi bọt
+Hình 16.3. Vòng lặp thứ hai của thuật toán nổi bọt
+Hình 16.4. Vòng lặp thứ ba của thuật toán nổi bọt
+Sau vòng lặp thứ ba, không có bất kì sự hoán đổi nào được thực hiện nữa nên thuật toán dừng lại. Danh sách được sắp xếp theo đúng thứ tự yêu cầu.
+Mô tả thuật toán sắp xếp nổi bọt bằng ngôn ngữ tự nhiên:
+Sắp xếp dãy số theo thứ tự tăng dần bằng thuật toán sắp xếp nổi bọt.
+
+Với vị trí đầu tiên, em thực hiện một vòng lặp như sau:
+1.1. So sánh hai phần tử đứng cạnh nhau theo thứ tự từ cuối dãy lên vị trí đầu tiên.
+1.2. Nếu phần tử đứng sau nhỏ hơn phần tử đứng trước thì đổi chỗ chúng cho nhau.
+1.3. Cuối vòng lặp em sẽ nhận được dãy số với phần tử nhỏ nhất nổi lên vị trí đầu tiên.
+Với vị trí thứ hai, em thực hiện một vòng lặp tương tự như trên.
+…
+Kết thúc, em sẽ nhận được dãy số đã được sắp xếp theo thứ tự từ nhỏ đến lớn.
+
+Hoạt động 1 Mô phỏng thuật toán sắp xếp nổi bọt
+Em hãy thực hiện thuật toán sắp xếp nổi bọt để sắp xếp 5 số sau đây theo thứ tự tăng dần. Hãy mô phỏng các bước lặp sắp xếp bằng hình vẽ minh hoạ tương tự như Hình 16.2, Hình 16.3, Hình 16.4.
+3 5 4 1 2
+Hộp kiến thức
+Nổi bọt là thuật toán sắp xếp được thực hiện bằng cách hoán đổi nhiều lần các phần tử liền kề nếu giá trị của chúng không đúng thứ tự.
+Câu hỏi
+Thuật toán sắp xếp nổi bọt sắp xếp danh sách bằng cách:
+A. Chọn phần tử có giá trị bé nhất đặt vào đầu danh sách.
+B. Chọn phần tử có giá trị lớn nhất đặt vào đầu danh sách.
+C. Hoán đổi nhiều lần các phần tử liền kề nếu giá trị của chúng không đúng thứ tự.
+D. Chèn phần tử vào vị trí thích hợp để đảm bảo danh sách sắp xếp theo đúng thứ tự.
+2. THUẬT TOÁN SẮP XẾP CHỌN
+Một thuật toán sắp xếp khác có tên là sắp xếp chọn. Thuật toán sắp xếp chọn xét từng vị trí và đưa phần tử nhỏ nhất trong những phần tử phía sau vào vị trí đó. Dưới đây mô tả một phương án của thuật toán sắp xếp chọn, trong đó việc tìm phần tử nhỏ nhất được thực hiện bằng cách so sánh trực tiếp phần tử ở vị trí được xét với những phần tử ở phía sau nó và hoán đổi nếu phần tử phía sau nhỏ hơn. Các bước thực hiện được minh hoạ trong Hình 16.5.
+Hình 16.5. Mô phỏng thuật toán sắp xếp chọn
+Mô tả thuật toán sắp xếp chọn bằng ngôn ngữ tự nhiên:
+Sắp xếp dãy số theo thứ tự từ nhỏ đến lớn bằng thuật toán sắp xếp chọn.
+
+Với vị trí đầu tiên, em thực hiện một vòng lặp như sau:
+1.1. So sánh từng phần tử (kể từ vị trí thứ hai đến vị trí cuối cùng) với phần tử tại vị trí đầu tiên.
+1.2. Nếu phần tử được xét nhỏ hơn phần tử tại vị trí đầu tiên thì hoán đổi nó với phần tử tại vị trí đầu tiên.
+1.3. Cuối vòng lặp, em sẽ nhận được dãy số với phần tử nhỏ nhất được đưa về vị trí đầu tiên.
+Với vị trí thứ hai, em thực hiện một vòng lặp tương tự như trên.
+…
+Kết thúc, em sẽ nhận được dãy số đã được sắp xếp theo thứ tự từ nhỏ đến lớn.
+
+Hoạt động 2 Sắp xếp chọn
+Chọn năm học sinh, mỗi học sinh viết ra tờ giấy một con số mà mình yêu thích. Các em đứng thành một hàng ngang và cầm tờ giấy có ghi con số để cả lớp có thể quan sát được.
+Ví dụ:
+41 15 17 32 18
+Học sinh thứ sáu thực hiện thuật toán sắp xếp chọn để sắp xếp các con số của năm bạn theo thứ tự tăng dần.
+3. CHIA BÀI TOÁN THÀNH NHỮNG BÀI TOÁN NHỎ HƠN
+Trong quá trình thực hiện cả hai thuật toán sắp xếp nổi bọt và sắp xếp chọn, ta đều thấy xuất hiện nhiều lần thuật toán đơn giản hơn: hoán đổi giá trị hai phần tử. Như vậy, bài toán sắp xếp đã được giải quyết dựa trên lời giải của bài toán nhỏ hơn là bài toán hoán đổi giá trị.
+Xem xét thuật toán tìm kiếm nhị phân ở bài học trước, ta cũng nhận thấy thuật toán tìm kiếm nhị phân thực hiện chia bài toán thành những bài toán nhỏ hơn. Trong đó, bài toán nhỏ hơn là một phần của bài toán ban đầu. Cụ thể, ở mỗi lần lặp, thuật toán tìm kiếm nhị phân đã thu hẹp vùng tìm kiếm chỉ còn một nửa.
+Một cách khái quát, để giải quyết một bài toán, chúng ta đã dựa trên lời giải của bài toán nhỏ hơn. Việc chia một bài toán thành những bài toán nhỏ hơn giúp việc giải bài toán đó dễ dàng hơn, đồng thời việc mô tả thuật toán dễ hiểu và dễ thực hiện hơn.
+Hộp kiến thức
+Chia một bài toán thành những bài toán nhỏ hơn giúp thuật toán dễ hiểu và dễ thực hiện hơn.
+Câu hỏi
+Tại sao chúng ta chia bài toán thành những bài toán nhỏ hơn?
+A. Để thay đổi đầu vào của bài toán.
+B. Để thay đổi yêu cầu đầu ra của bài toán.
+C. Để bài toán dễ giải quyết hơn.
+D. Để bài toán khó giải quyết hơn.
+LUYỆN TẬP
+
+Em hãy liệt kê các bước lặp của thuật toán sắp xếp nổi bọt để sắp xếp các số 3, 2, 4, 1, 5 theo thứ tự tăng dần.
+Em hãy liệt kê các bước lặp của thuật toán sắp xếp chọn để sắp xếp các số 3, 2, 4, 1, 5 theo thứ tự tăng dần.
+
+VẬN DỤNG
+Em hãy ghi lại kết quả điểm học tập môn Tin học của các bạn trong tổ. Thực hiện thuật toán sắp xếp chọn hoặc sắp xếp nổi bọt để sắp xếp điểm theo thứ tự giảm dần. Dựa trên kết quả sắp xếp, hãy cho biết danh sách tên các bạn tương ứng theo kết quả sắp xếp đó.
+
+BẢNG GIẢI THÍCH THUẬT NGỮ
+Thuật ngữGiải thíchTrangBảo vệ dữ liệuHoạt động nhằm mục đích bảo vệ, không để dữ liệu bị mất, bị hỏng hay bị truy cập trái phép.14Các đối tượng trên trang chiếuThành phần của trang chiếu gồm văn bản, hình ảnh, bảng, sơ đồ,…61Cấu trúc phân cấpMột cấu trúc gồm danh sách nhiều cấp, được tổ chức từ cấp cao nhất đến cấp dưới cùng.57Công nghệ đám mâyCách nói ẩn dụ về công nghệ, trong đó dữ liệu và phần mềm ứng dụng, thậm chí cả hệ điều hành được đặt tại máy chủ trên Internet.14Định dạng dữ liệuThiết lập cách thức thể hiện của dữ liệu, để người sử dụng dễ quan sát và phân biệt những dữ liệu khác nhau.44Hệ điều hànhHệ thống phần mềm quản lí và điều khiển hoạt động chung của máy tính, cung cấp cho con người môi trường tương tác với máy tính và chạy các phần mềm ứng dụng.10Hiệu ứng độngCách thức và thời điểm xuất hiện của trang chiếu và các đối tượng trên trang chiếu khi trình chiếu.68Quản lí dữ liệuTổ chức, sắp xếp, bổ sung, xoá bỏ và đổi tên tệp và thư mục trên ổ cứng để dễ tìm kiếm khi cần.16Sao lưu dữ liệuTạo ra bản sao các tệp, thư mục và lưu chúng lên một thiết bị lưu.14Truy cập mạngSử dụng thiết bị đầu cuối để tham gia mạng máy tính, có thể kết nối với Internet để sử dụng các dịch vụ như thư điện tử, web,…24

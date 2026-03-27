@@ -1,0 +1,537 @@
+TIN HỌC 6
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HÀ ĐĂNG CAO TÙNG (Chủ biên)
+ĐINH THỊ HẠNH MAI – HOÀNG THỊ MAI
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+HƯỚNG DẪN SỬ DỤNG
+Sách giáo khoa Tin học 6 gồm 6 chủ đề với 17 bài học. Các bài học được xây dựng với cấu trúc thống nhất. Sau đây là những hướng dẫn để em sử dụng sách hiệu quả hơn.
+
+Mục tiêu: Giúp em biết sẽ đạt được gì sau bài học.
+Khởi động: Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học.
+Nội dung bài học:
+Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, học sinh chủ động hơn trong quá trình nhận thức.
+Kiến thức mới: Cung cấp cho học sinh nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học.
+Hộp kiến thức: Ghi ngắn gọn hoặc tóm tắt kiến thức mới. Em có thể dùng hộp kiến thức, cùng với bảng giải thích thuật ngữ (ở cuối sách), để ôn tập hoặc tra cứu thuật ngữ mới.
+Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa.
+Luyện tập: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học.
+Vận dụng: Gồm những câu hỏi, bài tập yêu cầu em kết hợp nội dung bài học với thực tiễn cuộc sống. Qua đó, em sẽ phát triển năng lực tư duy và hành động của mình.
+Trò chơi: Không phải là nội dung bắt buộc. Nếu đủ thời gian, thầy cô giáo sẽ tổ chức trò chơi để các em tham gia.
+
+
+Sách sử dụng một số phần mềm như Google Chrome, MindMaple Lite, Microsoft Word,... để minh hoạ và hướng dẫn thực hành.
+Trong các đoạn hội thoại, có ba nhân vật là ba bạn học sinh lớp 6: An, Minh, Khoa. Mỗi bạn có một sở trường khác nhau, đại diện cho một trong ba mạch kiến thức của môn Tin học là Học vấn số hoá phổ thông, Công nghệ thông tin và truyền thông, Khoa học máy tính.
+An
+Minh
+Khoa
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau!
+LỜI NÓI ĐẦU
+Các em học sinh yêu quý!
+Sách giáo khoa Tin học 6 được biên soạn theo định hướng phát triển phẩm chất và năng lực của học sinh, từ cách gắn kết kiến thức với thực tiễn đến cách tổ chức hoạt động học của các em.
+Cuốn sách này sẽ giúp các em hiểu về thông tin và cách sử dụng thông tin phục vụ cuộc sống; hướng dẫn em biết cách tìm kiếm, tiếp cận và chia sẻ thông tin. Các em cũng sẽ biết cách dùng một số ứng dụng trên máy tính để thu thập, trình bày và biến đổi thông tin; điều khiển máy tính bằng những chương trình máy tính đơn giản để giải quyết một số vấn đề trong cuộc sống.
+Sách Tin học 6 hướng các em tới việc rèn luyện kĩ năng sử dụng máy tính một cách an toàn, hiệu quả và có trách nhiệm, thể hiện ở thái độ đạo đức và sự tôn trọng pháp luật trong hoạt động thông tin. Điều đó sẽ góp phần làm giàu và phong phú thêm trí tưởng tượng của các em cũng như vốn kiến thức của bản thân.
+Sách được trình bày hấp dẫn, dễ hiểu, gần gũi với các em nhưng cũng ẩn giấu nhiều điều thú vị để các em có thêm cơ hội tìm hiểu, khám phá,... dẫn dắt các em từ việc biết cách sử dụng công cụ Tin học đến yêu thích môn học này.
+Mong các em học tập chăm chỉ và thành công.
+MỤC LỤC
+Chủ đề 1. Máy tính và cộng đồng ................................................ 5
+Bài 1. Thông tin và dữ liệu ...................................................... 5
+Bài 2. Xử lí thông tin .............................................................. 8
+Bài 3. Thông tin trong máy tính ............................................... 12
+Chủ đề 2. Mạng máy tính và Internet ......................................... 16
+Bài 4. Mạng máy tính ............................................................. 16
+Bài 5. Internet ...................................................................... 20
+Chủ đề 3. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin ............. 23
+Bài 6. Mạng thông tin toàn cầu ............................................... 23
+Bài 7. Tìm kiếm thông tin trên Internet ..................................... 28
+Bài 8. Thư điện tử ................................................................. 32
+Chủ đề 4. Đạo đức, pháp luật và văn hoá trong môi trường số ...... 37
+Bài 9. An toàn thông tin trên Internet ....................................... 37
+Chủ đề 5. Ứng dụng tin học ..................................................... 42
+Bài 10. Sơ đồ tư duy ............................................................. 42
+Bài 11. Định dạng văn bản ...................................................... 48
+Bài 12. Trình bày thông tin ở dạng bảng .................................... 53
+Bài 13. Thực hành: Tìm kiếm và thay thế .................................... 58
+Bài 14. Thực hành tổng hợp: Hoàn thiện sổ lưu niệm .................... 61
+Chủ đề 6. Giải quyết vấn đề với sự trợ giúp của máy tính ............. 63
+Bài 15. Thuật toán ................................................................. 63
+Bài 16. Các cấu trúc điều khiển ................................................ 67
+Bài 17. Chương trình máy tính .................................................. 71
+Bảng giải thích thuật ngữ ......................................................... 75
+CHỦ ĐỀ 1. MÁY TÍNH VÀ CỘNG ĐỒNG
+BÀI 1
+THÔNG TIN VÀ DỮ LIỆU
+Sau bài học này em sẽ:
+• Nhận biết được sự khác nhau giữa thông tin và dữ liệu.
+• Phân biệt được thông tin và vật mang tin.
+• Nêu được ví dụ minh họa mối quan hệ giữa thông tin và dữ liệu.
+• Nêu được ví dụ minh họa tầm quan trọng của thông tin.
+Trong cuộc sống hằng ngày, em nhìn thấy những con số, những dòng chữ, những hình ảnh trong sách; em nghe thấy tiếng chim hót, tiếng xe cộ đi lại trên đường. Tất cả những thứ đó được các giác quan của em thu nhận và não xử lí để trở thành những hiểu biết của em về thế giới xung quanh.
+1. THÔNG TIN VÀ DỮ LIỆU
+Hoạt động 1 Thấy gì? Biết gì?
+Em hãy đọc đoạn văn sau và cho biết: Bạn Minh đã thấy những gì và biết được điều gì để quyết định nhanh chóng qua đường?
+“Trên đường từ nhà đến trường, Minh phải đi qua nhiều ngã tư đông đúc. Để đi qua các ngã tư này, Minh phải chú ý quan sát các đèn giao thông. Khi thấy đèn có màu xanh theo hướng di chuyển của mình và các xe bên chiếu đèn đỏ đã dừng lại, Minh biết có thể qua đường an toàn và quyết định nhanh chóng qua đường trước khi đèn chuyển sang màu đỏ.”
+Trong đoạn văn ở Hoạt động 1, bạn Minh đã thấy đèn giao thông đổi sang màu xanh và các xe chiếu đèn đỏ đã dừng lại. Nhờ đó Minh biết có thể qua đường an toàn. Những gì Minh thấy là dữ liệu, điều Minh biết là thông tin. Đèn giao thông khi đó được gọi là vật mang tin.
+Ta xét một ví dụ khác. Bạn An xem mục dự báo thời tiết trên ti vi. An thấy các con số, văn bản, hình ảnh và âm thanh. Đó là dữ liệu. An biết rằng hôm nay trời nắng. Điều An biết là thông tin. Những hiểu biết của chúng ta đều có được từ sự lắng nghe, quan sát và trải nghiệm.
+Mối quan hệ giữa thông tin và dữ liệu
+Vì dữ liệu đem lại thông tin nên đôi khi “dữ liệu” cũng được thay bằng “thông tin”. Chẳng hạn, vật chứa dữ liệu còn được gọi là vật mang tin. Một ví dụ khác, máy tính chỉ xử lí dữ liệu nhưng đôi khi người ta cũng nói là máy tính xử lí thông tin. Tuy vậy, thông tin và dữ liệu vẫn có những điểm khác nhau.
+Với bạn An, khi đọc dữ liệu trong bản tin dự báo thời tiết sẽ hiểu được thông tin “hôm nay trời nắng”. Tuy nhiên, với một em bé 5 tuổi chưa đọc được bản tin dự báo thời tiết thì dữ liệu thời tiết không có ý nghĩa. Khi đó, với em bé, dữ liệu đã cho không đem lại thông tin. Vì vậy, sự hiểu biết mà thông tin đem lại luôn phụ thuộc vào người tiếp nhận thông tin đó.
+Một trung tâm dịch vụ muốn truyền đạt thông tin đến khách du lịch: “Giá vé đi ra Đảo Cò là 40 000 đồng và hành trình mất 35 phút bằng thuyền máy”, họ đã viết lên bảng “Đảo Cò, thuyền máy, 40 000đ, 35 phút”. Những số và chữ trên bảng là dữ liệu. Tấm bảng là vật mang tin.
+Hộp kiến thức
+• Thông tin là những gì đem lại hiểu biết cho con người về thế giới xung quanh và về chính bản thân mình.
+• Thông tin được ghi lên vật mang tin trở thành dữ liệu. Dữ liệu được thể hiện dưới dạng những con số, văn bản, hình ảnh và âm thanh.
+• Vật mang tin là phương tiện được dùng để lưu trữ và truyền tải thông tin, ví dụ như giấy viết, đĩa CD, thẻ nhớ,...
+Câu hỏi
+
+Em hãy ghép mỗi mục ở cột A với một mục phù hợp ở cột B.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AB1) Thông tina) Các số, văn bản, hình ảnh, âm thanh,...2) Dữ liệub) Những gì đem lại hiểu biết cho con người về thế giới xung quanh và chính bản thân mình.3) Vật mang tinc) Vật chứa dữ liệu
+
+Mỗi dòng sau đây là thông tin hay dữ liệu?
+• 16:00
+• 0123456789
+Hãy gọi cho tôi lúc 16 giờ theo số điện thoại 0123456789.
+
+2. TẦM QUAN TRỌNG CỦA THÔNG TIN
+Bài học lịch sử về Chiến dịch Điện Biên Phủ có nhiều thông tin về địa điểm, thời gian, diễn biến trận đánh,... qua đó em biết được tinh thần dũng cảm của quân và dân ta, biết được truyền thống chiến đấu chống giặc ngoại xâm của dân tộc ta. Vì vậy, thông tin đem lại hiểu biết cho con người.
+Chuẩn bị đi sang nhà bạn Minh để học nhóm, An nghe mẹ nói: “Trời sắp mưa đấy nhé”. Thông tin đó làm cho An quay vào nhà cầm theo chiếc ô. Như vậy, ta thấy thông tin có khả năng làm thay đổi hành động của con người.
+Hộp kiến thức
+• Thông tin đem lại hiểu biết cho con người. Mọi hoạt động của con người đều cần đến thông tin.
+• Thông tin đúng giúp con người đưa ra những lựa chọn tốt giúp cho hoạt động của con người đạt hiệu quả.
+Hoạt động 2 Hỏi để có thông tin
+Lớp em sắp tổ chức một buổi dã ngoại. Hãy thảo luận nhóm để đưa ra các câu hỏi giúp tìm thông tin để chuẩn bị cho buổi dã ngoại đó.
+LUYỆN TẬP
+Bảng 1.1 cho biết lượng mưa trung bình hàng tháng (theo đơn vị mm) của hai năm 2017, 2018 ở một số địa phương (theo Tổng cục Thống kê).
+Bảng 1.1. Lượng mưa trung bình hàng tháng
+Tháng123456789101112Hà Nội43,811,273,239,0157,2200,7438,6298,3248,3177,123,865,9Huế201,0126,634,1119,2127,9134,2258,778,2216,6325,9484,5560,5Đà Nẵng78,936,124,589,540,992,2216,3117,1168,8308,5518,6163,5Vũng Tàu58,50,41,222,4166,8287,7203,5167,6267,9297,1143,024,9
+Em hãy xem Bảng 1.1 và trả lời các câu hỏi sau:
+a) Các con số trong bảng là thông tin hay dữ liệu?
+b) Phát biểu “Tháng 6, Đà Nẵng ít mưa nhất so với các thành phố Hà Nội, Huế, Vũng Tàu” là thông tin hay dữ liệu?
+c) Trả lời câu hỏi: “Huế ít mưa nhất vào tháng nào trong năm?”. Câu trả lời là thông tin hay dữ liệu?
+d) Câu trả lời cho câu hỏi c) có ảnh hưởng đến việc lựa chọn thời gian và địa điểm du lịch không?
+VẬN DỤNG
+
+Em hãy nêu ví dụ cho thấy thông tin giúp em:
+a) Có những lựa chọn trang phục phù hợp hơn.
+b) Đảm bảo an toàn khi tham gia giao thông.
+Em hãy nêu ví dụ về vật mang tin giúp ích cho việc học tập của em
+
+CHỦ ĐỀ 2. MẠNG MÁY TÍNH VÀ INTERNET
+BÀI 4
+MẠNG MÁY TÍNH
+Sau bài học này em sẽ:
+• Nêu được mạng máy tính là gì và lợi ích của nó trong cuộc sống.
+• Kể được tên những thành phần chính của một mạng máy tính.
+• Nêu được ví dụ cụ thể về trường hợp mạng không dây tiện dụng hơn mạng có dây.
+An: Tại sao những nơi có đường đi qua thường trú phú hơn những nơi khác?
+Khoa: Đường làm nên sự kì diệu. Đường nối các ngôi nhà, làng mạc, thành phố,... với nhau, làm xa trở nên gần. Đường đưa mọi người đến với nhau, làm cho thế giới trở nên thân thiện hơn.
+An: Như vậy, đường không chỉ là nơi đi lại mà còn là sự kết nối, phải không?
+Khoa: Các con đường đan với nhau thành mạng lưới. Nhiều mạng nhỏ được nối với nhau thành mạng lớn hơn,... Cứ như thế, mạng giao thông mở rộng ra khắp nơi trên Trái Đất. Hơn thế nữa, còn có cả những đường không nhìn thấy như đường của máy bay trên không trung và đường của tàu trên sông, biển.
+An: Thế thì làm sao để giao thông được thông suốt?
+Khoa: Nơi giao nhau của những con đường có biển báo, có đèn giao thông, thậm chí phải có cảnh sát giao thông điều khiển xe trên các tuyến đường.
+An: Tớ hiểu rồi! Mỗi người một cách đi nhưng nếu có kì luật thì ai cũng sẽ đến được đích của mình. Giao thông có kì luật thật là tuyệt vời!
+Hoạt động 1 Mạng lưới
+
+Em hãy kể ra một số mạng lưới, giống như mạng giao thông đường bộ.
+Những gì được vận chuyển trên mạng lưới đó?
+Em hãy chọn các phương án trả lời đúng.
+Điểm chung của những mạng lưới đó là gì?
+A. Có nhiều thành viên.
+B. Chia sẻ tài nguyên.
+C. Kết nối các thành viên.
+D. Có nhiều đường cắt nhau.
+
+1. MẠNG MÁY TÍNH LÀ GÌ?
+Không chỉ đường bộ mà nhiều loại đường khác cũng được nối thành mạng lưới như mạng đường sắt, mạng đường thuỷ, mạng ống nước, mạng tải điện, mạng điện thoại,... Đặc điểm chung của các mạng lưới là:
+• Kết nối: Nếu một đoạn đường bị sạt lở thì giao thông sẽ bị ngưng trệ. Điều đó có nghĩa là mạng sẽ chỉ hoạt động nếu được kết nối.
+• Chia sẻ: Đường giúp em đi đến trường, đường cũng giúp các bạn khác đến trường. Điều đó có nghĩa là mạng chia sẻ tài nguyên cho nhiều người.
+Hoạt động 2 Mạng máy tính
+
+Mạng máy tính chia sẻ những gì?
+Em hãy nêu một số ví dụ về lợi ích của mạng máy tính.
+
+Giống như mạng giao thông, các máy tính cũng được kết nối với nhau để tạo thành mạng máy tính. Chỉ cần hai máy tính kết nối với nhau là có một mạng máy tính.
+Người sử dụng mạng có thể trao đổi dữ liệu với nhau. Chẳng hạn, bạn Minh có thể gửi một tập ảnh từ máy tính của mình đến máy tính của bạn An nếu hai máy tính đó được kết nối với nhau. Đó là trao đổi dữ liệu.
+Các thiết bị trên mạng có thể được chia sẻ. Chẳng hạn, chỉ có một máy in nhưng nếu có kết nối mạng thì ta có thể in từ một máy tính bất kì trong mạng. Điều đó có nghĩa là máy in đó được chia sẻ và chúng ta có thể dùng chung.
+MẠNG MÁY TÍNH
+• Hai hay nhiều máy tính và các thiết bị được kết nối để truyền thông tin cho nhau tạo thành một mạng máy tính.
+• Lợi ích của mạng máy tính: Người sử dụng có thể liên lạc với nhau để trao đổi thông tin, chia sẻ dữ liệu và dùng chung các thiết bị trên mạng.
+2. CÁC THÀNH PHẦN CỦA MẠNG MÁY TÍNH
+Hoạt động 3 Thành phần mạng
+
+Quan sát Hình 2.1 và cho biết những thiết bị nào đang được nối vào mạng?
+Các thiết bị đó được nối với nhau như thế nào? Qua các thiết bị trung gian nào?
+
+Hình 2.1. Các thiết bị được nối vào mạng
+Một mạng máy tính thường gồm những thành phần chủ yếu sau:
+• Các thiết bị đầu cuối giống như điểm xuất phát hoặc đích đến trong mạng giao thông. Các thiết bị đầu cuối có thể là máy tính để bàn, máy tính xách tay, điện thoại thông minh, máy ảnh, máy in, máy quét,...
+• Các thiết bị kết nối được dùng để nối các thiết bị đầu cuối lại với nhau giống như con đường, nhà ga, sân bay,... Các thiết bị này bao gồm đường truyền (có dây và không dây), bộ chia (Hub), bộ chuyển mạch (Switch), bộ định tuyến (Router), bộ định tuyến không dây (Wireless Router), điểm truy cập không dây (Access Point),...
+• Phần mềm mạng có vai trò như hệ thống duy trì luật lệ giao thông để các phương tiện có thể đi đến nơi cần đến. Phần mềm mạng gồm ứng dụng truyền thông trên các thiết bị đầu cuối và phần mềm điều khiển quá trình truyền dữ liệu trên các thiết bị kết nối.
+Máy tính được nối tới trong mạng máy tính bao gồm cả những thiết bị có thể xử lí thông tin như máy tính bảng, điện thoại thông minh, máy ảnh,...
+CÁC THÀNH PHẦN CHÍNH CỦA MẠNG MÁY TÍNH
+Mạng máy tính gồm
+• Các thiết bị đầu cuối (máy tính, điện thoại, máy in, máy ảnh,...).
+• Các thiết bị kết nối (đường truyền dữ liệu, bộ chia, bộ chuyển mạch, bộ định tuyến,...).
+• Phần mềm mạng (ứng dụng truyền thông và phần mềm điều khiển quá trình truyền dữ liệu).
+Đường truyền dữ liệu giống như đường vận chuyển trong mạng giao thông, có đường nhìn thấy và không nhìn thấy. Đường truyền dữ liệu nhìn thấy sử dụng dây dẫn mạng. Đường truyền dữ liệu không nhìn thấy sử dụng sóng vô tuyến như wifi, bluetooth,...
+Kết nối không dây thường được sử dụng trong các thiết bị di động như máy tính xách tay, điện thoại thông minh, tai nghe không dây,... Kết nối không dây giúp cho việc kết nối mạng trở nên thuận tiện hơn. Các thiết bị trong mạng có thể linh hoạt thay đổi vị trí mà vẫn duy trì kết nối mạng. Việc lắp đặt và mở rộng mạng không dây thuận lợi hơn vì không cần phải đi dây và khoan đục tường. Việc không sử dụng dây trong kết nối mạng còn tránh được những sự cố như đứt dây do mưa bão hay đơn giản hơn là chuột cắn làm đường dây bị hư hại.
+Ngày nay, mạng không dây (có phí hoặc miễn phí) được cung cấp ở rất nhiều nơi, đặc biệt là những nơi công cộng như sân bay, nhà ga, trung tâm thương mại, trường học,... Người sử dụng có thể truy cập mạng một cách nhanh chóng và dễ dàng.
+Câu hỏi
+
+Em hãy quan sát Hình 2.1 và cho biết:
+a) Tên các thiết bị đầu cuối.
+b) Tên các thiết bị kết nối.
+Em hãy kể tên một số cách kết nối không dây mà em biết.
+Em hãy nêu ví dụ cho thấy kết nối không dây thuận tiện hơn kết nối có dây.
+
+LUYỆN TẬP
+
+Em hãy chọn các phương án đúng.
+Máy tính kết nối với nhau để:
+A. Chia sẻ các thiết bị.
+B. Tiết kiệm điện.
+C. Trao đổi dữ liệu.
+D. Thuận lợi cho việc sửa chữa.
+Em hãy chọn các phương án đúng.
+Thiết bị có kết nối không dây ở Hình 2.2 là:
+A. Máy tính để bàn.
+B. Máy tính xách tay.
+C. Điện thoại di động.
+D. Bộ định tuyến.
+
+VẬN DỤNG
+
+Phòng thư viện của trường có 5 máy tính cần kết nối thành một mạng. Có thể có nhiều cách kết nối, ví dụ như Hình 2.3.
+Em hãy vẽ hai cách khác để kết nối chúng thành một mạng.
+Nhà bạn An có điện thoại di động của bố, của mẹ và một máy tính xách tay đang cùng truy cập mạng Internet. Theo em, các thiết bị đó có đang được kết nối thành một mạng máy tính không? Nếu có, em hãy chỉ ra các thiết bị đầu cuối và thiết bị kết nối.
+
+
+BÀI 5
+INTERNET
+Sau bài học này em sẽ:
+• Biết Internet là gì.
+• Nêu được một số đặc điểm chính của Internet.
+• Nêu được một số lợi ích chính của Internet.
+An: Mẹ tớ có việc gấp cần đi công tác ngay nhưng bận quá chưa đến phòng vé máy bay được.
+Minh: Quá đơn giản! Mẹ bạn có thể đặt vé trên Internet mà không cần phải đến phòng vé.
+An: Vậy sao?
+Minh: Các hãng hàng không đăng tin về các chuyến bay, giờ bay, giá vé trên Internet. Nếu có kết nối Internet, mẹ bạn có thể tìm thông tin, đặt vé và thanh toán.
+An: Thật tuyệt! Tớ sẽ nói với mẹ ngay.
+1. INTERNET
+Hoạt động 1 Internet
+
+Em hiểu Internet là gì?
+Người sử dụng có thể làm được những gì khi truy cập Internet?
+
+• Các tổ chức và cá nhân trên khắp thế giới có thể cung cấp và tiếp nhận thông tin bằng cách kết nối máy tính của họ thành một mạng. Internet là một mạng toàn cầu được tạo ra để liên kết những mạng máy tính như thế.
+• Muốn truy cập Internet thì máy tính của người sử dụng cần có kết nối với Internet. Người sử dụng cần đăng kí với nhà cung cấp dịch vụ Internet (Internet Service Provider - ISP) để được hỗ trợ cài đặt và cấp quyền truy cập Internet.
+• Người sử dụng truy cập Internet để tìm kiếm, chia sẻ và trao đổi thông tin.
+• Các dịch vụ thông tin phổ biến trên Internet gồm: mạng thông tin toàn cầu (World Wide Web - WWW), tìm kiếm, thư điện tử, điện thoại, phát thanh, truyền hình, mạng xã hội, lưu trữ, trao đổi dữ liệu, kinh doanh,...
+Internet là mạng của các mạng máy tính.
+• Internet là mạng liên kết các mạng máy tính trên khắp thế giới.
+• Máy tính có thể được kết nối với Internet thông qua một nhà cung cấp dịch vụ Internet.
+• Người sử dụng truy cập Internet để tìm kiếm, chia sẻ, lưu trữ và trao đổi thông tin.
+• Có nhiều dịch vụ thông tin khác nhau trên Internet: WWW, tìm kiếm, thư điện tử,...
+2. ĐẶC ĐIỂM CỦA INTERNET
+Hoạt động 2 Đặc điểm của Internet
+Theo em Internet có những đặc điểm gì?
+Internet có các đặc điểm chính sau:
+• Tính toàn cầu: Năm 2020 có khoảng hơn một phần ba dân số trên thế giới ở hầu hết các quốc gia đang sử dụng Internet.
+• Tính tương tác: Người sử dụng có thể tức thời nhận và gửi thông tin, khác với cách truyền thông một chiều của sách báo, phát thanh, truyền hình truyền thống.
+• Tính dễ tiếp cận: Người sử dụng có thể tìm kiếm, lưu trữ, trao đổi và chia sẻ thông tin một cách thuận lợi, nhanh chóng ở mọi lúc, mọi nơi trên thế giới.
+• Tính không chủ sở hữu: Internet là một mạng máy tính công cộng toàn cầu, không thuộc sở hữu hay do bất kì một tổ chức hoặc cá nhân nào điều hành.
+Ngoài những đặc điểm chính kể trên, Internet còn có một số đặc điểm khác như:
+• Tính cập nhật: Thông tin được cập nhật thường xuyên.
+• Tính lưu trữ: Thông tin được lưu trữ thường trực, có thể sao chép nhanh và dễ dàng.
+• Tính đa dạng: Truyền tải thông tin dạng văn bản, âm thanh, hình ảnh, video,...
+• Tính ẩn danh: Người sử dụng truy cập Internet có thể dùng bí danh thay cho tên thật.
+Đặc điểm chính của Internet: tính toàn cầu, tính tương tác, tính dễ tiếp cận, tính không chủ sở hữu.
+Câu hỏi
+
+Em hãy chọn các phương án trả lời đúng.
+Internet có những đặc điểm chính nào dưới đây:
+A. Tính toàn cầu.
+B. Tính tương tác.
+C. Tính lưu trữ.
+D. Tính dễ tiếp cận.
+E. Tính đa dạng.
+F. Tính không chủ sở hữu.
+
+3. MỘT SỐ LỢI ÍCH CỦA INTERNET
+Hoạt động 3 Lợi ích của Internet
+
+Em thường truy cập Internet để làm những việc gì?
+Internet có những lợi ích gì?
+
+Ngày nay, Internet có vai trò rất quan trọng trong mọi hoạt động của xã hội, từ các lĩnh vực sản xuất cho đến khoa học kĩ thuật, y tế, giáo dục, văn hoá, giải trí.... Có được vai trò quan trọng đó vì Internet cung cấp nhiều dịch vụ thông tin như: WWW, tìm kiếm, thư điện tử, điện thoại, phát thanh, truyền hình, mạng xã hội, lưu trữ, trao đổi dữ liệu, kinh doanh,... Ngoài ra, Internet còn cung cấp môi trường làm việc từ xa như: viết sách báo, học tập, dạy học, hội họp,... Nhờ vậy, Internet góp phần thúc đẩy xã hội phát triển.
+LỢI ÍCH CỦA INTERNET
+• Trao đổi thông tin nhanh chóng, hiệu quả.
+• Học tập và làm việc trực tuyến.
+• Cung cấp nguồn tài liệu phong phú.
+• Cung cấp các tiện ích phục vụ đời sống.
+• Là phương tiện vui chơi, giải trí.
+Câu hỏi
+Em hãy chọn những việc mà em có thể làm với Internet.
+a) Học ngoại ngữ trực tuyến với người nước ngoài.
+b) Nghe nhạc, xem phim trực tuyến.
+c) Chơi đá bóng để nâng cao sức khỏe.
+d) Tìm kiếm tài liệu học tập.
+e) Gửi thư điện tử.
+LUYỆN TẬP
+
+Em hãy chọn phương án đúng.
+Internet là mạng:
+A. Kết nối hai máy tính với nhau.
+B. Kết nối các máy tính trong một nước.
+C. Kết nối nhiều mạng máy tính trên phạm vi toàn cầu.
+D. Kết nối các máy tính trong một thành phố.
+Để máy tính kết nối được Internet ta cần làm gì?
+
+VẬN DỤNG
+
+Em hãy lấy ví dụ cho thấy Internet mang lại lợi ích cho việc học tập và giải trí.
+Em hãy giải thích tại sao Internet lại được sử dụng rộng rãi và ngày càng phát triển.
+BÀI 6
+MẠNG THÔNG TIN TOÀN CẦU
+Sau bài học này em sẽ:
+• Trình bày sơ lược được các khái niệm World Wide Web, website, địa chỉ của website, trình duyệt.
+• Xem và nêu được các thông tin chính trên trang web cho trước.
+• Khai thác được thông tin trên một số trang web thông dụng: tra từ điển, xem tin thời tiết, thời sự,...
+Khi truy cập Internet, em sẽ bước vào một thế giới thông tin vô cùng rộng lớn. Các trang thông tin trên Internet sẽ đưa em đi từ những câu chuyện hấp dẫn đến những bản nhạc du dương, từ những hình ảnh đẹp đến những kho tri thức quý giá. Các trang thông tin được nối với nhau tạo thành một mạng giống như mạng nhện khổng lồ bao trùm lên cả thế giới nên nó được gọi là World Wide Web hay mạng thông tin toàn cầu. Đối với người sử dụng, mạng thông tin toàn cầu là một dịch vụ trên Internet.
+1. TỔ CHỨC THÔNG TIN TRÊN INTERNET
+Hoạt động 1 Tìm hiểu cách tổ chức thông tin
+Thảo luận với bạn:
+
+Thông tin trong một cuốn sách được tổ chức như thế nào?
+Em đã xem thông tin trên Internet chưa? Trên Internet có những dạng thông tin gì?
+
+Kho thông tin khổng lồ trên Internet được tạo nên từ nhiều trang web.
+• Trang siêu văn bản (Hypertext) là trang văn bản đặc biệt, tích hợp nhiều dạng dữ liệu khác nhau như văn bản, hình ảnh, âm thanh, video,... và các liên kết trở đến vị trí khác trong trang hay các trang web khác.
+• Mỗi trang web là một trang siêu văn bản được gán cho một địa chỉ truy cập trên Internet.
+• Mỗi website là tập hợp các trang web liên quan và được truy cập thông qua một địa chỉ.
+Hình 3.1. Hình minh họa một website
+• Mỗi website do một người hoặc một tổ chức quản lí. Trang chủ (homepage) của website là trang được mở ra đầu tiên khi truy cập website đó. Địa chỉ của trang chủ chính là địa chỉ của website.
+• Hệ thống các website trên Internet tạo thành Mạng thông tin toàn cầu.
+Ví dụ:
+http://thieunien.vn là địa chỉ của website báo Thiếu niên Tiền phong.
+https://vi.wikipedia.org là địa chỉ trang chủ của website Bách khoa toàn thư mở tiếng Việt.
+https://vi.wikipedia.org/wiki/Internet là địa chỉ của trang web về Internet trong website Bách khoa toàn thư mở tiếng Việt.
+Hộp kiến thức
+• Thông tin trên Internet được tạo nên từ nhiều trang web kết nối với nhau bởi các liên kết. Mỗi trang web có địa chỉ truy cập riêng.
+• Website là một tập hợp các trang web liên quan được truy cập thông qua một địa chỉ. Địa chỉ của trang chủ là địa chỉ của website.
+• World Wide Web là mạng thông tin toàn cầu, liên kết các website trên Internet.
+Câu hỏi
+
+Em hãy chọn phương án đúng.
+Trang siêu văn bản là:
+A. Trang văn bản thông thường không chứa liên kết.
+B. Trang văn bản đặc biệt tích hợp nhiều dạng dữ liệu khác nhau và chứa các liên kết.
+C. Trang văn bản đặc biệt tích hợp nhiều dạng dữ liệu khác nhau không chứa liên kết.
+Hãy nêu địa chỉ một số website có nội dung phục vụ việc học tập.
+
+2. TRÌNH DUYỆT
+• Người sử dụng muốn truy cập các website thì cần phải sử dụng một phần mềm ứng dụng được gọi là trình duyệt (web browser).
+• Một số trình duyệt được dùng phổ biến là Mozilla Firefox, Google Chrome, Safari, Cốc cốc, Microsoft Edge,...
+• Các trình duyệt có các chức năng chính và cách sử dụng tương tự nhau. Người sử dụng có thể cài đặt và sử dụng nhiều trình duyệt trên một máy tính.
+• Để truy cập một trang web, ta có thể nhập địa chỉ của trang đó vào thanh địa chỉ của trình duyệt.
+• Trang web có chứa các liên kết chỉ dẫn tới các trang web khác. Nháy chuột vào liên kết để chuyển tới trang web được xác định bởi liên kết đó. Hoạt động di chuyển theo các liên kết được gọi là duyệt web. Quá trình này cho phép người sử dụng xem các trang web để lấy thông tin.
+• Khi di chuyển con trỏ chuột vào liên kết, biểu tượng con trỏ chuột thường chuyển thành hình bàn tay.
+Câu hỏi
+Em hãy nêu tên một số trình duyệt em đã sử dụng và cho biết chức năng chính của trình duyệt.
+LUYỆN TẬP
+
+Em hãy mở trình duyệt và truy cập một trang web quen thuộc. Nháy vào một liên kết và cho biết em đã chuyển đến trang nào.
+Em hãy liệt kê ít nhất ba website em thường truy cập để học tập hoặc giải trí.
+
+VẬN DỤNG
+Em hãy chọn một chủ đề em quan tâm (ví dụ: động vật, lịch sử, khoa học...) và tìm một website cung cấp thông tin về chủ đề đó. Ghi lại địa chỉ website và nêu ngắn gọn những thông tin chính em thu thập được.
+
+BÀI 7
+TÌM KIẾM THÔNG TIN TRÊN INTERNET
+Sau bài học này em sẽ:
+• Biết cách sử dụng công cụ tìm kiếm trên Internet.
+• Biết cách đặt từ khóa tìm kiếm hiệu quả.
+• Tìm được thông tin cần thiết trên Internet.
+Hoạt động 1 Tìm kiếm thông tin
+
+Em thường tìm thông tin trên Internet bằng cách nào?
+Theo em, từ khóa tìm kiếm quan trọng như thế nào?
+
+Công cụ tìm kiếm (search engine) là dịch vụ giúp người dùng tìm kiếm thông tin trên Internet. Công cụ tìm kiếm phổ biến nhất là Google.
+Cách sử dụng công cụ tìm kiếm
+
+Mở trình duyệt và truy cập trang chủ của công cụ tìm kiếm (ví dụ: www.google.com).
+Gõ từ khóa vào ô tìm kiếm rồi nhấn Enter.
+Công cụ sẽ trả về danh sách các trang web liên quan (kết quả tìm kiếm).
+
+Mẹo đặt từ khóa tìm kiếm hiệu quả
+• Sử dụng từ khóa cụ thể, rõ ràng (ví dụ: “lịch sử Điện Biên Phủ” thay vì chỉ “lịch sử”).
+• Sử dụng dấu ngoặc kép để tìm cụm từ chính xác (“thiết bị điện tử”).
+• Thêm từ “site:” để tìm trong một website cụ thể (site:vi.wikipedia.org).
+• Sử dụng dấu trừ (-) để loại trừ từ không mong muốn.
+Hộp kiến thức
+• Công cụ tìm kiếm giúp tìm nhanh thông tin trên Internet.
+• Từ khóa tìm kiếm càng cụ thể thì kết quả càng chính xác và hữu ích.
+Câu hỏi
+
+Em hãy mở Google và tìm thông tin về “máy tính bảng”. Ghi lại ba trang web đầu tiên xuất hiện.
+Nếu muốn tìm công thức tính diện tích hình tròn, em sẽ gõ từ khóa nào?
+
+LUYỆN TẬP
+Em hãy sử dụng công cụ tìm kiếm để trả lời các câu hỏi sau:
+a) Ai là người phát minh ra máy tính?
+b) Thời tiết hôm nay ở Đà Nẵng như thế nào?
+c) Lịch thi vào lớp 10 năm nay của trường em.
+VẬN DỤNG
+Em hãy chuẩn bị một bài thuyết trình ngắn về một chủ đề em thích (ví dụ: robot, môi trường, thể thao). Sử dụng công cụ tìm kiếm để thu thập thông tin và hình ảnh cho bài thuyết trình.
+
+BÀI 8
+THƯ ĐIỆN TỬ
+Sau bài học này em sẽ:
+• Biết cách tạo và sử dụng thư điện tử.
+• Biết cách soạn, gửi và nhận thư điện tử.
+• Hiểu một số quy tắc sử dụng thư điện tử an toàn và lịch sự.
+Hoạt động 1 Thư điện tử
+
+Em đã từng gửi thư điện tử chưa?
+Theo em, thư điện tử có ưu điểm gì so với thư giấy?
+
+Thư điện tử (email) là cách gửi thư qua Internet. Mỗi người có một địa chỉ email riêng (ví dụ: tenban@gmail.com).
+Cách tạo tài khoản email
+
+Truy cập trang web của nhà cung cấp (Gmail, Yahoo, Outlook...).
+Đăng kí bằng số điện thoại hoặc tài khoản khác.
+Tạo tên người dùng và mật khẩu.
+
+Cách gửi thư điện tử
+
+Mở hộp thư, chọn “Soạn thư”.
+Nhập địa chỉ người nhận, tiêu đề, nội dung.
+Có thể đính kèm file (ảnh, tài liệu...).
+Nhấn “Gửi”.
+
+Quy tắc sử dụng thư điện tử
+• Viết rõ ràng, lịch sự.
+• Không gửi thông tin cá nhân nhạy cảm cho người lạ.
+• Không mở file đính kèm từ người lạ để tránh virus.
+• Xóa thư rác thường xuyên.
+Hộp kiến thức
+• Thư điện tử giúp gửi nhận thông tin nhanh chóng, miễn phí, có thể đính kèm file.
+• Cần sử dụng email an toàn và có trách nhiệm.
+LUYỆN TẬP
+
+Em hãy tạo một tài khoản email (nếu chưa có) và gửi một thư cho bạn hoặc thầy cô.
+Liệt kê ít nhất ba ưu điểm và hai lưu ý khi sử dụng email.
+
+VẬN DỤNG
+Em hãy soạn một thư điện tử gửi cho bạn bè để chia sẻ một bài học thú vị vừa học được ở môn Tin học, kèm theo một hình ảnh minh họa.
+CHỦ ĐỀ 4. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ
+BÀI 9
+AN TOÀN THÔNG TIN TRÊN INTERNET
+Sau bài học này em sẽ:
+• Nhận biết được một số rủi ro khi sử dụng Internet.
+• Nêu được một số biện pháp bảo vệ an toàn thông tin cá nhân trên Internet.
+• Hiểu tầm quan trọng của việc sử dụng Internet an toàn và có trách nhiệm.
+Hoạt động 1 Rủi ro trên Internet
+
+Em đã từng gặp tình huống nào khi sử dụng Internet mà em cảm thấy không an toàn?
+Theo em, những rủi ro đó có thể là gì?
+
+Khi sử dụng Internet, em có thể gặp một số rủi ro như:
+• Thông tin cá nhân bị lộ.
+• Nhận được thư rác, tin giả hoặc liên kết độc hại.
+• Máy tính bị nhiễm virus, phần mềm độc hại.
+• Bị lừa đảo trực tuyến (lừa đảo tài khoản, yêu cầu chuyển tiền...).
+• Bị theo dõi hoặc quấy rối trực tuyến.
+1. MỘT SỐ RỦI RO KHI SỬ DỤNG INTERNET
+Hộp kiến thức
+• Internet mang lại nhiều lợi ích nhưng cũng tiềm ẩn rủi ro nếu em không cẩn thận.
+• Rủi ro phổ biến: lộ thông tin cá nhân, virus, lừa đảo, tin giả, quấy rối trực tuyến.
+Câu hỏi
+Em hãy nêu ví dụ về một rủi ro em đã nghe hoặc gặp phải khi sử dụng Internet.
+2. CÁCH BẢO VỆ AN TOÀN THÔNG TIN CÁ NHÂN
+Để sử dụng Internet an toàn, em cần thực hiện các biện pháp sau:
+• Không chia sẻ thông tin cá nhân (họ tên, địa chỉ, số điện thoại, mật khẩu, ảnh cá nhân...) với người lạ.
+• Sử dụng mật khẩu mạnh (kết hợp chữ cái, số, ký tự đặc biệt) và thay đổi mật khẩu định kỳ.
+• Không click vào liên kết lạ hoặc tải file từ nguồn không rõ.
+• Bật chế độ bảo mật trên trình duyệt và sử dụng phần mềm diệt virus.
+• Không đăng nhập tài khoản trên máy tính công cộng.
+• Báo ngay cho thầy cô hoặc phụ huynh khi gặp tình huống đáng ngờ.
+Hoạt động 2 Bảo vệ thông tin
+Thảo luận nhóm:
+
+Em sẽ làm gì nếu nhận được tin nhắn yêu cầu cung cấp mật khẩu?
+Liệt kê 3 quy tắc em sẽ luôn tuân thủ khi dùng Internet.
+
+Hộp kiến thức
+• Bảo vệ thông tin cá nhân là trách nhiệm của mỗi người sử dụng Internet.
+• Sử dụng Internet an toàn giúp em tránh rủi ro và tận hưởng lợi ích của công nghệ.
+LUYỆN TẬP
+
+Em hãy chọn các biện pháp đúng để bảo vệ an toàn thông tin:
+A. Chia sẻ mật khẩu với bạn thân.
+B. Sử dụng mật khẩu mạnh và thay đổi thường xuyên.
+C. Click vào mọi liên kết nhận được.
+D. Bật phần mềm diệt virus.
+Em hãy viết một quy tắc an toàn Internet mà em thấy quan trọng nhất.
+
+VẬN DỤNG
+Em hãy tạo một poster (có thể vẽ tay hoặc dùng máy tính) với khẩu hiệu và các quy tắc sử dụng Internet an toàn để dán ở lớp hoặc chia sẻ với gia đình.
+
+CHỦ ĐỀ 5. ỨNG DỤNG TIN HỌC
+BÀI 10
+SƠ ĐỒ TƯ DUY
+Sau bài học này em sẽ:
+• Biết sơ đồ tư duy là gì và lợi ích của nó.
+• Biết cách vẽ sơ đồ tư duy đơn giản bằng tay hoặc phần mềm.
+• Áp dụng sơ đồ tư duy để tóm tắt một chủ đề.
+Hoạt động 1 Sơ đồ tư duy
+
+Khi học một bài dài, em thường tóm tắt như thế nào?
+Theo em, vẽ sơ đồ có giúp nhớ bài tốt hơn không?
+
+Sơ đồ tư duy (mind map) là cách trình bày ý tưởng dưới dạng hình ảnh, với chủ đề chính ở giữa và các nhánh phụ tỏa ra xung quanh.
+Lợi ích của sơ đồ tư duy
+• Giúp não bộ hoạt động logic và sáng tạo.
+• Dễ nhớ, dễ ôn tập.
+• Tổ chức thông tin rõ ràng.
+• Có thể dùng cho học tập, lập kế hoạch, ghi chép...
+Cách vẽ sơ đồ tư duy
+
+Viết chủ đề chính ở giữa trang giấy.
+Vẽ các nhánh chính (ý lớn).
+Vẽ nhánh phụ cho chi tiết.
+Sử dụng màu sắc, hình vẽ, biểu tượng để dễ nhớ.
+
+Em có thể vẽ bằng tay hoặc dùng phần mềm MindMaple Lite.
+Hộp kiến thức
+• Sơ đồ tư duy giúp tóm tắt và tổ chức thông tin một cách trực quan.
+• Sử dụng màu sắc, hình ảnh và từ khóa ngắn gọn để sơ đồ sinh động và dễ nhớ.
+Câu hỏi
+
+Chủ đề chính của sơ đồ tư duy thường đặt ở đâu?
+Em hãy nêu một lợi ích của sơ đồ tư duy khi ôn bài.
+
+LUYỆN TẬP
+Em hãy vẽ sơ đồ tư duy tóm tắt bài “An toàn thông tin trên Internet” (Bài 9).
+VẬN DỤNG
+Em hãy chọn một bài học ở môn khác (Lịch sử, Địa lý, Khoa học...) và vẽ sơ đồ tư duy tóm tắt nội dung bài đó.
