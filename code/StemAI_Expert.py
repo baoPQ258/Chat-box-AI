@@ -7,13 +7,22 @@ import re
 import math
 from collections import Counter
 from dotenv import load_dotenv
-load_dotenv()
-api_key = os.getenv("API_KEY") # Code sẽ lấy key từ file .env
 
+import streamlit.components.v1 as components
+import hashlib
+import io
+from gtts import gTTS
+import base64
+load_dotenv()
+api_key = st.secrets.get("GROQ_API_KEY") or os.getenv("GROQ_API_KEY")
+client = Groq(api_key=api_key)
 # ============================================================
 # 1. CẤU HÌNH
 # ============================================================
-DATA_DIR = "data"
+# Lấy đường dẫn của thư mục chứa file script hiện tại
+current_dir = os.path.dirname(os.path.abspath(__file__))
+# Kết nối với thư mục data nằm cùng cấp với file script
+DATA_DIR = os.path.join(current_dir, "data")
 MAX_CONTEXT_CHARS = 12000
 CHUNK_SIZE = 800    # Tăng lên để giữ tiêu đề + nội dung cùng 1 chunk
 CHUNK_OVERLAP = 150
@@ -26,11 +35,6 @@ TOP_K_CHUNKS = 8
 client = Groq(api_key=api_key)
 
 
-import streamlit.components.v1 as components
-import hashlib
-import io
-from gtts import gTTS
-import base64
 
 # ============================================================
 # 3. GOOGLE TTS TIẾNG VIỆT
