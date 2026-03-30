@@ -459,11 +459,11 @@ def find_relevant_context(query: str, books: dict) -> tuple:
 # ============================================================
 # 4. SYSTEM PROMPT
 # ============================================================
-_PERSONA = """Bạn là thầy Minh — giáo viên Tin học cấp 2 với hơn 20 năm đứng lớp tại trường THCS.
+_PERSONA = """Bạn là thầy  — giáo viên Tin học cấp 2 với hơn 20 năm đứng lớp tại trường THCS.
 Bạn đã dạy qua hàng nghìn học sinh, từng là tổ trưởng tổ Tin học, và rất yêu nghề.
-Xưng "thầy", gọi học sinh là "em". Ngôn ngữ gần gũi, ấm áp.
+Xưng "Tôi", gọi học sinh là "Bạn". Ngôn ngữ gần gũi, ấm áp.
 Chỉ trả lời về môn Tin học cấp 2. Nếu hỏi môn khác → từ chối thân thiện:
-  "Thầy chỉ dạy Tin thôi em ơi, câu đó em hỏi thầy/cô chuyên môn khác nhé 😊"
+  "Tôi chỉ dạy Tin thôi bạn ơi, câu đó bạn hỏi thầy/cô chuyên môn khác nhé 😊"
 Dùng emoji vừa phải: 💡 quan trọng · ✅ kết luận · ⚠️ lưu ý."""
 
 def _book_section(context: str) -> str:
@@ -531,7 +531,7 @@ CHẾ ĐỘ DẠY HỌC: GIẢI THÍCH TRỰC TIẾP
 # 5. GIAO DIỆN
 # ============================================================
 st.set_page_config(
-    page_title="Thầy Minh - Giáo viên Tin học",
+    page_title="ROBOT TIN HỌC - TRỢ LÍ HỌC TẬP",
     layout="wide",
     page_icon="👨‍🏫",
     initial_sidebar_state="expanded"
@@ -619,7 +619,7 @@ with st.sidebar:
 # ============================================================
 # 7. VÙNG CHAT
 # ============================================================
-st.title("👨‍🏫 Thầy Minh — Giáo viên Tin học")
+st.title("👨‍🏫 ROBOT TIN HỌC - TRỢ LÍ HỌC TẬP")
 st.markdown('<span class="teacher-badge">🎓 20+ năm kinh nghiệm · Chuyên Tin học cấp 2</span>',
             unsafe_allow_html=True)
 mode_label = "📖 Giải thích thẳng" if teaching_mode == "direct" else "🤔 Socratic"
@@ -634,21 +634,21 @@ if not st.session_state.messages:
     with st.chat_message("assistant", avatar="👨‍🏫"):
         source = f"{len(books)} cuốn sách giáo khoa" if books else "kiến thức chuyên môn của thầy"
         st.markdown(f"""
-Chào em! 👋 Thầy là thầy Minh, giáo viên Tin học.
+Chào Bạn! 👋 Tôi là ROBOT Tin học, là trợ lí học tập của các bạn.
 
-Thầy đã dạy môn này hơn 20 năm rồi, từ hồi máy tính còn dùng đĩa mềm đấy! 😄
+Tôi đã có rất nhiều kiến thức với tin học, từ hồi máy tính còn dùng đĩa mềm đấy! 😄
 
-Hôm nay thầy đang có {source} để hỗ trợ em.
+Hôm nay tôi đang có {source} để hỗ trợ bạn.
 
-{"🤔 Hôm nay thầy dùng **phương pháp Socratic** — thầy sẽ hỏi ngược lại để em tự khám phá nhé! Đừng chờ thầy cho đáp án liền — hãy suy nghĩ cùng thầy! 😄" if teaching_mode == "socratic" else "Em cứ hỏi thẳng vào vấn đề nhé!"}
+{"🤔 Hôm nay tôi dùng **phương pháp Socratic** — tôi sẽ hỏi ngược lại để bạn tự khám phá nhé! Đừng chờ tôi cho đáp án liền — hãy suy nghĩ cùng tôi! 😄" if teaching_mode == "socratic" else "Bạn cứ hỏi thẳng vào vấn đề nhé!"}
 
-**Thầy chuyên:**
+**Tôi chuyên:**
 - 💡 Giải thích khái niệm Tin học từ cơ bản đến nâng cao
 - 💻 Hướng dẫn lập trình (Scratch, Python, Pascal...)
 - 🔍 Tra cứu nội dung sách giáo khoa
 - ✅ Ôn tập, luyện đề kiểm tra
 
-Em hỏi đi, đừng ngại nhé!
+Bạn hỏi đi, đừng ngại nhé!
         """)
 
 for i, msg in enumerate(st.session_state.messages):
@@ -664,13 +664,13 @@ for i, msg in enumerate(st.session_state.messages):
 # ============================================================
 # 8. XỬ LÝ CÂU HỎI
 # ============================================================
-if prompt := st.chat_input("Em hỏi thầy Minh nhé..."):
+if prompt := st.chat_input("Bạn hỏi thầy Tôi nhé..."):
 
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user", avatar="🧑‍🎓"):
         st.markdown(prompt)
 
-    with st.spinner("📚 Thầy đang tra cứu sách..."):
+    with st.spinner("📚 Tôi đang tra cứu sách..."):
         context, sources = find_relevant_context(prompt, books)
 
     system_prompt = build_system_prompt(context, bool(books), mode=teaching_mode)
