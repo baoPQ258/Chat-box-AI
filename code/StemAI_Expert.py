@@ -78,7 +78,7 @@ def tts_widget(text: str, msg_id: str, rate: float = 0.95) -> None:
            color:#444;font-size:13px;cursor:pointer;transition:all 0.2s;"
     onmouseover="this.style.background='#e8f0fe';this.style.borderColor='#1a73e8'"
     onmouseout="this.style.background='#f6f8fa';this.style.borderColor='#d0d7de'">
-    🔊 Nghe thầy đọc
+    🔊 Nghe tôi đọc
   </button>
   <input type="range" id="tts-speed-{msg_id}" min="0.5" max="1.5" step="0.1"
     value="{rate}"
@@ -115,8 +115,8 @@ def tts_widget(text: str, msg_id: str, rate: float = 0.95) -> None:
   }};
 
   audio.onplay  = () => {{ btn.innerHTML = '⏹ Dừng đọc';      btn.style.background='#e8f0fe'; }};
-  audio.onpause = () => {{ btn.innerHTML = '🔊 Nghe thầy đọc'; btn.style.background='#f6f8fa'; }};
-  audio.onended = () => {{ btn.innerHTML = '🔊 Nghe thầy đọc'; btn.style.background='#f6f8fa'; }};
+  audio.onpause = () => {{ btn.innerHTML = '🔊 Nghe tôi đọc'; btn.style.background='#f6f8fa'; }};
+  audio.onended = () => {{ btn.innerHTML = '🔊 Nghe tôi đọc'; btn.style.background='#f6f8fa'; }};
   audio.playbackRate = {rate};
 }})();
 </script>
@@ -602,7 +602,7 @@ with st.sidebar:
     # Chế độ dạy học
     st.subheader("🎓 Chế độ dạy học")
     teaching_mode = st.radio(
-        "Chọn cách thầy phản hồi:",
+        "Chọn cách tôi phản hồi:",
         options=["direct", "socratic"],
         format_func=lambda x: "📖 Giải thích thẳng" if x == "direct" else "🤔 Socratic — tự khám phá",
         index=0,
@@ -664,7 +664,7 @@ for i, msg in enumerate(st.session_state.messages):
 # ============================================================
 # 8. XỬ LÝ CÂU HỎI
 # ============================================================
-if prompt := st.chat_input("Bạn hỏi thầy Tôi nhé..."):
+if prompt := st.chat_input("Bạn hỏi tôi nhé..."):
 
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user", avatar="🧑‍🎓"):
